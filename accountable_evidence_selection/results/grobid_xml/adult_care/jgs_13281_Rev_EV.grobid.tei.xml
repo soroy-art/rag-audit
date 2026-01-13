@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">American Geriatrics Society Abstracted Clinical Practice Guideline for Postoperative Delirium in Older Adults</title>
+				<funder>
+					<orgName type="full">Beth Israel Deaconess Medical Center, Boston, MA</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Pelvalon</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Covidien</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">American Geriatrics Society Geriatrics-for-Specialists Initiative (AGS-GSI</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">ADRC</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">University of Colorado School of Medicine</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">MedEd Portal/Josiah Macy Foundation IPE Award</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Harvard Medical School</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">UpToDate</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">John A. Hartford Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">University of California San Francisco</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Institutes of Health</orgName>
+					<orgName type="abbreviated">NIH</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Salix Pharma, Ono Pharma: Fecal Incontinence and Irritable Bowel Syndrome</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Medtronics, Inc.</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">FAAN</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">AGS Foundation for Anesthesia Education and Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Beth Israel Deaconess Medical Center</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Institute of Nursing Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Committee for Quality Assurance</orgName>
+					<orgName type="abbreviated">NCQA</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2014-12-12">2014-12-12</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Mary</forename><surname>Samuel</surname></persName>
+							<email>mjsamuel@americangeriatrics.org</email>
+							<affiliation key="aff0">
+								<orgName type="department">American Geriatrics Society</orgName>
+								<address>
+									<settlement>New York City</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">American Geriatrics Society</orgName>
+								<address>
+									<addrLine>40 Fulton Street 18th Floor</addrLine>
+									<postCode>10024</postCode>
+									<settlement>New York</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">American Geriatrics Society Abstracted Clinical Practice Guideline for Postoperative Delirium in Older Adults</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the American Geriatrics Society</title>
+						<title level="j" type="abbrev">J American Geriatrics Society</title>
+						<idno type="ISSN">0002-8614</idno>
+						<idno type="eISSN">1532-5415</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">63</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="142" to="150"/>
+							<date type="published" when="2014-12-12" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">38A3D7623ECAF9BEBAEFC975111C81B7</idno>
+					<idno type="DOI">10.1111/jgs.13281</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2025-11-07T18:11+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>delirium</term>
+					<term>clinical practice guidelines</term>
+					<term>postoperative delirium</term>
+					<term>delirium prevention</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The abstracted set of recommendations presented here provides essential guidance both on the prevention of postoperative delirium in older patients at risk of delirium and on the treatment of older surgical patients with delirium, and is based on the 2014 American Geriatrics Society (AGS) Guideline. The full version of the guideline, American Geriatrics Society Clinical Practice Guideline for Postoperative Delirium in Older Adults is available at the website of the AGS. The overall aims of the study were twofold: first, to present nonpharmacologic and pharmacologic interventions that should be implemented perioperatively for the prevention of postoperative delirium in older adults; and second, to present nonpharmacologic and pharmacologic interventions that should be implemented perioperatively for the treatment of postoperative delirium in older adults. Prevention recommendations focused on primary prevention (i.e., preventing delirium before it occurs) in patients who are at risk for postoperative delirium (e.g., those identified as moderate-to-high risk based on previous risk stratification models such as the National Institute for Health and Care Excellence (NICE) guidelines, Delirium: Diagnosis, Prevention and Management. Clinical Guideline 103; London (UK): 2010 July 29). For management of delirium, the goals of this guideline are to decrease delirium severity and duration, ensure patient safety and improve outcomes. J Am Geriatr Soc 2014.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>P ostoperative delirium is a common, life-threatening problem in older adults and is recognized as the most common postoperative complication in this age group. <ref type="bibr" target="#b1">1,</ref><ref type="bibr">2ET</ref> * Delirium has been shown to be preventable in up to 40% of cases in some hospitalized older adult populations, 3ET,4ET a fact that makes delirium a prime candidate for prevention interventions targeted to improve the outcomes of older adults after surgery. <ref type="bibr" target="#b5">5</ref> The clinical presentation of delirium varies. Motoric subtypes can vary from hypoactive (e.g., withdrawn, decreased motor activity) to hyperactive (e.g., agitation, heightened arousal, aggression). Mixed delirium presents with the range of both hyperactive and hypoactive symptoms. Delirium is reported to remain undiagnosed in more than half of clinical cases, <ref type="bibr" target="#b6">6</ref> largely because hypoactive delirium is typically unrecognized or misattributed to dementia.</p><p>A recent survey of surgical specialists carried out by the American Geriatrics Society Geriatrics-for-Specialists Initiative (AGS-GSI) identified delirium as the most "essential" topic in the care of older adults, and as the least understood geriatric clinical issue for which the knowledge gap for optimal management was greatest. <ref type="bibr" target="#b7">7</ref> This survey, along with a wealth of recent new evidence, prompted the AGS to initiate this practice guideline project with support from a grant to the AGS-GSI from the John A. Hartford Foundation.</p><p>The abstracted set of recommendations presented here provides essential guidance both on the prevention of postoperative delirium in older patients at risk of delirium and on the treatment of older surgical patients with delirium, and is based on the 2014 AGS Guideline. The full version of the guideline, American Geriatrics Society Clinical Practice Guideline for Postoperative Deliriumin in Older Adults is available at www.GeriatricsCareOnline.org. The overall aims of the study were twofold: first, to present nonpharmacologic and pharmacologic interventions that should be implemented perioperatively for the prevention of postoperative delirium; and second, to present nonpharmacologic and pharmacologic interventions that should be implemented perioperatively for the treatment of postoperative delirium. Prevention recommendations focused on primary prevention (i.e., preventing delirium before it occurs) in patients who are at risk for postoperative delirium (e.g., those identified as moderate-to-high risk based on previous risk stratification models such as the National Institute for Health and Care Excellence (NICE) guidelines). <ref type="bibr" target="#b8">8</ref> For management of delirium, the goals of this guideline are to decrease delirium severity and duration, ensure patient safety, and improve outcomes.</p><p>The guideline is limited to the aims described. Some of these recommendations will not apply to specific areas of care, such as intensive care unit (ICU) sedation, palliative care, and nursing home settings. Diagnosis and screening are not addressed in these guidelines. Other topics, such as prescription of melatonin to prevent delirium, were considered but not addressed due to a lack of evidence. 9ET,10ET Since delirium is a burgeoning area of clinical investigation, regular updates of the recommendations are planned as new evidence becomes available.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head><p>For this guideline, the AGS employed a well-tested framework for development of clinical practice guidelines. <ref type="bibr" target="#b11">11</ref> There were three components to the framework. First, an interdisciplinary expert panel on delirium was created. Second, a development process was conducted that included a systematic literature review and evaluation of the evidence by the expert panel. The quality rating system was based on the Cochrane Risk of Bias 12 and Jadad scoring system. <ref type="bibr" target="#b13">13</ref> The Institute of Medicine (IOM) reports on Systematic Reviews <ref type="bibr" target="#b14">14</ref> and Trustworthy Clinical Guideline 15 provided the standards followed throughout our process and guided the framework. Third, the guideline document was written and revised initially through committee subgroups and subsequently achieved full consensus of the panel on all recommendation statements. Following manuscript preparation, the panel solicited an external peer review and completed an open comment period.</p><p>The interdisciplinary, 23-member expert panel consisted of professionals with an interest in geriatrics from the fields of general surgery, anesthesiology, critical care medicine, emergency medicine, internal medicine, geriatric medicine, gynecology, hospital medicine, neurology, nursing, orthopedic surgery, ophthalmology, otolaryngology, palliative care, pharmacy, psychiatry, physical medicine and rehabilitation, cardiothoracic surgery, and vascular surgery.</p><p>The literature review, comprehensive searches of nonpharmacologic and pharmacologic interventions for the prevention or treatment of postoperative delirium, preparation of evidence tables and quality ratings for each study selected are described fully in the AGS Guideline. Citations for which evidence tables were created are denoted with "(ET)" in the text and bibliography. The evidence tables were then used by the panelists to independently rate the quality of evidence and strength of recommendation for each recommendation statement using the American College of Physicians' Guideline Grading System <ref type="bibr" target="#b16">16,</ref><ref type="bibr" target="#b17">17</ref> (Table <ref type="table">S1</ref>).</p><p>The criteria used by the panel to designate the strength of recommendation appear in Table <ref type="table">S1</ref>. In all cases, the strength of recommendation was based on carefully balancing the benefits of treatment against the potential harms. For example, strong recommendations were made when the panel determined that the benefits clearly outweighed harms (such as with nonpharmacologic interventions) or when the potential harms clearly outweighed the benefits (such as with benzodiazepine treatment).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RECOMMENDATIONS</head><p>A complete list of all recommendations is included in Table <ref type="table">S2</ref>. The table lists the recommendations by descending order of strength of recommendation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>NONPHARMACOLOGIC INTERVENTIONS FOR THE PREVENTION AND/OR TREATMENT OF POSTOPERATIVE DELIRIUM IN OLDER SURGICAL PATIENTS</head><p>Nonpharmacologic interventions were defined as including behavioral interventions, monitoring devices, rehabilitation, environmental adaptations, psychological and social supports, medication reductions, complementary and alternative medicine, and system and process changes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I. Education Targeted to Healthcare Professionals About Delirium</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendation</head><p>Healthcare systems and hospitals should implement formal educational programs with ongoing formal and/or informal refresher sessions for healthcare professionals on delirium in at-risk older surgical adults to improve understanding of its epidemiology, assessment, prevention, and treatment (strength of recommendation: strong; quality of evidence: low).</p><p>A. Evidence for Recommendation: Educational programs have been found to consistently reduce hospital delirium. A randomized trial found that a 2-day educational intervention reduced persistent delirium on hospital day 7 compared to usual care. <ref type="bibr">18ET</ref> A casecontrol study of hospitalized patients 70 years and older reported that an educational intervention of a 1hour interactive presentation, written management guidelines and follow-up sessions reduced prevalent delirium. <ref type="bibr">19ET</ref> Another study of older hospitalized patients with delirium risk factors found that a prevention protocol reduced delirium incidence. <ref type="bibr">20ET</ref>  A strong strength of recommendation is given based on the consistency of the findings from 10 studies 3ET,24-32ET and the moderate to high quality level of most of these studies. 3ET,24-31ET The strength of the recommendation is further supported by the "dose-response" evidence for effectiveness of the interventions. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IV. Identify and Manage Causes of Delirium</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendation</head><p>The healthcare professional should perform a medical evaluation, make medication and/or environmental adjustments, and order appropriate diagnostic tests and clinical consultations after an older adult has been diagnosed with postoperative delirium to identify and manage underlying contributors to delirium (strength of recommendation: strong; quality of evidence: low).</p><p>A. Evidence/Rationale for Recommendation: Delays to initiation of treatment have been found to result in possible prolongation of delirium, which is associated with worse cognitive and functional recovery, 42 and higher inpatient morbidity and mortality. <ref type="bibr">43</ref> In four multicomponent intervention studies which included an evaluation and treatment of the underlying cause(s) of delirium, interventions were reported to significantly decrease delirium duration 35ET,40ET and severity, <ref type="bibr">35ET</ref> improve Mini-Mental State Examination scores postoperatively <ref type="bibr">35ET</ref> and at 6-month follow-up, <ref type="bibr">40ET</ref> decrease acute care length of stay, <ref type="bibr">44ET</ref> and decrease persistent delirium at hospital discharge. <ref type="bibr">44ET</ref> Trends toward decreased length of stay <ref type="bibr">45ET</ref> and decreased mortality <ref type="bibr">44ET</ref> were also reported. However, findings were not consistent across all studies, and three studies were rated as low quality with a high risk of bias. B. Potential Harms of Recommendation: This recommendation balances the risks of delay in treatment for underlying cause(s) of delirium with the risks and costs of diagnostic tests and procedures, as well as the possibility of pain and infection. Overuse of neuroimaging (computed tomography (CT)/magnet resonance imaging (MRI)) is an additional potential risk. For agitated patients, sedation and/or restraints may be required to obtain these studies; however, both sedating medications and restraints may exacerbate delirium. The AGS recommends avoiding physical restraints to manage behavioral symptoms of hospitalized older adults with delirium. <ref type="bibr">46</ref> See complete harms statement in the AGS Delirium Guideline at www.Ger-iatricsCareOnline.org.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>V. Specialized Hospital Units</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendation</head><p>There is insufficient evidence to recommend for or against hospitals creating, and healthcare professionals using, specialized hospital units for the inpatient care of older adults with postoperative delirium to improve clinical outcomes (strength of recommendation: not applicable; quality of evidence: low).</p><p>A. Evidence for Recommendation: Five publications evaluated a variety of specialized hospital units for older adults with delirium. 47ET,48ET,49ET,50ET,51ET Overall, there was insufficient evidence to recommend for or against creation or use of specialized hospital units. This body of publications had a high risk of bias and was predominantly composed of nonrandomized, single-site studies. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendation</head><p>The anesthesia practitioner may use processed electroencephalographic (EEG) monitors of anesthetic depth during intravenous sedation or general anesthesia of older patients to reduce postoperative delirium (strength of recommendation: insufficient evidence; quality of evidence: low).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A. Evidence for Recommendation:</head><p>There is insufficient evidence to determine the net benefits or risks in the relationship of depth of anesthesia and the development of postoperative delirium. Depth of anesthesia is measured by specialized processed EEG monitors. In one small, randomized controlled trial in hip fracture patients, deeper levels of adjunctive intravenous sedation with propofol (not general anesthesia) were associated with increased rates of postoperative delirium. <ref type="bibr">52ET</ref> This finding is consistent with nonrandomized, retrospective observations. <ref type="bibr">53ET</ref> In two (nonrandomized) trials in which the anesthesiologist was able to see the Bispectral Index Monitor, patients receiving general anesthesia had lower rates of postoperative delirium. 54ET,55ET To date, there is equipoise regarding the long-term cognitive effects of intraoperative depth of anesthesia. 54ET,55ET B. Potential Harms of Recommendation: The safety of conducting "light anesthesia" in patients who require general anesthesia has not been demonstrated. Lighter anesthesia may lead to several adverse events, including intraoperative recall or movement, sympathetic stimulation and adverse hemodynamic changes, particularly in older patients or in those with vascular disease. Use of processed EEG monitors may increase cost and cause the anesthesia practitioner to overfocus on a single clinical parameter.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>VII. Regional Anesthesia</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendation</head><p>A healthcare professional trained in regional anesthetic injection may consider providing regional anesthetic at the time of surgery and postoperatively to improve pain control and prevent delirium in older adults (strength of recommendation: weak; quality of evidence: low).</p><p>A. Evidence for Recommendation: Two low-quality clinical studies with high risk of bias, one of hip fracture patients <ref type="bibr">56ET</ref> and the other of patients undergoing total knee replacement 57ET found that regional anesthesia was beneficial in reducing the incidence of postoperative delirium. Findings cannot be readily generalized, however, since both studies included only patients undergoing lower extremity orthopedic operations. B. Potential Harms of Recommendation: Complications of regional anesthesia, such as nerve injury, hematoma, intravascular injection, neurotoxicity, and cardiac toxicity are uncommon.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>VIII. Analgesia</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendation</head><p>Healthcare professionals should optimize postoperative pain control, preferably with nonopioid pain medications, to minimize pain in older adults to prevent delirium (strength of recommendation: strong; quality of evidence: low).</p><p>A. Evidence for Recommendation: Adequate postoperative analgesia is associated with decreased delirium. Two studies of postoperative pain in noncardiac surgery in older adults found that increased levels of pain were independently associated with a greater risk of postoperative delirium. 58ET,59ET Additional research has found an association between undertreated pain and the occurrence of delirium. <ref type="bibr">60ET</ref> The evidence for prescribing nonopioid alternatives to manage postoperative pain to reduce delirium is less compelling than the evidence that adequate pain control reduces delirium. Two studies, one of prophylactic gabapentin in spine surgery and the other using gabapentin, paracetamol (acetaminophen), and celecoxib in a fast-track surgery model reported reduced incidence of delirium with nonopioid pain management. 61ET,62ET B. Potential Harms of Recommendation: Opioid analgesics carry risks of constipation, nausea, vomiting, respiratory depression, sedation, impaired judgment, altered psychomotor function, rash, pruritis, and anaphylactic allergic reactions. Long-term opioid use can lead to dependence. Opioid dosing needs to be properly monitored, and patients must be managed for potential respiratory depression. Nonopioid medications such as gabapentin, paracetamol or acetaminophen, and nonsteroidal anti-inflammatory agents also have potential harms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IX. Avoidance of Inappropriate Medications</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendation</head><p>The prescribing practitioner should avoid medications that induce delirium postoperatively in older adults to prevent delirium (strength of recommendation: strong; quality of evidence: low).</p><p>A. Evidence for Recommendation: Relevant medications or medication classes include benzodiazepines, anticholinergics (e.g., cyclobenzaprine, oxybutynin, prochlorperazine, promethazine, tricyclic antidepressants, paroxetine and drugs with high anticholinergic properties), diphenhydramine, hydroxyzine, histamine 2 -receptor antagonists (e.g., cimetidine), sedative-hypnotics, and meperidine. Since the studies regarding specific medications provide generally low-level evidence, the current recommendation relied on the 2012 AGS Beers Criteria. <ref type="bibr" target="#b11">11</ref> Current evidence most strongly associates use of anticholinergic drugs, meperidine and benzodiazepines with increased postoperative delirium.</p><p>Studies have identified the following medications with increased delirium: diphenhydramine, 63ET meperidine, 2ET midazolam, <ref type="bibr">64ET</ref> and anticholinergic medications. <ref type="bibr">65ET</ref> Drugs that contribute to serotonin syndrome can increase delirium risk, as can the use of multiple medications (five or greater). B. Potential Harms of Recommendation: Specific conditions may warrant use of these medications. For example, a patient with a history of alcohol abuse or chronic benzodiazepine usage may require treatment with a benzodiazepine to prevent withdrawal complications, or a patient may require treatment with diphenhydramine for a severe allergic or transfusion reaction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>X. Antipsychotics Used Prophylactically to Prevent Delirium</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendation</head><p>There is insufficient evidence to recommend for or against the use of antipsychotic medications prophylactically in older surgical patients to prevent delirium (strength of recommendation: not applicable; quality of evidence: low).</p><p>A. Evidence for Recommendation: Prophylactic use of antipsychotic medications to prevent delirium in postoperative patients has limited, inconsistent, and contradictory support in the literature. Five studies found decreased incidence of delirium, 66ET,67ET,68ET,69ET,70ET and three did not. 71ET,72ET,73ET Most studies are of low quality and often have a high risk of bias.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>B. Potential Harms of Recommendation:</head><p>The potential harms associated with antipsychotic medications are numerous and include, but are not limited to, central nervous system effects (such as somnolence, extrapyramidal effects such as muscle rigidity, tremor, restlessness, swallowing difficulty, decreased seizure threshold, and neuroleptic malignant syndrome), systemic and cardiovascular effects (such as QT prolongation, dysrhythmias, sudden death, hypotension, and tachycardia), pneumonia, urinary retention, postural instability, falls, deep venous thrombosis, anticholinergic effects, syndrome of antidiuretic hormone, and metabolic effects (such as weight gain, insulin resistance, and hypertriglyceridemia). Even short-term treatment is associated with increased mortality. <ref type="bibr">74</ref> The inadvertent chronic administration of antipsychotics after inpatient initiation during an episode of delirium is an important harm. One review found that 47% of patients continued to receive the drug after discharge from the ICU and 33% as an outpatient after discharge from hospital, without a clear indication. <ref type="bibr">75</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>XI. Cholinesterase Inhibitors</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendation</head><p>In older adults not currently taking cholinesterase inhibitors, the prescribing practitioner should not newly prescribe cholinesterase inhibitors perioperatively to older adults to prevent or treat delirium (strength of recommendation: strong; quality of evidence: low).</p><p>A. Evidence for Recommendation: Newly prescribing prophylactic cholinesterase inhibitors in the perioperative setting has been found by four randomized controlled trials not to be effective in reducing incidence of postoperative delirium. 76ET,77ET,78ET,79ET They may also be associated with more adverse effects, <ref type="bibr">78ET</ref> and increased mortality risk. <ref type="bibr">80ET</ref> Two other studies found no differences in duration of delirium with cholinesterase inhibitors, 80ET,81ET and one reported a higher trend toward mortality in critically ill patients. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendation</head><p>The prescribing practitioner may use antipsychotics at the lowest effective dose for the shortest possible duration to treat patients who are severely agitated or distressed, and are threatening substantial harm to self and/or others. In all cases, treatment with antipsychotics should be employed only if behavioral interventions have failed or are not possible, and ongoing use should be evaluated daily with in-person examination of patients (strength of recommendation: weak; quality of evidence: low).</p><p>A. Evidence for Recommendation: The evidence from relevant studies is difficult to interpret because of the heterogeneity in the drugs studied, dosages administered, patient populations, outcomes examined, and scarcity of placebo-controlled, randomized clinical trials. All placebo-controlled trials testing the use of antipsychotic agents in treating delirium report using additional open-label haloperidol or other additional antipsychotic medications for agitation in both treatment and placebo groups. 83ET,84ET,85ET,86ET</p><p>Randomized controlled studies comparing antipsychotics in the absence of a placebo comparison arm do not demonstrate a difference in treatment benefit or adverse events between various antipsychotic agents. 87ET,88ET,89ET,90ET,91ET Patients of older age (&gt;75 years) were less likely to respond to antipsychotics, particularly olanzapine, than younger patients. 89ET,90ET B. Potential Harms of Recommendation: See harms statement "X. B." (above).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>XIII. Benzodiazepines</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendation</head><p>The prescribing practitioner should not use benzodiazepines as a first-line treatment of the agitated postoperative delirious patient who is threatening substantial harm to self and/or others to treat postoperative delirium except when benzodiazepines are specifically indicated (including, but not limited to, treatment of alcohol or benzodiazepine withdrawal). Treatment with benzodiazepines should be at the lowest effective dose for the shortest possible duration, and should be employed only if behavioral measures have failed or are not possible and ongoing use should be evaluated daily with in-person examination of the patient (strength of recommendation: strong; quality of evidence: low).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A. Evidence for Recommendation:</head><p>There is no evidence supporting the routine use of benzodiazepines in the treatment of delirium in hospitalized patients. A study comparing haloperidol, chlorpromazine, or lorazepam terminated the lorazepam arm early because of significant adverse effects. <ref type="bibr">91ET</ref> Substantial evidence points to increased delirium with benzodiazepines, 2ET longer delirium duration, <ref type="bibr">92ET</ref> and possible transition to delirium in ICU patients. 93ET B. Potential Harms of Recommendation: The potential harms of this recommendation include withholding treatment for conditions in which benzodiazepines are indicated, such as alcohol and benzodiazepine withdrawal.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>XIV. Pharmacologic Treatment of Hypoactive Delirium</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendation</head><p>The prescribing practitioner should not prescribe antipsychotic or benzodiazepine medications for the treatment of older adults with postoperative delirium who are not agitated and threatening substantial harm to self or others (strength of recommendation: strong; quality of evidence: low).</p><p>A. Evidence for Recommendation: Pharmacologic treatment has not been consistently shown to modify the duration or severity of postoperative delirium. 83ET,84ET,91ET In addition, the harms of both antipsychotics and benzodiazepines are substantial and well documented, with the potential for increased morbidity and mortality. Healthcare providers should not prescribe these classes of drugs for treatment of delirium in patients without significant agitation that threatens the patient's safety or the safety of others. The use of antipsychotics at the lowest effective dose should be reserved for short-term management of acute agitation in the setting of possible substantial harm. B. Potential Harms of Recommendation: Patients with hypoactive delirium who may be experiencing hallucinations and delusions might get symptomatic relief from their experiences, even if these medications do not resolve the delirious episode. Hallucinatory and delusional experiences might be difficult to elicit from a hypoactive patient during the delirious episode, and withholding antipsychotic medications in this situation might be associated with increased suffering.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>Successful management of postoperative delirium for older adults requires knowledge of both nonpharmacologic and pharmacologic interventions aimed to prevent and treat delirium. The recommendation statements provide a framework to allow hospital systems and healthcare professionals to implement actionable, evidence-based measures to improve delirium prevention and treatment. These guidelines have some important limitations including feasibility restrictions in completeness of the literature search, limited quality of available evidence, and extrapolation from studies conducted outside the surgical setting. Importantly, this guideline is not intended to supersede clinical judgment or individual patient preferences, and decisions must always be customized to the individual situation. Despite the limitations, the guideline follows a rigorous evidence-based approach guided by IOM standards for systematic review and guideline development, conducted by an interdisciplinary expert panel, and revised extensively based on commentary from stakeholders and the public. Ultimately, it is hoped that this guideline will help to improve clinical care, advance policy, and lay the groundwork for future discoveries in this important area to improve quality of life for older adults and their families.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Box 1</head><p>Clinical Practice Guideline Summary This clinical practice guideline provides eight strong recommendation statements. For these recommendations, the panel weighed the evidence for each intervention and determined either that the benefits clearly outweighed the risks or that the risks clearly outweighed the benefits.</p><p>• Multicomponent nonpharmacologic interventions delivered by an interdisciplinary team should be administered to at-risk older adults to prevent delirium. • Ongoing educational programs regarding delirium should be provided for healthcare professionals.</p><p>• A medical evaluation should be performed to identify and manage underlying contributors to delirium.</p><p>• Pain management (preferably with nonopioid medications) should be optimized to prevent postoperative delirium.</p><p>• Medications with high risk for precipitating delirium should be avoided.</p><p>• Cholinesterase inhibitors should not be newly prescribed to prevent or treat postoperative delirium.•Benzodiazepines should not be used as first-line treatment of agitation associated with delirium.•Antipsychotics and benzodiazepines should be avoided for treatment of hypoactive delirium.</p><p>This clinical practice guideline provides an additional three weak recommendation statements. The panel judged the evidence to be in favor of these interventions, but the current level of evidence or potential risks of the treatment did not support a strong recommendation. • Multicomponent nonpharmacologicinterventions implemented by an interdisciplinary team may be considered when an older adult is diagnosed with postoperative delirium to improve clinical outcomes. • The injection of regional anesthetic at the time of surgery and postoperatively to improve pain control with the goal of preventing delirium may be considered. • The use of antipsychotics (e.g., haloperidol, risperidone, olanzapine, quetiapine, or ziprasidone) at the lowest effective dose for the shortest possible duration may be considered to treat delirious patients who are severely agitated or distressed or who are threatening substantial harm to self and/or others.</p><p>This clinical practice guideline also provides one "insufficient evidence" recommendation statement. The panel wanted to provide a recommendation statement for this intervention to be considered, but the current level of evidence or potential risks of the treatment did not support either a strong or weak recommendation. • Use of processed electroencephalographic (EEG) monitors of anesthetic depth during intravenous sedation or general anesthesia may be used to prevent delirium.</p><p>Finally, the panel concluded there was insufficient evidence to recommend eitherfor or against the following: • Prophylactic use of antipsychotic medications to prevent delirium • Specialized hospital units for the inpatient care of older adults with postoperative delirium</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>least one of the following outcomes: delirium rate or duration, cognitive or functional decline, length of stay, or costs. 22ET,27ET,30ET,31ET,34ET,35ET,41ET B. Potential Harms of Nonpharmacologic Recommendations: See harms statement"I. B." (above).</figDesc><table /><note><p>3ET,24ET,25ET,29ET,33ET B. Potential Harms of Recommendation: See harms statement "I. B." (above). III. Multicomponent Nonpharmacologic Interventions Performed by an Interdisciplinary Team for Management of Delirium Recommendation Healthcare professionals should consider multicomponent interventions implemented by an interdisciplinary team in older adults diagnosed with postoperative delirium to improve clinical outcomes (strength of recommendation: weak; quality of evidence: low). A. Evidence/Rationale for Recommendation: As described in existing studies, multicomponent interventions have included mobility/exercise/physical therapy, reorientation, therapeutic activities/cognitive stimulation, maintenance of nutrition and hydration, sleep enhancement (i.e., nonpharmacologic sleep protocol, sleep hygiene), vision and hearing adaptation, nursing education and interventions, and geriatric consultation. Of the 13 studies that evaluated multicomponent interventions aimed to treat delirium in medical, surgical, orthopedic, and ICU patients, 18ET,22ET,27ET,30ET,31ET,34ET, 35ET,36ET,37ET,38ET,39ET,40ET,41ET seven suggested bene-fits for at</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>B. Potential Harms of Recommendation: See harms statement "I. B." (above).</figDesc><table><row><cell>PHARMACOLOGIC TREATMENTS/</cell></row><row><cell>INTERVENTIONS USED PERIOPERATIVELY TO</cell></row><row><cell>PREVENT POSTOPERATIVE DELIRIUM IN OLDER</cell></row><row><cell>SURGICAL PATIENTS</cell></row><row><cell>VI. Anesthesia Depth</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>80ET   B. Potential Harms of Recommendation: Adverse effects of cholinesterase inhibitors include diarrhea, anorexia, dyspepsia, bradycardia, and potential to exacerbate peptic ulcer disease, cardiac conduction disorders, seizures, asthma, and benign prostatic hypertrophy.</figDesc><table><row><cell>Withholding cholinesterase inhibitors in patients on</cell></row><row><cell>chronic treatment may cause worsening symptoms. 82</cell></row><row><cell>PHARMACOLOGIC TREATMENTS/</cell></row><row><cell>INTERVENTIONS USED TO TREAT</cell></row><row><cell>POSTOPERATIVE DELIRIUM IN OLDER</cell></row><row><cell>SURGICAL PATIENTS</cell></row><row><cell>XII. Antipsychotics in the Setting of Severe Agitation</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2014" xml:id="foot_0"><p>JAGS</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p>Panel Members and Affiliations: The following individuals were members of the <rs type="institution">AGS Expert Panel on Postoperative Delirium in Older Adults</rs>: <rs type="person">Sharon K. Inouye, MD, MPH</rs>, <rs type="funder">Harvard Medical School</rs>, <rs type="funder">Beth Israel Deaconess Medical Center</rs>, and <rs type="institution">Aging Brain Center, Institute for Aging Research, Hebrew SeniorLife, Boston</rs>, <rs type="institution">MA</rs> (co-chair); <rs type="person">Tom Robinson, MD, MS</rs>, <rs type="funder">University of Colorado School of Medicine</rs>, <rs type="institution">Aurora</rs>, <rs type="institution">CO</rs> (co-chair); <rs type="person">Caroline Blaum, MD</rs>, <rs type="affiliation">MS, New York University School of Medicine, New York, NY; Jan Busby-Whitehead, MD, GMD, AGSF, Center for Aging and Health, University of North Carolina School of Medicine, Chapel Hill, NC</rs>; <rs type="person">Malaz Boustani, MD, MPH</rs>, <rs type="affiliation">Indiana University School of Medicine, Indianapolis, IN; Ara Chalian, MD, Hospitals of University of Pennsylvania, Philadelphia, PA; Stacie Deiner, MD, Mount Sinai Hospital, New York, NY</rs>; <rs type="person">Donna Fick, PhD</rs>, RN, FGSA, <rs type="funder">FAAN</rs>, <rs type="affiliation">College of Nursing and Medicine, The Pennsylvania State University, University Park, PA; Lisa Hutchison, PharmD, University of Arkansas for Medical Sciences, Little Rock, AR; Jason Johanning, MD, University of Nebraska Medical Center, Omaha, NE; Mark Katlic, MD, Sinai Hospital, Baltimore, MD; James Kempton, Yale University and West Haven VA, New Haven, CT</rs>; <rs type="person">Maura Kennedy, MD, MPH</rs>, <rs type="funder">Beth Israel Deaconess Medical Center, Boston, MA</rs>; <rs type="person">Eyal Kimchi, MD, PhD</rs>, <rs type="affiliation">Massachusetts General Hospital, Boston, MA; Cliff Ko, MD, University of California Los Angeles, Los Angeles, CA</rs>; <rs type="person">Jacqueline Leung, MD, MPH</rs>, <rs type="funder">University of California San Francisco</rs>, <rs type="person">San Francisco</rs>, CA; <rs type="person">Melissa Mattison</rs>, <rs type="affiliation">Harvard University and Beth Israel Deaconess Medical School, Boston, MA; Sanjay Mohanty, MD, American College of Surgeons, Chicago, IL</rs>; <rs type="person">Arvind Nana, MD</rs>, <rs type="person">JPS Health</rs>, <rs type="person">Fort Worth</rs>, TX; <rs type="person">Dale Needham, MD, PhD</rs>, <rs type="affiliation">Johns Hopkins University, Baltimore, MD</rs>; <rs type="person">Karin Neufeld, MD, MPH</rs>, <rs type="affiliation">Johns Hopkins Hospital, Baltimore, MD</rs>; and <rs type="person">Holly Richter, PhD, MD</rs>, <rs type="institution">University of Alabama at Birmingham, Birmingham, AL</rs>. <rs type="person">Sue Radcliff</rs>, <rs type="person">Independent Researcher</rs>, Denver, CO, and <rs type="person">Christine Weston</rs>, <rs type="person">Independent Researcher</rs>, <rs type="person">Baltimore, MD</rs>, led the literature review efforts of the panel. Additional research assistance was provided by <rs type="person">Sneeha Patil</rs>, <rs type="person">Gina Rocco</rs>, and <rs type="person">Jirong Yue</rs>. <rs type="person">Susan E. Aiello</rs>, DVM, ELS, provided editorial services. <rs type="person">Marianna Drootin</rs>, <rs type="institution">MPA</rs>, <rs type="person">Elvy Ickowicz, MPH</rs>, and <rs type="person">Mary Jordan Samuel</rs> provided additional research and administrative support. The development of this paper was supported in part by the <rs type="funder">American Geriatrics Society Geriatrics-for-Specialists Initiative (AGS-GSI</rs>) an unrestricted grant from the <rs type="funder">John A. Hartford Foundation</rs>. Conflict of Interest: <rs type="person">Drs. Blaum</rs>, <rs type="affiliation">Boustani, Chalian, Inouye, Katlic, Kempton, Kennedy, Kimchi, Ko, Mattison, Mohanty</rs>, and <rs type="person">Nana</rs> indicated no conflicts of interest. <rs type="person">Dr. Busby-Whitehead</rs> indicated her spouse is a paid consultant for <rs type="institution">Ironwood Pharma, Ono Pharma: Fecal Incontinence</rs> and <rs type="person">Irritable Bowel Syndrome</rs>, and her spouse has received a grant from <rs type="funder">Salix Pharma, Ono Pharma: Fecal Incontinence and Irritable Bowel Syndrome</rs>. <rs type="person">Dr. Deiner</rs> has received grants from the <rs type="funder">NIH</rs>, <rs type="funder">ADRC</rs>, and <rs type="funder">AGS Foundation for Anesthesia Education and Research</rs>, and <rs type="person">Dr. Deiner</rs>'s spouse has received grants from <rs type="funder">NIH</rs>, <rs type="funder">ADRC</rs>, <rs type="funder">AGS Foundation for Anesthesia Education and Research</rs>, and <rs type="person">Brookdale. Dr. Deiner</rs>'s spouse is also on the speaker's panel for <rs type="person">Baxter. Both Dr. Deiner</rs> and spouse receive product support from <rs type="funder">Covidien</rs> and <rs type="person">Aspect. Dr. Fick</rs> is a paid consultant for <rs type="institution">SLACK Inc.</rs> as Editor of the <rs type="institution">Journal of Gerontological Nursing</rs>. <rs type="person">Dr. Fick</rs> has current R01 funding from the <rs type="funder">NIH</rs> and from the <rs type="funder">National Institute of Nursing Research</rs>. <rs type="person">Ms. Giovannetti</rs> is employed by the <rs type="funder">National Committee for Quality Assurance (NCQA)</rs> which conducts healthcare quality research, develops healthcare quality measures, publishes healthcare quality data, and distributes healthcare quality products (e.g., Accreditation, Certification). <rs type="person">Dr. Hutchison</rs> received grants from <rs type="funder">MedEd Portal/Josiah Macy Foundation IPE Award</rs>, and <rs type="person">Dr. Hutchison</rs> and spouse hold shares in Cardinal Health and <rs type="affiliation">Care Fusion</rs>. <rs type="person">Dr. Johanning</rs> received a royalty on Isolation Station from <rs type="affiliation">Harloff Corporation</rs>. <rs type="person">Dr. Mattison</rs> is a paid consultant for Practical Reviews in Hospital Medicine and is an UpToDate contributor. <rs type="person">Dr. Leung</rs> and her husband receive funding from the <rs type="funder">NIH</rs>. <rs type="person">Dr. Leung</rs>'s husband is the cofounder of Mynosys Inc. Dr. Needham is Chair of the <rs type="affiliation">Early Mobility Committee</rs> for the upcoming <rs type="institution">Society of Critical Care Medicine Clinical Practice Guideline</rs> for pain, agitation, delirium, early mobility, and sleep. Dr. Neufeld is participating on a grant from ORNIM medical manufacturing that is funding a portion of her salary. <rs type="person">Dr. Richter</rs> is a paid consultant for and has received a research grant from <rs type="funder">Pelvalon</rs>. She has also received royalties from <rs type="funder">UpToDate</rs>. <rs type="person">Dr. Robinson</rs> has received research grants from <rs type="funder">Medtronics, Inc.</rs>, <rs type="institution">Karl Storz Endoscopy America</rs>, and <rs type="funder">Covidien</rs>. <rs type="person">Gina Rocco</rs> and <rs type="person">Jirong Yue</rs> have no conflicts of interest to disclose. <rs type="person">Sneha Patil</rs> has commercial interest in Oracle. All other authors have no conflict of interest to disclose. Author Contributions: All authors contributed to this paper. Sponsor's Role: None.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUPPORTING INFORMATION</head><p>Additional Supporting Information may be found in the online version of this article: Table <ref type="table">S1</ref>. Key to designations of quality and strength of evidence.</p><p>Table <ref type="table">S2</ref>. Summary table of Guidelines (ordered by strength of recommendation)*.</p><p>Please note: Wiley-Blackwell is not responsible for the content, accuracy, errors, or functionality of any supporting materials supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Only Supporting information</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Principles of Geriatric Medicine and Gerentology</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Hazzard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Bierman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Bass</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Eds</surname></persName>
+		</author>
+		<editor>Francis J</editor>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>McGraw-Hill International Book Company</publisher>
+			<biblScope unit="page" from="277" to="286" />
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Perioperative management of the older patient</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The relationship of postoperative delirium with psychoactive medications</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Marcantonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Juarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Goldman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">272</biblScope>
+			<biblScope unit="page" from="1518" to="1522" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A multicomponent intervention to prevent delirium in hospitalized older patients</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Inouye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bogardus</forename><surname>St</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Charpentier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">340</biblScope>
+			<biblScope unit="page" from="669" to="676" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Reducing delirium after hip fracture: A randomized trial</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Marcantonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Flacker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Wright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="516" to="522" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Delirium in older persons</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Inouye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="1157" to="1165" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Occurrence of delirium is severely underestimated in the ICU during daily care</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Spronk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Riekerk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hofhuis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intensive Care Med</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1276" to="1280" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Proposed competencies in geriatric patient care for use in assessment for initial and continued board certification of surgical specialists</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Bell</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Drach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Rosenthal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Surg</title>
+		<imprint>
+			<biblScope unit="volume">213</biblScope>
+			<biblScope unit="page" from="683" to="690" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Delirium: Diagnosis, prevention and management. Clinical Guideline 103</title>
+		<imprint>
+			<date type="published" when="2010-07-29">2010 July 29</date>
+			<pubPlace>London, UK</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>National Institute for Health and Care Excellence (NICE)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Melatonin decreases delirium in elderly patients: A randomized, placebo-controlled trial</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Al-Aama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brymer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Gutmanis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Geriatr Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="687" to="694" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Assessment of role of perioperative melatonin in prevention and treatment of postoperative delirium after hip arthroplasty under spinal anesthesia in the elderly</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Sultan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Saudi J Anaesth</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="169" to="173" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">American Geriatrics Society Updated Beers Criteria for potentially inappropriate medication use in older adults</title>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="616" to="631" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>The American Geriatrics Society 2012 Beers Criteria Update Expert Panel</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Cochrane Bias Methods Group, Cochrane Statistical Methods Group. The Cochrane Collaboration&apos;s tool for assessing risk of bias in randomised trials</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Gøtzsche</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.d5928</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Br Med J</title>
+		<imprint>
+			<biblScope unit="volume">343</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Assessing the quality of reports of randomized clinical trials: Is blinding necessary?</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Jadad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Carroll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Control Clin Trials</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Finding What Works in Health Care: Standards for Systematic Reviews</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>National Academies Press</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Institute of Medicine: Clinical Practice Guidelines We Can Trust</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mancher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Woman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>National Academies Press</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The development of clinical practice guidelines and guidance statements of the American College of Physicians: Summary of methods</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Qaseem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Snow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Owens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="page" from="194" to="199" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Grading quality of evidence and strength of recommendations</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Atkins</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">the GRADE Working Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Best</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">the GRADE Working Group</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Briss</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">the GRADE Working Group</orgName>
+			</affiliation>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">328</biblScope>
+			<biblScope unit="page" from="1490" to="1498" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A multifactorial intervention program reduced the duration of delirium, length of hospitalization, and mortality in delirious patients</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lundstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Edlund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Karlsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="623" to="628" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">An educational intervention can prevent delirium on acute medical wards</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tabet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sweeney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Age Aging</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="152" to="156" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Delirium prevention for cognitive, sensory, and mobility impairments</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Weitzel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Res Theory Nurs Pract</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="103" to="113" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Recruitment of volunteers to improve vitality in the elderly: The REVIVE study</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Caplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Harper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intern Med J</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="95" to="100" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Sustainability and scalability of the Hospital Elder Life Program at a community hospital</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Neal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fenlon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="359" to="365" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Multicomponent targeted intervention to prevent delirium in hospitalized older patients: What is the economic value?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rizzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bogardus</forename><surname>St</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Leo-Summers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Care</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="740" to="752" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Prevention of delirium in hospitalized older patients: Risk factors and targeted intervention strategies</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Inouye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Med</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="257" to="263" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Effectiveness of a multi-component intervention to reduce delirium incidence in elderly care wards</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Holt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Heseltine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Age Ageing</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="721" to="727" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Preventing delirium in an acute hospital using a non-pharmacological intervention</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">T</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tobar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Beddings</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Age Aging</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="629" to="634" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Replicating the Hospital Elder Life Program in a community hospital and demonstrating effectiveness using quality improvement methodology</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lescisin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="969" to="974" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Reducing delirium in elderly patients with hip fracture: A multi-factorial intervention study</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Bj€ Orkelund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hommel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Thorngren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Anaesthesiol Scand</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="678" to="688" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">An intervention integrated into daily clinical practice reduces the incidence of delirium during hospitalization in elderly patients</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Vid An</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Alonso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="2029" to="2036" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The Hospital Elder Life Program: A model of care to prevent cognitive and functional decline in older hospitalized patients. Hospital Elder Life Program</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Inouye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bogardus</forename><surname>St</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Baker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1697" to="1706" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Postoperative delirium in old patients with femoral neck fracture: A randomized intervention study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lundstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Olofsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stenvall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aging Clin Exp Res</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="178" to="186" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Modified Hospital Elder Life Program: Effects on abdominal surgery patients</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">W</forename><surname>Tien</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Surg</title>
+		<imprint>
+			<biblScope unit="volume">213</biblScope>
+			<biblScope unit="page" from="245" to="252" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The role of adherence on the effectiveness of nonpharmacologic interventions: Evidence from the Delirium Prevention Trial</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Inouye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bogardus</forename><surname>St</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">163</biblScope>
+			<biblScope unit="page" from="958" to="964" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Quality improvement and cost savings with multicomponent delirium interventions: Replication of the Hospital Elder Life Program in a community hospital</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Zaubler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rizzuto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychosomatics</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="219" to="226" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A nurse-led interdisciplinary intervention program for delirium in elderly hip-fracture patients</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Milisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Foreman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">L</forename><surname>Abraham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="523" to="532" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

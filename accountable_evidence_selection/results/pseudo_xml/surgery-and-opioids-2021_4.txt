@@ -1,0 +1,135 @@
+
+<sectionHeader>Introduction</sectionHeader>
+<paragraph>There is a duty on all practitioners and professional bodies to be responsive to public and governmental concern and to be proactive in minimising public health risks relating to substances of misuse like opioids. The year-on-year reduction in general mortality has been reversed in the USA with opioid misuse being a major component of the increase in mortality</paragraph>
+<paragraph>Opioids are used widely intraoperatively and, used safely and appropriately, still play an important role in postoperative analgesia. Nonetheless, the post-surgical use of opioids is thought to be an important source of problems. Although we cannot quantify this problem in the UK, concern expressed by individuals and UK publications indicate that the perioperative period is an important source of new persistent opioid use and this cannot be ignored</paragraph>
+<paragraph>We have a duty to act to minimise the role that anaesthesia, surgery and primary care may have in contributing to the "opioid load" in the community in the UK. It is imperative that all healthcare professionals involved in surgery and perioperative care work collaboratively to ensure robust opioid stewardship</paragraph>
+<paragraph>Nearly 4 million surgical procedures are performed annually in the UK</paragraph>
+<paragraph>In principle, while ensuring the perioperative plan is drawn up in collaboration with the patient and reflects their choices and involvement in their surgical journey, all involved health practitioners have the following duties:</paragraph>
+<paragraph>1. To ensure that opioids started in the perioperative period are not continued unnecessarily.</paragraph>
+<paragraph>Recent data from the USA reports that approximately 6% of surgical patients (versus 0.4% of the non-surgical cohort) persistently use opioids 90-180 days after surgery (both major and minor)</paragraph>
+<paragraph>2. To ensure that patients taking opioids are identified before surgery</paragraph>
+<paragraph>3. To identify risk factors for opioid misuse disorder (e.g. anxiety, depression</paragraph>
+
+<sectionHeader>4.</sectionHeader>
+<paragraph>To ensure that deprescribing procedures/mechanisms exist at the interface between hospital and primary care (e.g. letter/ leaflet/ communication with General Practioner) and that there is effective communication with both the patient and their General Practioner (GP) and other relevant healthcare professionals such as nurse prescribers and pharmacists</paragraph>
+<paragraph>5. To ensure that chronic post-surgical pain is recognised and treated appropriately</paragraph>
+<paragraph>This document represents the work of a multi-organisational and multidisciplinary collaboration and sets out the guiding principles in opioid management in the perioperative period. As part of the implementation of this document, we will be seeking evidence of observed gaps in care from local and published audits, evidence of improved practice and any issues with implementation of any aspect of this guidance.</paragraph>
+
+<sectionHeader>Executive Summary</sectionHeader>
+<paragraph>Key aims:</paragraph>
+<paragraph>1.</paragraph>
+<paragraph>All healthcare professionals involved in perioperative care should collaborate to provide the highest standards of patient-centred care including opioid stewardship.</paragraph>
+
+<sectionHeader>2.</sectionHeader>
+<paragraph>Opioids should be used judiciously by healthcare professionals. This means using opioids when necessary but stopping opioids when they are no longer required.</paragraph>
+
+<sectionHeader>Preoperative Recommendations</sectionHeader>
+<paragraph>Action: anaesthetists, surgeons, general practitioners, other healthcare professionals 1. Preoperative assessment: Patients should be screened for chronic pain and opioid use in the preoperative period. The Oral Morphine Equivalent per 24 hours (OME) of prescribed opioids should be noted (see Appendix A).</paragraph>
+<paragraph>2. Prehabilitation: (optimisation before surgery) should ensure optimal management of preoperative pain including opioid prescribing, psychological preparation and education / expectation management.</paragraph>
+
+<sectionHeader>Complex cases:</sectionHeader>
+<paragraph>a. Referral to a pain specialist should be considered in complex pain cases. b. Opioid weaning should be considered before surgery if feasible. This may require local service redesign.</paragraph>
+<paragraph>4. Perioperative management plan: A perioperative management plan should be formulated with the patient and communicated to the surgical and anaesthetic team.</paragraph>
+
+<sectionHeader>Intraoperative Recommendations</sectionHeader>
+<paragraph>Action: anaesthetists, surgeons 1. Intraoperative pain management should include multimodal analgesia and opioid-sparing analgesic techniques.</paragraph>
+<paragraph>2. Evidence-based, procedure-specific analgesic techniques should be used when evidence is available.</paragraph>
+<paragraph>3. Perioperative pain management techniques must be tailored to individual patients.</paragraph>
+
+<sectionHeader>Surgery and Opioids Best Practice Guidelines 2021</sectionHeader>
+
+<sectionHeader>Postoperative Recommendations</sectionHeader>
+<paragraph>Action: anaesthetists, surgeons, other healthcare professionals 1. Pain relief should be optimised before leaving the postoperative recovery area (PACU -post anaesthesia care unit). This includes ensuring that a proper handover of pain management plan to ward /High Dependency Unit (HDU)/Intensive Care Unit (ICU) nurses is performed and signposting staff who could be called for resolving pain management issues if required.</paragraph>
+<paragraph>2. Functional pain assessment: For patients with complex pain problems, an elevated pain intensity taken in isolation should not be a sole indicator for the administration of further opioids and should not hinder discharge to the ward. A pain assessment that involves functional assessment (i.e pain on breathing or movement) along with awareness of factors such as anxiety that can increase pain perception is recommended.</paragraph>
+<paragraph>3. Immediate-release opioids are preferred in the management of postoperative pain (to decrease risk of respiratory impairment and long term continuation), when simple analgesics such as paracetamol or NSAIDs are not effective enough to allow the achievement of agreed functional goals.</paragraph>
+<paragraph>4. Advice on medicine self administration: On discharge, patients must be advised how to selfadminister medicines safely, wean analgesics, dispose of unused analgesic medications and of the dangers of driving/operating machinery while taking opioid medicines. The dangers of mixing opioids with alcohol and other illicit drugs that increase risk of harm should be communicated. A patient leaflet should be provided to reinforce these messages.</paragraph>
+
+<sectionHeader>5.</sectionHeader>
+<paragraph>Local protocols for the prescription of discharge medications after surgery ("TTOs") should be developed to minimise the chances of subsequent inappropriate opioid use. Ideally this should be managed between the hospital and primary care.</paragraph>
+<paragraph>6. The hospital discharge letter must explicitly state the recommended opioid dose, amount supplied and planned duration of use.</paragraph>
+<paragraph>7. Identification of patients for de-escalation of opioids: Some painful conditions, such as osteoarthritis of the knee, may require surgical procedures to treat pain and improve function. Patients with these conditions may be taking opioid medications before surgery. These opioids should be gradually withdrawn, where possible, after surgery.</paragraph>
+<paragraph>8. Medicine review post discharge: Guidance should be given about necessary medicine review following discharge from hospital. Usually 5 days and no more than 7 days medication should be prescribed.</paragraph>
+
+<sectionHeader>Surgery and Opioids Best Practice Guidelines 2021</sectionHeader>
+
+<sectionHeader>Post Discharge Management</sectionHeader>
+<paragraph>Action: surgeons, general practitioners, other healthcare professionals Chronic post-surgical pain is defined by IASP (International Association for Study of Pain) as a clinical discomfort that lasts more than 3 months post-surgery without other causes of pain such as chronic infection or pain from a chronic condition preceding the surgery. This requires assessment either by a GP or pain specialist, and a possible referral to the operating surgeon. Opioids are not normally appropriate longer-term treatment for chronic pain including chronic post-surgical pain.</paragraph>
+
+<sectionHeader>Detailed Recommendations Preoperative Recommendations (Detailed)</sectionHeader>
+<paragraph>Action: anaesthetists, surgeons, general practitioners, other healthcare professionals 1. Preoperative assessment: a. Preoperative assessment for complex pain patients with pain should include an assessment of pain and current consumption of analgesic drugs including opioids.</paragraph>
+<paragraph>Ideally, it should focus on a biopsychosocial assessment of pain as outlined in the FPM guidelines for assessment of pain</paragraph>
+<paragraph>2. Prehabilitation: a. Consideration should be given to reducing preoperative anxiety and catastrophising,</paragraph>
+<paragraph>b. Preoperative counselling should include working collaboratively with the patient and expectation management regarding opioid use and perioperative pain management</paragraph>
+<paragraph>c. Patients with complex pain needs who may benefit from an extended stay in the post anaesthesia care unit (PACU) should be identified, so that appropriate plans can be formulated.</paragraph>
+<paragraph>3. Complex pain cases: (Additional preoperative recommendations for opioid tolerant patients) a. For complex pain patients on high dose opioids, the opinion of a pain specialist</paragraph>
+<paragraph>b. A useful way to assess preoperative opioid consumption is through the calculation of the Oral Morphine Equivalent dose (OME)</paragraph>
+<paragraph>Surgery and Opioids Best Practice Guidelines 2021 c. Opioid tolerance (decrease in pharmacological response) and opioid induced hyperalgesia (increase in pain perception) may occur in patients taking opioids. Opioid tolerance is likely at 60 mg of OME for ≥7 days</paragraph>
+<paragraph>d. If the enteral route is unavailable immediately after surgery, opioid conversion should be made to parenteral morphine.</paragraph>
+<paragraph>e. Prehabilitation (optimisation before surgery) should include optimal management of preoperative pain and optimisation of opioids and other pain/adjuvant medications. In selected cases, weaning of opioids should be considered before surgery</paragraph>
+<paragraph>f. In patients unsuitable for preoperative opioid de-escalation, opioids taken before surgery should usually be continued throughout the surgical admission.</paragraph>
+<paragraph>g. An individualised plan should be made for patients on buprenorphine (sublingual or transdermal patches) or methadone and in other specific situations such as pregnancy</paragraph>
+<paragraph>h. Opioid-sparing adjuncts should be considered.</paragraph>
+
+<sectionHeader>Perioperative management plan:</sectionHeader>
+<paragraph>a. A perioperative management plan should be formulated with the patient and communicated to the surgical and anaesthetic team. The patient should be warned that the plan may occasionally need to be altered.</paragraph>
+
+<sectionHeader>Intraoperative Recommendations (Detailed)</sectionHeader>
+<paragraph>Action: anaesthetists, surgeons 1. Intraoperative pain management should follow the principles of: a. Promotion of early functional return, i.e. drinking, eating and mobilisation</paragraph>
+<paragraph>b. Multimodal analgesia-Multimodal analgesia has been shown to be opioid sparing and provides superior pain relief</paragraph>
+<paragraph>c. Opioid sparing analgesia techniques-Opioid sparing techniques and use of opioid sparing adjuvants are encouraged</paragraph>
+<paragraph>2. PROSPECT (Procedure specific analgesic techniques) recommendations for analgesia should be used rather than over reliance on the WHO pain ladder [30].</paragraph>
+<paragraph>3. Pain management techniques need to be individualised, considering patient choice, type of surgery, comorbidity and pre-existing medicines. This should be based on shared decisionmaking with the patient, taking into account the type of surgery, patient comorbidities and pre-existing medicines use.</paragraph>
+
+<sectionHeader>Surgery and Opioids Best Practice Guidelines 2021</sectionHeader>
+
+<sectionHeader>Post Operative Recommendations (Detailed)</sectionHeader>
+<paragraph>Action: anaesthetists, surgeons, other healthcare professionals Goals:</paragraph>
+<paragraph>1. The goal of postoperative pain management is to minimise postoperative pain and to provide a seamless transition of analgesic care from operating theatre via recovery (PACU) to the ward.</paragraph>
+<paragraph>2. Goals of pain management must be matched to the type of surgery and to the stage of recovery, e.g. after a laparotomy, the immediate goal is the ability to cough and breathe deeply, but in subsequent days it is to facilitate mobilisation</paragraph>
+<paragraph>3. Postoperative pain assessment and pain management strategies must promote return of normal function, i.e. drinking, eating, movement and mobilisation.</paragraph>
+
+<sectionHeader>Recommendations for Post Anaesthesia Care Unit (PACU)</sectionHeader>
+<paragraph>1. Optimisation of pain relief prior to leaving PACU: Pain assessment in the PACU should take function into account. A pain assessment that involves functional assessment (i.e pain on breathing or movement) along with awareness of factors such as anxiety that can increase pain perception is recommended.</paragraph>
+<paragraph>One example of function-related pain scores is the functional activity score</paragraph>
+<paragraph>2. Patients with complex pain problems: a) Opioid tolerant patients may require additional interventions in PACU to facilitate optimal pain management. These interventions should be planned and documented as far as possible so that a simple reliance on using opioids for pain relief in recovery/PACU is avoided</paragraph>
+<paragraph>b) When patients report severe pain, empathy and active listening should be provided.</paragraph>
+
+<sectionHeader>Surgery and Opioids Best Practice Guidelines 2021</sectionHeader>
+<paragraph>Recommendations for the Ward 1. Promote return of normal function:</paragraph>
+<paragraph>a) The oral route should be used as soon as possible for medications.</paragraph>
+<paragraph>b) It should be realised that increased pain intensity may be a consequence of surgical complications (e.g. compartment syndrome or anastomotic leak).</paragraph>
+<paragraph>c) Sedation scores should be recorded in addition to respiratory rate to detect those at risk of opioid-induced ventilatory impairment</paragraph>
+<paragraph>3. When analgesic requirements are reduced, a reverse analgesic ladder is recommended: wean opioids first, then stop NSAIDs, then stop paracetamol.</paragraph>
+<paragraph>4. The Inpatient Pain Service should be involved in the post-surgical care of the opioid tolerant patient</paragraph>
+<paragraph>5. Patients on gabapentinoids should be identified and the indication for the gabapentin / pregabalin reviewed. Gabapentinoids should be tapered off if no longer indicated</paragraph>
+
+<sectionHeader>Surgery and Opioids Best Practice Guidelines 2021</sectionHeader>
+
+<sectionHeader>Discharge Planning</sectionHeader>
+<paragraph>1. Patients should be informed on how to self-administer opioids safely: a. On discharge, patients should be informed how to self-administer opioid medication safely, wean analgesics and dispose of unused analgesic medications. Patients should be reminded to take particular care with storing opioids and other medicines that may be liable to misuse. They should be told of the dangers of driving or using machinery while taking opioid medicines, and a patient leaflet should be provided to reinforce these messages</paragraph>
+<paragraph>2. A protocol for discharge medication should be used as it reduces subsequent opioid use</paragraph>
+<paragraph>a. It is preferable to prescribe opioid and non-opioid analgesics separately in order to allow for dose changes of individual analgesics.</paragraph>
+<paragraph>b. Patients should be encouraged to keep a record of analgesics taken, as research has shown that this results in better pain control.</paragraph>
+<paragraph>c. New prescriptions of modified-release opioid preparations (including transdermal patches) should be avoided without specialist consultation. If specialist consultation is required, a key feature of this consult would be to exclude chronic post-surgical pain</paragraph>
+<paragraph>3. The hospital discharge letter should be available in a timely way and provided to all healthcare professionals involved in caring for the patient, including community pharmacists, to avoid an acute prescription of opioids inadvertently becoming a repeat prescription. The hospital discharge letter must explicitly state the recommended opioid dose, amount supplied and planned duration of use.</paragraph>
+<paragraph>4. Guidance should be given about medicine review following discharge from hospital: a. Usually 5 days and no more than 7 days of opioids (including Tramadol) should be prescribed</paragraph>
+<paragraph>b. The hospital discharge letter must explicitly state the recommended opioid (including Tramadol) dose and duration.</paragraph>
+
+<sectionHeader>Additional recommendations for opioid tolerant patients</sectionHeader>
+<paragraph>De-escalation of opioids after pain relieving surgery: a. For opioid-tolerant patients whose surgery was pain relieving, e.g. knee surgery, the discharge letter should provide advice on any further weaning of analgesics taken before surgery. Secondary care outpatient pain services or transitional pain services may be able to assist if difficulties arise</paragraph>
+
+<sectionHeader>Surgery and Opioids Best Practice Guidelines 2021</sectionHeader>
+
+<sectionHeader>Post Discharge Management (Detailed)</sectionHeader>
+<paragraph>Action: surgeons, general practitioners, other healthcare professionals 1. Patients must be guided and informed to dispose of unused opioid medication safely to avoid both diversion and subsequent inappropriate use. Safe disposal must involve taking excess medication to the community or hospital pharmacy. Post operative opioids must not be added to a 'repeat' prescribing template. They should only ever be added to the patient's record as an acute medication and must be reviewed at each issue by the prescriber</paragraph>
+<paragraph>2. If a patient not usually on long term opioids is still taking opioids (including Tramadol) 90 days after surgery and is still in pain, this should trigger further assessment in primary or secondary care which may include referral to a pain service, for investigation of chronic post-surgical pain or sometimes to a substance misuse service</paragraph>
+<paragraph>3. Patients on gabapentinoids should be identified and the indication for the gabapentin / pregabalin reviewed</paragraph>
+<paragraph>4. Pain related and opioid related readmissions should be notified to the Inpatient Pain team</paragraph>
+
+<sectionHeader>Surgery and Opioids Best Practice Guidelines 2021</sectionHeader>
+<paragraph>Transdermal Opioids:</paragraph>
+
+<sectionHeader>A. Buprenorphine</sectionHeader>
+<paragraph>Transdermal buprenorphine changed at weekly intervals:</paragraph>
+
+<sectionHeader>microgram/hr 10 microgram/hr 20 microgram/hr</sectionHeader>

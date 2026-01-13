@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Achieving High‐Quality Multicultural Geriatric Care</title>
+				<funder>
+					<orgName type="full">U.S. Department of Health and Human Services</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Institutes of Health, National Institute on Aging</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2016-01-25">2016-01-25</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>Senior Coordinator,</roleName><forename type="first">Aimee</forename><surname>Cegelka</surname></persName>
+							<email>acegelka@americangeriatrics.org</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Professional Education and Special Projects</orgName>
+								<orgName type="department" key="dep2">American Geriatrics Society</orgName>
+								<address>
+									<addrLine>40 Fulton Street 18th Floor</addrLine>
+									<postCode>10038</postCode>
+									<settlement>New York</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Achieving High‐Quality Multicultural Geriatric Care</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the American Geriatrics Society</title>
+						<title level="j" type="abbrev">J American Geriatrics Society</title>
+						<idno type="ISSN">0002-8614</idno>
+						<idno type="eISSN">1532-5415</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">64</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="255" to="260"/>
+							<date type="published" when="2016-01-25" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">A589E3D9C39DE8C5495D6C36FB1641CF</idno>
+					<idno type="DOI">10.1111/jgs.13924</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2025-11-07T18:07+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Developed by the American Geriatrics Society Ethnogeriatrics Committee</head><p>As the ethnic diversity of the U.S. population increases, there is a growing awareness of healthcare disparities and the need to address them. This position statement that the American Geriatrics Society (AGS) Ethnogeriatrics Committee developed outlines healthcare disparities in the United States and the minimum quality indicators that healthcare organizations and healthcare providers should adopt to ensure that all older adults receive care that is culturally appropriate and takes into account level of health literacy. J Am Geriatr Soc 2016.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>bring about positive health outcomes for diverse populations. The HHS National Standards for Culturally and Linguistically Appropriate Services in Health and Health Care: A Blueprint for Advancing and Sustaining Culturally and Linguistically Appropriate Services Policy and Practice (the Blueprint) is an implementation guide to advance and sustain culturally and linguistically appropriate services in healthcare organizations. These national Standards were rereleased in April 2013 after undergoing a 2-year enhancement initiative. <ref type="bibr" target="#b2">3</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>POPULATION DIVERSITY</head><p>In 2050, the population of adults aged 65 and older is projected to be 83.7 million, almost double the estimated population of 43.1 million in 2012. The baby boomers are largely the reason for this increase; they began turning 65 in 2011, and many will survive and reach the age of 85 and older by 2050. Although the older adult population is not anticipated to turn into a majority in the next 4 decades, it is projected that minorities will account for 39.1% in 2050 (up from 20.7% in 2012). As mentioned in the introduction, the largest increases in the proportion of older adults are projected to be in the Asian, Native Hawaiian, and other Pacific Islander populations, rather than the Hispanic population. <ref type="bibr" target="#b0">1</ref> Specifically, 77.3% of those aged 65 and older in 2050 are projected to be white (down from 86% in 2012), 12.3% to be black (up from 8.8% in 2012), and 7.1% to be Asian (up 3.8% in 2012). The American Indian and Alaska Native populations are projected to be 996,000 (up from 266,000 in 2012) and the Native Hawaiian and other Pacific Islander populations to be 220,000 (up from 42,000 in 2012). <ref type="bibr" target="#b0">1</ref> Of the population aged 85 and older, 29.7% are projected to be minority in 2050 (up from 16.3% in 2012). Specifically, in 2050, 81.5% are projected to be white (down from 88.9% in 2012), 10.8% to be black (up from 7.2% in 2012), and 5.2% to be Asian (up from 2.9% in 2012). The American Indian and Alaska Native populations are projected to reach 173,000 (up from 22,000 in 2012) and the Native Hawaiian and other Pacific Islander population to reach 34,000 (up from 3,000 in 2012). <ref type="bibr" target="#b0">1</ref> The proportion of older Hispanics is projected to increase considerably and rapidly over the next 4 decades. In 2050, 18.4% of the population aged 65 and older will be Hispanic (up from 7.3% in 2012; 3.1 million to 15.4 million), and the oldest-old Hispanic population will increase by approximately 7% between 2012 and 2050. <ref type="bibr" target="#b0">1</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PROVIDER AWARENESS AND COMMUNICATIONS SKILLS</head><p>Clinicians need to understand how best to communicate with people from various ethnic groups in a culturally sensitive manner and to understand the diversity of approaches to health that different ethnicities have. Specifically, many people of various ethnicities use complementary and integrative modalities of care, including indigenous healing therapies and techniques. <ref type="bibr" target="#b3">4</ref> Providers should be mindful of known barriers to cultural competency in care delivery and strive to develop and implement strategies for overcoming them. There is a growing body of literature that confirms that people who consider themselves to hold minimal prejudice tend, in cross-cultural encounters, to demonstrate overt prejudice. <ref type="bibr" target="#b4">5</ref> Individuals' values and beliefs about equality may often be inconsistent with their observed behaviors. Providers need the knowledge, self-awareness of their biases and perceptions, and interpersonal skills to help transcend these barriers. This compassionate understanding will promote effective provision of care to individuals from diverse cultures. Awareness and acceptance of the provider's own cultural background is the first step, because each person brings personal biases to clinical encounters and toward other ethnicities caused by sex, ethnicity, religious beliefs, and their upbringing. Provider awareness requires honest self-reflection about personal prejudices and biases. As health professionals, we are well acculturated to the biomedical system and generally belong to a higher socioeconomic status than many patients. Additionally, the culture of biomedicine has inculcated in us certain beliefs, values, and prejudices that may unknowingly distance us from the people we serve.</p><p>Ask yourself what stigmas are associated with the sociocultural group you most closely identify with? How has the group you grew up and live in influenced the dominant values you now hold? How do your perceptions differ from those of people who come from other cultural backgrounds? What is your attitude toward older adults who are from a lower socioeconomic status, have limited English proficiency or minimal health literacy, who are immigrants with an accent or are difficult to understand? How do you respond to a patient who requires an interpreter?</p><p>In addition to the providers' personal biases, language can be a barrier. When caring for any older adult of a different ethnicity, as a first step, a clinician should gauge the patient's English proficiency and health literacy and make arrangements to facilitate the support needed to optimize the clinical encounter.</p><p>Finally, some minority groups may be mistrustful because of past abuses at the interpersonal and systemic level. Among the remedial strategies are honest self-reflection by providers, use of interpreters to facilitate communication, provision of information at an appropriate level of clarity, eliciting and incorporating input from older adults in decision-making, and involvement of community leaders to rebuild trust. As we work within interprofessional teams, in a variety of settings and diverse facilities such as acute care, ambulatory care, assisted living facilities, nursing homes, and home health, it is important for the healthcare team to acknowledge and recognize the individual's and team's biases and beliefs and how these may affect the care of older adults. <ref type="bibr" target="#b5">6</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Decision-Making and Perceptions of Health</head><p>Medical decision-making is complex and involves patients, providers, families, caregivers, and social and medical factors. The experience of diverse populations varies. Audiotaped communication analysis between oncologists and individuals with breast cancer revealed communication disparities in minorities with less language proficiency, older age, and less education. Providers have been found to communicate differently depending on the minority group they are encountering. <ref type="bibr" target="#b6">7</ref> Patient factors may also influence communication; for example, Hispanic women with breast cancer may identify a family member as their decisionmaker. It has been reported that completion of advance directives and surrogates' experiences of the challenges of end-of-life decision-making are similar for white, black, and Hispanic Americans. <ref type="bibr" target="#b7">8</ref> Predictors of advance directive completion are established primary care, personal experience with mechanical ventilation, knowledge about the process, and physician willingness to initiate the discussion. A randomized controlled trial showed that a videobased support tool on preference for future medical care in older adults with advanced dementia resulted in a greater preference for comfort care than did oral narrative alone. <ref type="bibr" target="#b8">9</ref> Although literature on differences in perceptions of health beliefs across diverse groups is limited, there are data about integrative medicine perceptions. Based on the 2002 National Health Interview Survey, white people prefer mind-body medicine, alternative medical systems, and biological-based therapies. Hispanics prefer biologicalbased therapies, and Asians and Pacific Islanders are generally more likely to use herbs than Caucasians. Studies report differences between minorities about decision-making and health perceptions that may be elicited simply by asking older adults what their preferences are (e.g., individual or family decision-making) and whether they agree with the provider's recommendations and what other modalities (e.g., healers, herbs) they use. <ref type="bibr" target="#b9">10</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ETHNICITY AND HEALTH DISPARITIES</head><p>Despite improvements in the overall health of the U.S. population, racial and ethnic minorities and other populations suffer disproportionate burden of illness and premature death. Public Law 106-525 defines a population as having health disparities when there is significant difference in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates from the health status of the general population. As such, older racial and ethnic minorities, individuals with low socioeconomic status, and rural persons are currently designated as having health disparities. <ref type="bibr" target="#b10">11</ref> Health inequities for older adults are well documented. <ref type="bibr" target="#b10">11</ref> Although life expectancy and overall health have improved for most Americans, not all older adults benefit equally. The health status of older Americans varies according to race and ethnicity, socioeconomic status, and sex. Older minority Americans have consistently been shown to have worse health than whites of the same age group on measures of disease, disability, and self-assessed health. For example, older Hispanics have higher rates of diabetes mellitus and disabilities, and older blacks have more chronic conditions. Studies have shown that certain healthcare services such as breast and cervical cancer screening and management of anticoagulation and diabetes mellitus may not be provided equally to people of different cultures and ethnicities. <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> Documenting health disparities is critical to help monitor progress, identify gap areas, allocate resources, and implement interventions to eliminate them.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>EDUCATION LEVEL AND HEALTH LITERACY</head><p>Health literacy is defined as "the degree to which individuals have the capacity to obtain, process and understand basic health information and services needed to make appropriate health decisions." <ref type="bibr">15</ref> According to the 2003 National Assessment of Adult Literacy Survey, 15 36% of Americans have limited health literacy. Most of them are aged 65 and older (59%), with less than high school education (76%), and not white (Hispanic 66%, Black 58%, Native American 48%). For this reason, the Institute for Healthcare Advancement recommends that printed patient education materials and oral health information be at the sixth-grade reading level or lower if possible. Patient and provider factors contribute to inadequate health literacy. Patient factors include being unfamiliar with medical concepts, having limited English proficiency, having beliefs about their health and preferences as to the type of treatment they should receive, and having experience with group-based discrimination. Provider factors include lack of awareness, ineffective verbal or cross-cultural communication skills, and the complexity of the healthcare system.</p><p>Nearly half of all U.S. adults-some 90 million peoplehave difficulty understanding and using health information. Observational data suggest that limited health literacy increases mortality, but not hospitalization, in outpatients with heart failure. <ref type="bibr" target="#b14">16</ref> Limited health literacy has also been found to be associated with poor understanding of medications at discharge, especially in older adults. Latinos, Asians and Pacific Islanders, and individuals with limited literacy are more likely to be uncertain about their treatment decisions. <ref type="bibr" target="#b15">17</ref> Furthermore, low literacy has been associated with lower likelihood of using preventive health measures for older adults.</p><p>Limited data are available on why older adults have lower literacy rates. Differences in frequency of reading the newspaper, visual acuity, chronic medical conditions, and health status do not fully explain lower literacy, and it is suggested that the influence of cognitive decline as a factor in lower literacy must be further explored. <ref type="bibr" target="#b16">18</ref> Nevertheless, good evidence is available on effective interventions to overcome low literacy, particularly in Hispanic-Americans with diabetes mellitus. <ref type="bibr" target="#b17">19</ref> Individual and collective interventions suggest that a universal approach ensuring that people understand oral and written communications (e.g., "teach-back" technique) should be the norm. <ref type="bibr" target="#b18">20</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PREFERRED LANGUAGE</head><p>Linguistic competence is the capacity of an organization and its personnel to communicate effectively and convey information in a manner that persons of limited English proficiency, those who have low literacy skills or are not literate, and individuals with disabilities can easily understand. Despite federal regulation <ref type="bibr" target="#b19">21</ref> and evidence of adverse outcomes of ineffective communication, <ref type="bibr" target="#b20">22</ref> data suggest that the use of interpreters or a language-concordant provider is low in U.S. hospitals and primary care settings. <ref type="bibr" target="#b21">[23]</ref><ref type="bibr" target="#b22">[24]</ref><ref type="bibr" target="#b23">[25]</ref> Assessing preferred language or effectively using interpreter services is critical to enhancing patient-provider communication. Language is inclusive of culture, and culture is encoded in language. Even well-educated people with strong reading and writing skills may have difficulty navigating the healthcare system and understanding a medical form or doctor's instructions regarding a medication or procedure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>USING AN INTERPRETER</head><p>When using an interpreter, seek the most-qualified person available: trained interpreters, other medical staff who speak the required language, followed by a language line interpreter. Family members should not be asked to interpret. Trained medical interpreters are consistently better at communicating medical information to individuals with limited English proficiency and in promoting shared decision-making. Providers should not leave the medical interpreter alone with the patient, nor should the interpreter explain any procedures or obtain informed consent without the provider being present.</p><p>Before going into a room with an interpreter, brief the interpreter on the topic to be discussed; discuss logistics, known concerns, and the goals of the encounter; refrain from telling the interpreter, "This is going to be quick."</p><p>While in the room with the patient and the interpreter, introduce everyone in the room; position the patient in front of you with the interpreter to the right or left and a little in front, in the shape of a triangle; ensure you are able to see and be aware of nonverbal response; ensure that the interpreter also has visual access to all participants; maintain eye contact mainly with patient and family, not just the interpreter, keeping in mind that direct eye contact may not be culturally congruent with some ethnic groups, especially with persons of the opposite sex. Eye contact and a calm intent attitude may be very helpful with Latin Americans, but lack of eye contact while listening to Asian patients may be a sign of respect and concentration. <ref type="bibr" target="#b24">26</ref> Pace the discussion based on the needs of the patient and family as well as the interpreter. Avoid medical jargon to the extent possible. When describing complex medical procedures, ensure that the interpreter is also able to understand the information. It is helpful to speak in short simple sentences, which allows for rapid and accurate interpretation. Be watchful for the patient's body language and nonverbal behavior; 60% of rapport is the result of nonverbal communication. Leave the room with the interpreter. It is helpful to debrief with the medical interpreter after the encounter.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mistrust and Participation in Clinical Research</head><p>Despite investigators' efforts, mistrust among minority populations has been a persistent barrier to minority research participation. Interpersonal mistrust in clinical research may be based on personal experiences with providers and interactions of patients with the healthcare system or clinical research settings. For older blacks in particular, this may reflect an overall mistrust o the healthcare system, due to their awareness of prior research abuses (e.g., U.S. Public Health Service Tuskegee Syphilis Study). Potential interventions to overcome mistrust by minority populations require investigators to improve communication and share information with minorities about clinical research in a way that facilitates informed decision-making. Potential study participants should be informed about prior successful interventions that have improved outcomes for minorities (e.g., hypertension). In addition, investigators or team members should be available to answer questions or concerns of minorities. Investigators may choose to seek minority physician referrals to build on the trust already forged in physician-patient relationships. By focusing efforts on specific communities, investigators may raise awareness of targeted healthcare conditions and the critical role clinical research plays in advancing health care. Community outreach efforts in addition to study recruitment may counteract negative preconceived ideas about clinical research. The use of churches or other community leaders and cultural brokers may also rebuild trust and increase participation of minorities in clinical research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FUTURE RESEARCH AND EDUCATION</head><p>The pursuit of health equity must remain at the forefront of our efforts. Provision of healthcare services that are respectful of and responsive to the health beliefs, practices, and needs of older adults of diverse backgrounds may minimize or close the gap in healthcare outcomes. Minorities' use of healthcare services and low participation in clinical trials have often been attributed to socioeconomic factors and cultural beliefs. One recent review study assessed whether cultural competency can improve the management of diabetes mellitus, hyperlipidemia, or hypertension in ethnically diverse individuals. <ref type="bibr" target="#b25">27</ref> This study found that trust in physicians leads to better glycemic control but has no effect on hyperlipidemia or blood pressure control. This study also showed greater doctor communication and health promotion were associated with poor glycemic control, highlighting the complexity of culturally competent care. Future research should focus on the effectiveness of culturally customized interventions to modify behavior or treat specific conditions with the ultimate goal of improving care and health outcomes of older adults.</p><p>Clinicians, other healthcare providers, and trainees must be educated to care for ethnically diverse individuals. Nursing educators have played a vital role in developing curricula and workshops designed to train nurses to be culturally competent. <ref type="bibr" target="#b26">[28]</ref><ref type="bibr" target="#b27">[29]</ref><ref type="bibr" target="#b28">[30]</ref><ref type="bibr" target="#b29">[31]</ref> Undergraduate medical education has also focused on ways to improve medical students' awareness of how cultural and ethnic beliefs play an integral role in care. <ref type="bibr" target="#b30">32</ref> Dental, physician assistant, and pharmacy students have recently begun to receive education in cultural competency. <ref type="bibr" target="#b31">[33]</ref><ref type="bibr" target="#b32">[34]</ref><ref type="bibr" target="#b33">[35]</ref><ref type="bibr" target="#b34">[36]</ref> Teaching cultural competency is a required curriculum in U.S. dental schools as of 2013. Cultural competency is taught in didactic lectures, case scenarios, objective structured clinical examinations, and standardized patient interactions, <ref type="bibr" target="#b35">37</ref> but no standard assessment tools are available to evaluate the effectiveness of any of these teaching modalities. Some students appear to learn better using a combination of methods. Future research is necessary to develop a validated assessment tool to evaluate the effect of teaching methods on cultural competency.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>The U.S. older adult population has become more culturally diverse, and minority groups represent the fastestgrowing segment. As healthcare providers, we are challenged and should commit to providing culturally sensitive care by recognizing provider and patient barriers and using culturally sensitive quality indicators in every patient-provider encounter to establish a patient's cultural identity and avoid potential undesirable disparities in healthcare delivery.</p></div>		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>ACKNOWLEDGMENTS <rs type="person">Rosaly Correa-de-Araujo, MD, MSc, PhD</rs>; <rs type="person">Dulce M. Cruz-Oliver, MD, CMD</rs>; <rs type="person">Michi Yukawa, MD</rs>, MPH; and <rs type="person">Vivyenne Roche, MD</rs> led the initiative by conceptualizing and drafting the position statement and incorporating recommended edits throughout the process. Ethnogeriatrics Committee Chair Carmel Bitondo-Dyer, MD, and <rs type="person">Vice Chair VJ Periyakoil, MD</rs>, provided additional support. AGS Ethnogeriatrics Committee Members: <rs type="person">Carmel Bitondo-Dyer, MD</rs>; <rs type="person">Charles Cefalu, MD</rs>; <rs type="person">Rosaly Correade-Araujo, MD, MSc, PhD</rs>; <rs type="person">Dulce Cruz-Oliver, MD; Lenise Cummings-Vaughn, MD</rs>; <rs type="person">David Elliott</rs>, PharmD, AGSF; Ashish Goel, MD; <rs type="person">Seema Limaye, MD</rs>; <rs type="person">Douglas Miller, MD</rs>; <rs type="person">Irene Moore</rs>, MSW, LISW-S, AGSF; <rs type="person">Wadie Najm, MD</rs>; <rs type="person">Joseph Nnodim, MD, PhD</rs>; <rs type="person">Mary Beth O'Connell, PharmD</rs>; <rs type="person">Ugochi Ohuabunwa, MD</rs>; <rs type="person">Thuan Ong, MD, MPH; VJ Periyakoil, MD</rs>; <rs type="person">Ravi Ramaswamy, MD</rs>; <rs type="person">Vivyenne Roche, MD</rs>; <rs type="person">Brooke Salzman, MD</rs>; <rs type="person">Pushpendra Sharma, MD</rs>; <rs type="person">Marie L. Villa, MD</rs>; <rs type="person">Blythe Winchester, MD, MPH</rs>; <rs type="person">Michi Yukawa, MD, MPH</rs>.</p><p>The views expressed in this article are those of the authors and do not necessarily represent the views of the <rs type="funder">National Institutes of Health, National Institute on Aging</rs>, the <rs type="funder">U.S. Department of Health and Human Services</rs>, or the U.S. federal government.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of Interest:</head><p>The editor in chief has reviewed the conflict of interest checklist provided by the authors and has determined that the authors have no financial or any other kind of personal conflicts with this paper.</p><p>Author Contributions: All authors contributed to this paper.</p><p>Sponsor's Role: None.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">An Aging Nation: The Older Population in the United States. Current Population Reports</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ortman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Velkoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hogan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>U.S. Census Bureau</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<ptr target="http://www.gpo.gov/fdsys/pkg/FR-2011-06-30/html/2011-16435" />
+	</analytic>
+	<monogr>
+		<title level="j">Patient Protection and Affordable Care Act</title>
+		<imprint>
+			<date type="published" when="2010-02-23">2010. February 23, 2015</date>
+		</imprint>
+	</monogr>
+	<note>Section 4302 [online</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">National Standards for Culturally and Linguistically Appropriate Services in Health and Health Care: A Blueprint for Advancing and Sustaining CLAS Policy and Practices</title>
+		<ptr target="https://www.thinkculturalhealth.hhs.gov/pdfs/EnhancedCLASStan-dardsBlueprint" />
+		<imprint>
+			<date type="published" when="2013-04">April 2013. February 23, 2015</date>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note>on-line</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Use of complementary and alternative therapies in community-dwelling older adults</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Wyman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Halcon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Altern Complement Med</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="997" to="1006" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Ageism&apos;s influence on health care delivery and nursing practice</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Simkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Stud Nurs Res</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="24" to="28" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Partnership for Health in Aging Workgroup on Interdisciplinary. Team Training in Geriatrics. Position statement on interdisciplinary team training in geriatrics: An essential component of quality health care for older adults</title>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="961" to="965" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Cancer communication patterns and the influence of patient characteristics: Disparities in information-giving and affective behaviors</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Siminoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Gordon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Patient Educ Couns</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="355" to="360" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">High rates of advance care planning in New York City&apos;s elderly population</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Meier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="2421" to="2426" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Video decision support tool for advance care planning in dementia: Randomised controlled trial</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Volandes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Paasche-Orlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Barry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<date type="published" when="2009">2009. b2159</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">What evidence is available on end-of-life (EOL) care and Latino elders? A literature review</title>
+		<author>
+			<persName><forename type="first">Cruz-Oliver Dm</forename><surname>Talamantes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sanchez-Reilly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Hospi Palliat Care</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="87" to="97" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<ptr target="http://www.gpo.gov/fdsys/pkg/PLAW-106publ525/pdf/PLAW-106publ525" />
+	</analytic>
+	<monogr>
+		<title level="j">Public Law</title>
+		<imprint>
+			<biblScope unit="page" from="106" to="525" />
+			<date type="published" when="2015-02-23">February 23, 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Perspectives of African American, Amish, Appalachian and Latina women on breast and cervical cancer screening: Implications for cultural competence</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Documet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Adams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Health Care Poor Underserved</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="56" to="74" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The effects of perceived discrimination on diabetes management</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Gee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Griffith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Health Care Poor Underserved</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="149" to="163" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Quality of anticoagulation control: Do race and language matter?</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Bhandari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Bindman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Health Care Poor Underserved</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="41" to="55" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Health literacy and outcomes among patients with heart failure</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Shetterly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Clarke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">305</biblScope>
+			<biblScope unit="page" from="1695" to="16701" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Functional health literacy and understanding of medications at discharge</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Maniaci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Heckman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Dawson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mayo Clin Proc</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="554" to="558" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The association between age and health literacy among elderly persons</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Gazmararian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sudano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Gerontol B Psychol Sci Soc Sci</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="368" to="S374" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Outcomes of a Latino communitybased intervention for the prevention of diabetes: The Lawrence Latino Diabetes Prevention Project</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Ockene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Tellez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Rosal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="336" to="342" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Teach-back for quality education and patient safety</title>
+		<author>
+			<persName><forename type="first">Tamura</forename><surname>Lis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Urol Nurs</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="267" to="271" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The legal framework for language access in healthcare settings: Title VI and beyond</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Youdelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brooks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Gen Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">Suppl 2</biblScope>
+			<biblScope unit="page" from="362" to="367" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The role of the interpreter/doula in the maternity setting</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Maher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Crawford-Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Neidigh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nurs Women Health</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="472" to="481" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Do hospitals measure up to the national culturally and linguistically appropriate services standards?</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Diamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wilson-Stronks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Jacobs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Care</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1080" to="1087" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Exploring the impact of language services on utilization and clinical outcomes for diabetics</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hacker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Trebino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">38507</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Obtaining information on language preference among newly diagnosed Hispanic and Asian American cancer patients in Connecticut</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Polednak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Registry Manage</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="77" to="82" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m">Ethnogeriatrics Committee. Doorway Thoughts: Cross-Cultural Health Care for Older Adults</title>
+		<meeting><address><addrLine>Sudbury, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jones &amp; Bartlett Learning</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Association between aspects of culturally competent care and clinical outcomes among patients with diabetes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Seligman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Quan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Care</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="574" to="579" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Toolkit of Resources for Cultural Competent Education for Baccalaureate Nurses</title>
+		<ptr target="http://www.aacn.nche.edu/education-resources/toolkit" />
+		<imprint>
+			<date type="published" when="2015-02-19">February 19, 2015</date>
+			<publisher>American Association of Colleges of Nursing</publisher>
+		</imprint>
+	</monogr>
+	<note>on-line</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Developing a global curriculum in a school of nursing</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Parcells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baemholdt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nurs Educ</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="692" to="695" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Using a virtual community to enhance cultural awareness</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Giddens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>North</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Carlson-Sabelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Transcult Nurs</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="198" to="204" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Incorporating cultural competence content into graduate nursing curricula through community-university collaboration</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Axtell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Avery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Westra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Transcult Nurs</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="183" to="191" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Association of American Medical Colleges. Cultural Competence Education</orgName>
+		</author>
+		<ptr target="https://www.aamc.org/download/54338/data/cultur-alcomped" />
+		<imprint>
+			<date type="published" when="2015-02-18">February 18, 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Teaching culturally sensitive care to dental students: A multidisciplinary approach</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Donate-Bartfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Lobb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Rouka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Dent Educ</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="454" to="464" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Integrating cultural competency throughout a first-year physician assistant curriculum steadily improves cultural awareness</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Scheel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Physician Assist Educ</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="28" to="31" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A comparison of educational interventions to enhance cultural competency in pharmacy students</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jonkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Connor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Pharm Educ</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="76" to="84" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Comparing methods of cultural competency training and assessment in a predoctoral dental course</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Venturin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Durall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Enciso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Dent Educ</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="476" to="484" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Online cultural competency education for millennial dental students</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Hanes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Dent Educ</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="867" to="875" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

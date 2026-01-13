@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">35A27245CA342D4C03E5DAB4EEDA3475</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2025-11-07T18:23+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>There is a duty on all practitioners and professional bodies to be responsive to public and governmental concern and to be proactive in minimising public health risks relating to substances of misuse like opioids. The year-on-year reduction in general mortality has been reversed in the USA with opioid misuse being a major component of the increase in mortality <ref type="bibr" target="#b0">[1]</ref>. One study found that the percentage of all deaths attributable to opioids increased by 292% (from 0.4% to 1.5%) between 2001 and 2016 <ref type="bibr" target="#b1">[2]</ref>.</p><p>Opioids are used widely intraoperatively and, used safely and appropriately, still play an important role in postoperative analgesia. Nonetheless, the post-surgical use of opioids is thought to be an important source of problems. Although we cannot quantify this problem in the UK, concern expressed by individuals and UK publications indicate that the perioperative period is an important source of new persistent opioid use and this cannot be ignored <ref type="bibr" target="#b2">[3]</ref>.</p><p>We have a duty to act to minimise the role that anaesthesia, surgery and primary care may have in contributing to the "opioid load" in the community in the UK. It is imperative that all healthcare professionals involved in surgery and perioperative care work collaboratively to ensure robust opioid stewardship <ref type="bibr" target="#b3">[4]</ref>.</p><p>Nearly 4 million surgical procedures are performed annually in the UK <ref type="bibr">[5]</ref>. At present there are no national guidelines on perioperative opioid prescribing.</p><p>In principle, while ensuring the perioperative plan is drawn up in collaboration with the patient and reflects their choices and involvement in their surgical journey, all involved health practitioners have the following duties:</p><p>1. To ensure that opioids started in the perioperative period are not continued unnecessarily.</p><p>Recent data from the USA reports that approximately 6% of surgical patients (versus 0.4% of the non-surgical cohort) persistently use opioids 90-180 days after surgery (both major and minor) <ref type="bibr" target="#b4">[6,</ref><ref type="bibr" target="#b5">7]</ref>.</p><p>2. To ensure that patients taking opioids are identified before surgery <ref type="bibr" target="#b6">[8]</ref>.</p><p>3. To identify risk factors for opioid misuse disorder (e.g. anxiety, depression <ref type="bibr" target="#b7">[9]</ref> and use of other psychoactive drugs) and ensure patients have access to relevant preoperative and/or subsequent care <ref type="bibr" target="#b6">[8,</ref><ref type="bibr" target="#b7">9]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.</head><p>To ensure that deprescribing procedures/mechanisms exist at the interface between hospital and primary care (e.g. letter/ leaflet/ communication with General Practioner) and that there is effective communication with both the patient and their General Practioner (GP) and other relevant healthcare professionals such as nurse prescribers and pharmacists <ref type="bibr" target="#b8">[10]</ref>.</p><p>5. To ensure that chronic post-surgical pain is recognised and treated appropriately <ref type="bibr" target="#b9">[11]</ref>.</p><p>This document represents the work of a multi-organisational and multidisciplinary collaboration and sets out the guiding principles in opioid management in the perioperative period. As part of the implementation of this document, we will be seeking evidence of observed gaps in care from local and published audits, evidence of improved practice and any issues with implementation of any aspect of this guidance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Executive Summary</head><p>Key aims:</p><p>1.</p><p>All healthcare professionals involved in perioperative care should collaborate to provide the highest standards of patient-centred care including opioid stewardship.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p>Opioids should be used judiciously by healthcare professionals. This means using opioids when necessary but stopping opioids when they are no longer required.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preoperative Recommendations</head><p>Action: anaesthetists, surgeons, general practitioners, other healthcare professionals 1. Preoperative assessment: Patients should be screened for chronic pain and opioid use in the preoperative period. The Oral Morphine Equivalent per 24 hours (OME) of prescribed opioids should be noted (see Appendix A).</p><p>2. Prehabilitation: (optimisation before surgery) should ensure optimal management of preoperative pain including opioid prescribing, psychological preparation and education / expectation management.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Complex cases:</head><p>a. Referral to a pain specialist should be considered in complex pain cases. b. Opioid weaning should be considered before surgery if feasible. This may require local service redesign.</p><p>4. Perioperative management plan: A perioperative management plan should be formulated with the patient and communicated to the surgical and anaesthetic team.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intraoperative Recommendations</head><p>Action: anaesthetists, surgeons 1. Intraoperative pain management should include multimodal analgesia and opioid-sparing analgesic techniques.</p><p>2. Evidence-based, procedure-specific analgesic techniques should be used when evidence is available.</p><p>3. Perioperative pain management techniques must be tailored to individual patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surgery and Opioids Best Practice Guidelines 2021</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Postoperative Recommendations</head><p>Action: anaesthetists, surgeons, other healthcare professionals 1. Pain relief should be optimised before leaving the postoperative recovery area (PACU -post anaesthesia care unit). This includes ensuring that a proper handover of pain management plan to ward /High Dependency Unit (HDU)/Intensive Care Unit (ICU) nurses is performed and signposting staff who could be called for resolving pain management issues if required.</p><p>2. Functional pain assessment: For patients with complex pain problems, an elevated pain intensity taken in isolation should not be a sole indicator for the administration of further opioids and should not hinder discharge to the ward. A pain assessment that involves functional assessment (i.e pain on breathing or movement) along with awareness of factors such as anxiety that can increase pain perception is recommended.</p><p>3. Immediate-release opioids are preferred in the management of postoperative pain (to decrease risk of respiratory impairment and long term continuation), when simple analgesics such as paracetamol or NSAIDs are not effective enough to allow the achievement of agreed functional goals.</p><p>4. Advice on medicine self administration: On discharge, patients must be advised how to selfadminister medicines safely, wean analgesics, dispose of unused analgesic medications and of the dangers of driving/operating machinery while taking opioid medicines. The dangers of mixing opioids with alcohol and other illicit drugs that increase risk of harm should be communicated. A patient leaflet should be provided to reinforce these messages.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5.</head><p>Local protocols for the prescription of discharge medications after surgery ("TTOs") should be developed to minimise the chances of subsequent inappropriate opioid use. Ideally this should be managed between the hospital and primary care.</p><p>6. The hospital discharge letter must explicitly state the recommended opioid dose, amount supplied and planned duration of use.</p><p>7. Identification of patients for de-escalation of opioids: Some painful conditions, such as osteoarthritis of the knee, may require surgical procedures to treat pain and improve function. Patients with these conditions may be taking opioid medications before surgery. These opioids should be gradually withdrawn, where possible, after surgery.</p><p>8. Medicine review post discharge: Guidance should be given about necessary medicine review following discharge from hospital. Usually 5 days and no more than 7 days medication should be prescribed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surgery and Opioids Best Practice Guidelines 2021</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Post Discharge Management</head><p>Action: surgeons, general practitioners, other healthcare professionals Chronic post-surgical pain is defined by IASP (International Association for Study of Pain) as a clinical discomfort that lasts more than 3 months post-surgery without other causes of pain such as chronic infection or pain from a chronic condition preceding the surgery. This requires assessment either by a GP or pain specialist, and a possible referral to the operating surgeon. Opioids are not normally appropriate longer-term treatment for chronic pain including chronic post-surgical pain.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Detailed Recommendations Preoperative Recommendations (Detailed)</head><p>Action: anaesthetists, surgeons, general practitioners, other healthcare professionals 1. Preoperative assessment: a. Preoperative assessment for complex pain patients with pain should include an assessment of pain and current consumption of analgesic drugs including opioids.</p><p>Ideally, it should focus on a biopsychosocial assessment of pain as outlined in the FPM guidelines for assessment of pain <ref type="bibr" target="#b10">[12,</ref><ref type="bibr" target="#b11">13,</ref><ref type="bibr" target="#b12">14,</ref><ref type="bibr" target="#b13">15]</ref>. This should include a psychosocial assessment and medication history, including psychiatric drugs, analgesics, alcohol and illicit drugs.</p><p>2. Prehabilitation: a. Consideration should be given to reducing preoperative anxiety and catastrophising, <ref type="bibr" target="#b14">[16,</ref><ref type="bibr" target="#b15">17]</ref> as this may have value in improving post-surgical outcomes including pain.</p><p>b. Preoperative counselling should include working collaboratively with the patient and expectation management regarding opioid use and perioperative pain management <ref type="bibr" target="#b16">[18]</ref>. A patient information leaflet should be provided. In selected cases, it might be desirable to obtain expert psychological support prior to surgery.</p><p>c. Patients with complex pain needs who may benefit from an extended stay in the post anaesthesia care unit (PACU) should be identified, so that appropriate plans can be formulated.</p><p>3. Complex pain cases: (Additional preoperative recommendations for opioid tolerant patients) a. For complex pain patients on high dose opioids, the opinion of a pain specialist <ref type="bibr" target="#b16">[18]</ref> should be gained prior to surgery.</p><p>b. A useful way to assess preoperative opioid consumption is through the calculation of the Oral Morphine Equivalent dose (OME) <ref type="bibr" target="#b17">[19]</ref> which should be documented in the clinical record.</p><p>Surgery and Opioids Best Practice Guidelines 2021 c. Opioid tolerance (decrease in pharmacological response) and opioid induced hyperalgesia (increase in pain perception) may occur in patients taking opioids. Opioid tolerance is likely at 60 mg of OME for ≥7 days <ref type="bibr" target="#b18">[20,</ref><ref type="bibr" target="#b19">21]</ref>. Avoid escalating opioid doses before surgery.</p><p>d. If the enteral route is unavailable immediately after surgery, opioid conversion should be made to parenteral morphine.</p><p>e. Prehabilitation (optimisation before surgery) should include optimal management of preoperative pain and optimisation of opioids and other pain/adjuvant medications. In selected cases, weaning of opioids should be considered before surgery <ref type="bibr" target="#b20">[22,</ref><ref type="bibr" target="#b21">23]</ref>.</p><p>f. In patients unsuitable for preoperative opioid de-escalation, opioids taken before surgery should usually be continued throughout the surgical admission.</p><p>g. An individualised plan should be made for patients on buprenorphine (sublingual or transdermal patches) or methadone and in other specific situations such as pregnancy <ref type="bibr" target="#b22">[24]</ref>.</p><p>h. Opioid-sparing adjuncts should be considered.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Perioperative management plan:</head><p>a. A perioperative management plan should be formulated with the patient and communicated to the surgical and anaesthetic team. The patient should be warned that the plan may occasionally need to be altered.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intraoperative Recommendations (Detailed)</head><p>Action: anaesthetists, surgeons 1. Intraoperative pain management should follow the principles of: a. Promotion of early functional return, i.e. drinking, eating and mobilisation <ref type="bibr" target="#b23">[25]</ref>.</p><p>b. Multimodal analgesia-Multimodal analgesia has been shown to be opioid sparing and provides superior pain relief <ref type="bibr" target="#b24">[26,</ref><ref type="bibr" target="#b25">27,</ref><ref type="bibr" target="#b26">28]</ref>.</p><p>c. Opioid sparing analgesia techniques-Opioid sparing techniques and use of opioid sparing adjuvants are encouraged <ref type="bibr" target="#b27">[29]</ref>.</p><p>2. PROSPECT (Procedure specific analgesic techniques) recommendations for analgesia should be used rather than over reliance on the WHO pain ladder [30].</p><p>3. Pain management techniques need to be individualised, considering patient choice, type of surgery, comorbidity and pre-existing medicines. This should be based on shared decisionmaking with the patient, taking into account the type of surgery, patient comorbidities and pre-existing medicines use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surgery and Opioids Best Practice Guidelines 2021</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Post Operative Recommendations (Detailed)</head><p>Action: anaesthetists, surgeons, other healthcare professionals Goals:</p><p>1. The goal of postoperative pain management is to minimise postoperative pain and to provide a seamless transition of analgesic care from operating theatre via recovery (PACU) to the ward.</p><p>2. Goals of pain management must be matched to the type of surgery and to the stage of recovery, e.g. after a laparotomy, the immediate goal is the ability to cough and breathe deeply, but in subsequent days it is to facilitate mobilisation <ref type="bibr" target="#b28">[31]</ref>.</p><p>3. Postoperative pain assessment and pain management strategies must promote return of normal function, i.e. drinking, eating, movement and mobilisation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendations for Post Anaesthesia Care Unit (PACU)</head><p>1. Optimisation of pain relief prior to leaving PACU: Pain assessment in the PACU should take function into account. A pain assessment that involves functional assessment (i.e pain on breathing or movement) along with awareness of factors such as anxiety that can increase pain perception is recommended.</p><p>One example of function-related pain scores is the functional activity score <ref type="bibr" target="#b29">[32]</ref> where A -no limitation of (relevant) activity due to pain B -mild limitation of activity due to pain C -unable to complete activity due to pain.</p><p>2. Patients with complex pain problems: a) Opioid tolerant patients may require additional interventions in PACU to facilitate optimal pain management. These interventions should be planned and documented as far as possible so that a simple reliance on using opioids for pain relief in recovery/PACU is avoided <ref type="bibr" target="#b30">[33]</ref>. In patients with complex pain problems, an elevated pain intensity taken in isolation should not be a sole indicator to administer further opioids. A pain assessment is needed. Repeated elevated pain intensity scores should trigger further assessment and experienced input. An elevated pain intensity score should not be a sole indicator for a delay to discharge from PACU.</p><p>b) When patients report severe pain, empathy and active listening should be provided.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surgery and Opioids Best Practice Guidelines 2021</head><p>Recommendations for the Ward 1. Promote return of normal function:</p><p>a) The oral route should be used as soon as possible for medications.</p><p>b) It should be realised that increased pain intensity may be a consequence of surgical complications (e.g. compartment syndrome or anastomotic leak).</p><p>c) Sedation scores should be recorded in addition to respiratory rate to detect those at risk of opioid-induced ventilatory impairment <ref type="bibr" target="#b31">[34,</ref><ref type="bibr" target="#b32">35,</ref><ref type="bibr" target="#b33">36,</ref><ref type="bibr" target="#b34">37,</ref><ref type="bibr" target="#b35">38,</ref><ref type="bibr" target="#b36">39]</ref> 2. Immediate-release opioids are preferred in the management of postoperative pain when simple analgesics are insufficient to achieve the analgesic goals. If modified-release opioid preparations (including transdermal) are used, due care should be exercised as they have been associated with harm <ref type="bibr" target="#b37">[40]</ref>. The prescribed dose of the immediate-release opioids should be age-related (rather than weight) and take into account renal function. Liquid oral morphine at a concentration of 10 mg/5ml is the preferred opioid as it is a Schedule 5 drug, which facilitates more timely administration. Immediate-release oxycodone is not recommended as a first-line opioid, as it is a Schedule 2 drug and is more labour intensive to administer. However, it is recognised that in elderly patients over 70 years or in patients with renal failure, other opioids may be used post operatively in preference according to local policy.</p><p>3. When analgesic requirements are reduced, a reverse analgesic ladder is recommended: wean opioids first, then stop NSAIDs, then stop paracetamol.</p><p>4. The Inpatient Pain Service should be involved in the post-surgical care of the opioid tolerant patient <ref type="bibr" target="#b38">[41]</ref>. Inpatient psychology input may be needed to manage these patients <ref type="bibr" target="#b39">[42,</ref><ref type="bibr" target="#b40">43]</ref>.</p><p>5. Patients on gabapentinoids should be identified and the indication for the gabapentin / pregabalin reviewed. Gabapentinoids should be tapered off if no longer indicated <ref type="bibr" target="#b41">[44]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surgery and Opioids Best Practice Guidelines 2021</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discharge Planning</head><p>1. Patients should be informed on how to self-administer opioids safely: a. On discharge, patients should be informed how to self-administer opioid medication safely, wean analgesics and dispose of unused analgesic medications. Patients should be reminded to take particular care with storing opioids and other medicines that may be liable to misuse. They should be told of the dangers of driving or using machinery while taking opioid medicines, and a patient leaflet should be provided to reinforce these messages <ref type="bibr" target="#b42">[45]</ref>.</p><p>2. A protocol for discharge medication should be used as it reduces subsequent opioid use <ref type="bibr" target="#b43">[46,</ref><ref type="bibr" target="#b44">47,</ref><ref type="bibr" target="#b45">48,</ref><ref type="bibr" target="#b46">49,</ref><ref type="bibr" target="#b47">50]</ref>. Patients should have access to appropriate simple non-opioid analgesics.</p><p>a. It is preferable to prescribe opioid and non-opioid analgesics separately in order to allow for dose changes of individual analgesics.</p><p>b. Patients should be encouraged to keep a record of analgesics taken, as research has shown that this results in better pain control.</p><p>c. New prescriptions of modified-release opioid preparations (including transdermal patches) should be avoided without specialist consultation. If specialist consultation is required, a key feature of this consult would be to exclude chronic post-surgical pain <ref type="bibr" target="#b48">[51]</ref>.</p><p>3. The hospital discharge letter should be available in a timely way and provided to all healthcare professionals involved in caring for the patient, including community pharmacists, to avoid an acute prescription of opioids inadvertently becoming a repeat prescription. The hospital discharge letter must explicitly state the recommended opioid dose, amount supplied and planned duration of use.</p><p>4. Guidance should be given about medicine review following discharge from hospital: a. Usually 5 days and no more than 7 days of opioids (including Tramadol) should be prescribed <ref type="bibr" target="#b45">[48]</ref>.</p><p>b. The hospital discharge letter must explicitly state the recommended opioid (including Tramadol) dose and duration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Additional recommendations for opioid tolerant patients</head><p>De-escalation of opioids after pain relieving surgery: a. For opioid-tolerant patients whose surgery was pain relieving, e.g. knee surgery, the discharge letter should provide advice on any further weaning of analgesics taken before surgery. Secondary care outpatient pain services or transitional pain services may be able to assist if difficulties arise <ref type="bibr" target="#b49">[52,</ref><ref type="bibr" target="#b50">53]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surgery and Opioids Best Practice Guidelines 2021</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Post Discharge Management (Detailed)</head><p>Action: surgeons, general practitioners, other healthcare professionals 1. Patients must be guided and informed to dispose of unused opioid medication safely to avoid both diversion and subsequent inappropriate use. Safe disposal must involve taking excess medication to the community or hospital pharmacy. Post operative opioids must not be added to a 'repeat' prescribing template. They should only ever be added to the patient's record as an acute medication and must be reviewed at each issue by the prescriber <ref type="bibr" target="#b51">[54]</ref>.</p><p>2. If a patient not usually on long term opioids is still taking opioids (including Tramadol) 90 days after surgery and is still in pain, this should trigger further assessment in primary or secondary care which may include referral to a pain service, for investigation of chronic post-surgical pain or sometimes to a substance misuse service <ref type="bibr" target="#b52">[55,</ref><ref type="bibr" target="#b53">56,</ref><ref type="bibr" target="#b54">57,</ref><ref type="bibr" target="#b56">59</ref>].</p><p>3. Patients on gabapentinoids should be identified and the indication for the gabapentin / pregabalin reviewed <ref type="bibr" target="#b41">[44]</ref>. Gabapentinoids should be tapered off if no longer indicated.</p><p>4. Pain related and opioid related readmissions should be notified to the Inpatient Pain team <ref type="bibr" target="#b55">[58]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surgery and Opioids Best Practice Guidelines 2021</head><p>Transdermal Opioids:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A. Buprenorphine</head><p>Transdermal buprenorphine changed at weekly intervals: </p><formula xml:id="formula_0">5</formula></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>microgram/hr 10 microgram/hr 20 microgram/hr</head><label></label><figDesc>Faculty of Pain Medicine ANZCA. Opioid Dose Equivalence. https://fpm.anzca.edu.au/documents/opioid-dose-equivalence.pdf</figDesc><table><row><cell></cell><cell>Surgery and Opioids</cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">Best Practice Guidelines 2021</cell><cell></cell></row><row><cell>Codeine phosphate (mg/day)</cell><cell>120mg</cell><cell>240mg</cell><cell></cell></row><row><cell>Morphine sulphate (mg/day)</cell><cell>12mg</cell><cell>24mg</cell><cell>48mg</cell></row><row><cell cols="3">Transdermal buprenorphine changed every three or four days (twice weekly):</cell><cell></cell></row><row><cell></cell><cell cols="3">35 microgram/hr 52 microgram/hr 70 microgram/hr</cell></row><row><cell>Morphine sulphate (mg/day)</cell><cell>84mg</cell><cell>126mg</cell><cell>168mg</cell></row><row><cell>B. Fentanyl</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Fentanyl patch strength (microgram/hr)</cell><cell cols="2">Oral morphine (mg/day)</cell></row><row><cell>12</cell><cell></cell><cell>30</cell><cell></cell></row><row><cell>25</cell><cell></cell><cell>60</cell><cell></cell></row><row><cell>50</cell><cell></cell><cell>120</cell><cell></cell></row><row><cell>75</cell><cell></cell><cell>180</cell><cell></cell></row><row><cell>100</cell><cell></cell><cell>240</cell><cell></cell></row><row><cell>Further Reading:</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix A</head><p>Source: Opioids Aware: <ref type="bibr" target="#b36">[39]</ref>  Conversions to and from methadone should always be undertaken with specialist advice. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Prescription Opioids Are Associated With Population Mortality in US Deep South Middle-Age Non-hispanic Whites: An Ecological Time Series Study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Brandenburg</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpubh.2019.00252</idno>
+		<imprint>
+			<date type="published" when="2019-09-06">2019. 2019 Sep 6</date>
+			<publisher>Front Public Health</publisher>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">252</biblScope>
+		</imprint>
+	</monogr>
+	<note>Published</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The Burden of Opioid-Related Mortality in the United States</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tadrous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Mamdani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Paterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Juurlink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Netw Open</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">180217</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The prescription opioid crisis: role of the anaesthesiologist in reducing opioid use and misuse</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Soffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Anaesth</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="e198" to="e208" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Opioid Stewardship and the Surgeon</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Varley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Zuckerbraun</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jamasurg.2017.4875</idno>
+		<ptr target="https://doi.org/10.1001/jamasurg.2017.4875" />
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Surg</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">174875</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">New persistent opioid use after minor and major surgical procedures in US adults</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Brummett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Waljee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Goesling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Surg</title>
+		<imprint>
+			<biblScope unit="volume">152</biblScope>
+			<biblScope unit="page">e170504</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Risks of Developing Persistent Opioid Use After Major Surgery</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Soneji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Wijeysundera</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jamasurg.2016.1681</idno>
+		<ptr target="https://doi.org/10.1001/jamasurg.2016.1681" />
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Surg</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1083" to="1084" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Symptoms of depression are associated with opioid use regardless of pain severity and physical functioning among treatment-seeking patients with chronic painJ</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Goesling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Henry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Moser</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jpain.2015.05.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pain</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="844" to="851" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Psychological preparation and postoperative outcomes for adults undergoing surgery under general anaesthesia</title>
+		<author>
+			<persName><forename type="first">Neil</forename><forename type="middle">W</forename><surname>Powell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anne</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julie</forename><surname>Manyande</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claus</forename><surname>Bruce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lucie</forename><forename type="middle">M T</forename><surname>Vögele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Byrne-Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Unsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marie</forename><surname>Osmer</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Johnston</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/14651858.CD008646.pub2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cochrane Database Syst Rev</title>
+		<imprint>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2016-05-26">2016. 2016 May 26</date>
+		</imprint>
+	</monogr>
+	<note>Published online</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Inappropriate Opioid Prescription after Surgery</title>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">D</forename><surname>Neuman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brian</forename><forename type="middle">T</forename><surname>Bateman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Wunsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="page" from="1547" to="1557" />
+			<date type="published" when="2019">2019</date>
+			<publisher>Web</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The IASP classification of chronic pain for ICD-11: chronic postsurgical or posttraumatic pain</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">A</forename><surname>Schug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patricia</forename><forename type="middle">;</forename><surname>Lavand'homme</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Barke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Antoniac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Beatrice</forename><forename type="middle">;</forename><surname>Korwisi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rief</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rolf-Detlefd</forename><surname>Winfried; Treede</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/j.pain.0000000000001413</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pain</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="45" to="52" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Conducting Quality Consultations in Pain Medicine</title>
+		<ptr target="https://fpm.ac.uk/media/286" />
+	</analytic>
+	<monogr>
+		<title level="j">Available</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>Faculty of Pain Medicine</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Perioperative Medicine -The Pathway to Better Surgical Care</title>
+		<ptr target="https://www.rcoa.ac.uk/sites/default/files/documents/2019-08/" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Royal College Anaesthetists</publisher>
+		</imprint>
+	</monogr>
+	<note>Perioperative%20Medicine%20 -%20The%20Pathway%20to%20Better%20Care.pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Preoperative prediction of severe postoperative pain</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Kalkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Visser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Moen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pain</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="415" to="423" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Grobbee DE et al The risk of severe postoperative pain: modification and validation of a clinical prediction rule</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Janssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Kalkman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesth Analg</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="1330" to="1339" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<ptr target="https://fpm.ac.uk/opioids-aware-structured-approach-opioid-prescribing/dose-equivalents-and-changing-opioids" />
+	</analytic>
+	<monogr>
+		<title level="m">Opioids Aware: Dose equivalents and changing opioids</title>
+		<imprint/>
+		<respStmt>
+			<orgName>Faculty of Pain Medicine</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Synthesis of oral morphine equivalents (OME) for opioid utilisation studies</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Degenhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hoban</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Gisev</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/pds.3945</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacoepidemiol Drug Saf</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="733" to="737" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Perioperative opioid analgesia-when is enough too much? A review of opioidinduced tolerance and hyperalgesia</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Colvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Hales</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="issue">10180</biblScope>
+			<biblScope unit="page" from="1558" to="1568" />
+			<date type="published" when="2019">2019</date>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<ptr target="https://fpm.ac.uk/opioids-aware-structured-approach-opioid-prescribing/dose-equivalents-and-changing-opioids" />
+	</analytic>
+	<monogr>
+		<title level="m">Opioids Aware: Dose equivalents and changing opioids</title>
+		<imprint/>
+		<respStmt>
+			<orgName>Faculty of Pain Medicine</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Synthesis of oral morphine equivalents (OME) for opioid utilisation studies</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Degenhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hoban</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Gisev</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/pds.3945</idno>
+		<idno>Best Practice Guidelines 2021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacoepidemiol Drug Saf</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="733" to="737" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Perioperative opioid analgesia-when is enough too much? A review of opioidinduced tolerance and hyperalgesia</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Colvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Hales</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="issue">10180</biblScope>
+			<biblScope unit="page" from="1558" to="1568" />
+			<date type="published" when="2019">2019</date>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Preoperative reduction of opioid use before total joint arthroplasty</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Sing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Bozic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Arthroplasty</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="282" to="e287" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Rationale for and approach to preoperative opioid weaning: a preoperative optimization protocol</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mcanally</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s13741-017-0079-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Perioper Med</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="2017">2017. 19</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Acute pain management in patients with drug dependence syndrome</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Quinlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cox</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pain reports</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">611</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Is the pursuit of DREAMing (drinking, eating and mobilising) the ultimate goal of anaesthesia?</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mythen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anaesthesia</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="1008" to="1012" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Updates on multimodal analgesia for orthopedic surgery</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Pitchon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Dayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Schwenk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Baratta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Viscusi</surname></persName>
+		</author>
+		<idno>doi:S1932-2275</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesiol Clin</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="361" to="373" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Association of multimodal pain management strategies with perioperative outcomes and resource utilization: A population-based study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Memtsoudis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Poeran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zubizarreta</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/ALN.0000000000002132</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesiol</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="891" to="902" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Optimizing pain management to facilitate enhanced recovery after surgery pathways</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Law</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Gan</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12630-014-0275-x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Anaesth</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="203" to="218" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Special indications for opioid free anaesthesia and analgesia, patient and procedure related: Including obesity, sleep apnoea, chronic obstructive pulmonary disease, complex regional pain syndromes, opioid addiction and cancer surgery</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sultana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schumann</surname></persName>
+		</author>
+		<idno>doi:S1521-6896</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Best Pract Res Clin Anaesthesiol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="30082" to="30084" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Wide Variation and Excessive Dosage of Opioid Prescriptions for Common General Surgical Procedures</title>
+		<author>
+			<persName><forename type="first">Maureen</forename><forename type="middle">V</forename><surname>Hill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Surg</title>
+		<imprint>
+			<date type="published" when="2016-09-14">2016 Sep 14</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Pain as the fifth vital sign&quot; and dependence on the &quot;numerical pain scale&quot; is being abandoned in the US: Why?</title>
+		<author>
+			<persName><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sturgess</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mills</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British journal of anaesthesia</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="435" to="438" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Cellular mechanisms of opioid tolerance and the clinical approach to the opioid tolerant patient in the post-operative period</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Joshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kehlet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Beloeil</surname></persName>
+		</author>
+		<idno>doi:S1521-6896(02)90257-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Best Pract Res Clin Anaesthesiol</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="521" to="525" />
+			<date type="published" when="2002">2017. 2002</date>
+		</imprint>
+	</monogr>
+	<note>British Journal of Anaesthesia. pii</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Reducing Adverse Drug Events Related to Opioids Implementation Guide</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Frederickson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Philadelphia: Society of Hospital Medicine</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">American Society for Pain Management Nursing Guidelines on Monitoring for Opioid-Induced Sedation and Respiratory Depression</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jarzyna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pain Management Nursing: Official Journal of the American Society of Pain Management Nurses</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="118" to="145" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>American Society for Pain Management Nursing</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Assessment of sedation during opioid administration for pain management</title>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Pasero</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jopan.2009.03.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Perianesth Nurs</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="186" to="190" />
+			<date type="published" when="2009-06">2009 Jun</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Evaluating and monitoring analgesia and sedation in the intensive care unit</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Sessler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Grap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Ramsay</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/cc6148</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Crit Care</title>
+		<editor>
+			<persName><surname>S2</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Controlled sedation with alphaxalone</title>
+		<author>
+			<persName><forename type="first">Mae</forename><surname>Ramsay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brj</forename><surname>Simpson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="656" to="650" />
+			<date type="published" when="1774">1774</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Using the Model for Improvement to implement the Critical-Care Pain Observation Tool in an adult intensive care unit</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mascarenhas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Srivastava</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmjoq-2017-000304</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Open Quality</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">304</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Controlled-release opioids cause harm and should be avoided in management of postoperative pain in opioid naıve patients</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mills</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Anaesth</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="86" to="e90" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Surgery and Opioids Best Practice Guidelines 2021</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Guidelines for the Provision of Anaesthesia Services for Inpatient Pain Management</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rockett</surname></persName>
+		</author>
+		<ptr target="https://www.rcoa.ac.uk/system/files/GPAS-2019-11-PAIN.pdf" />
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Guidelines for the Provision of Anaesthesia Services (GPAS)</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Clinical benefits, referral practice and cost implications of an inhospital pain service: results of a service evaluation in a London teaching hospital</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sussman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Goodier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Fabri</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2049463716673667</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Pain</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="36" to="45" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The clinical psychologist and the management of inpatient pain: a small case series</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Childs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Casely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Kuehler</surname></persName>
+		</author>
+		<idno type="DOI">10.2147/NDT.S70555</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neuropsychiatr Dis Treat</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="2291" to="2297" />
+			<date type="published" when="2014-12-02">2014. 2014 Dec 2</date>
+		</imprint>
+	</monogr>
+	<note>Published</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Gabapentin (Neurontin): risk of severe respiratory depression</title>
+		<ptr target="https://www.gov.uk/drug-safety-update/gabapentin-neurontin-risk-of-severe-respiratory-depression" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>Medicines and Healthcare products Regulatory Agency</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Faculty of Pain Medicine</title>
+		<ptr target="https://fpm.ac.uk/opioids-aware" />
+	</analytic>
+	<monogr>
+		<title level="m">Opioids Aware resource</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Rates and risk factors for prolonged opioid use after major surgery: Population based cohort study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Soneji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Wijeysundera</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.g1251</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page">1251</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Incidence of and risk factors for chronic opioid use among opioid-naive patients in the postoperative period</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Darnall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mackey</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jamainternmed.2016.3298</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">176</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1286" to="1293" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Post surgical prescriptions for opioid naive patients and association with overdose and misuse: Retrospective cohort study</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Brat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Agniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beam</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.j5790</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">360</biblScope>
+			<biblScope unit="page">5790</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Opioid prescribing at hospital discharge contributes to chronic opioid use</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Calcaterra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Yamashita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Min</forename><surname>Sj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Keniston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Binswanger</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11606-015-3539-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Gen Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="478" to="485" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Interventions for postsurgical opioid prescribing: A systematic review</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wetzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hockenberry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Raval</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jamasurg.2018.2730</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Surgery</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="948" to="954" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Prevention of chronic postsurgical pain: The effect of preventive and multimodal analgesia</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Z</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Wong</surname></persName>
+		</author>
+		<idno type="DOI">10.6859/aja.201809_56(3).0002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Asian J Anesthesiol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="74" to="82" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Chronic Opioid Use After Surgery: Implications for Perioperative Management in the Face of the Opioid Epidemic</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Hah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Bateman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ratliff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Curtin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sun</surname></persName>
+		</author>
+		<idno type="DOI">10.1213/ANE.0000000000002458</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anesth Analg</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1733" to="1740" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Chronic postsurgical pain: From risk factor identification to multidisciplinary management at the Toronto General Hospital Transitional Pain Service</title>
+		<author>
+			<persName><forename type="first">Joel</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aliza</forename><forename type="middle">Z</forename><surname>Weinrib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hance</forename><surname>Clarke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Pain</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="49" to="58" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Inappropriate opioid prescription after surgery</title>
+		<author>
+			<persName><forename type="first">Brian</forename><forename type="middle">T</forename><surname>Mark D Neuman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Bateman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wunsch</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(19)30428-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="page" from="1547" to="1557" />
+			<date type="published" when="2019-04-13">2019 Apr 13. 10180</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Wide Variation and Excessive Dosage of Opioid Prescriptions for Common General Surgical Procedures</title>
+		<author>
+			<persName><forename type="first">Maureen</forename><forename type="middle">V</forename><surname>Hill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Surg</title>
+		<imprint>
+			<date type="published" when="2016-09-14">2016 Sep 14</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Current methods and challenges for acute pain clinical trials</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Gilron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Desjardins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kehlet</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/PR9.0000000000000647</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pain reports</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">647</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The good, the bad, and the ugly: the many faces of opioids</title>
+		<author>
+			<persName><forename type="first">Hugh</forename><forename type="middle">C</forename><surname>Hemmings</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Anaesthesia</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="705" to="707" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Post-surgical pain management: time for a paradigm shift</title>
+		<author>
+			<persName><forename type="first">Nicholas</forename><surname>Levy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Anaesthesia</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="182" to="e186" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">of-dependence-and-addiction Surgery and Opioids Best Practice Guidelines 2021</title>
+		<ptr target="https://www.gov.uk/drug-safety-update/opioids-risk-" />
+		<imprint/>
+	</monogr>
+	<note>Opioids medications and risk of addiction</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

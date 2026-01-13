@@ -1,0 +1,913 @@
+PARAGRAPH: This guideline replaces MTG3.
+
+
+
+## SECTION: OVERVIEW
+
+PARAGRAPH: This guideline covers care for adults (aged 18 and over) having elective or emergency surgery, including dental surgery. It covers all phases of perioperative care, from the time people are booked for surgery until they are discharged afterward. The guideline includes recommendations on preparing for surgery, keeping people safe during surgery and pain relief during recovery.
+
+PARAGRAPH: The recommendations in this guideline were developed before the COVID-19 pandemic. See NICE's COVID-19 rapid guideline on arranging planned care in hospitals and diagnostic services for guidance on minimising the risk from COVID-19.
+
+
+
+## SECTION: WHO IS IT FOR?
+
+PARAGRAPH: • Healthcare professionals, including dentists, in primary, secondary and tertiary care • Commissioners, planners and service providers, including those in non-NHS organisations commissioned to provide services for the NHS or local authorities • Adults having elective or emergency surgery, their families and carers
+
+
+
+## SECTION: RECOMMENDATIONS
+
+PARAGRAPH: People have the right to be involved in discussions and make informed decisions about their care, as described in NICE's information on making decisions about your care.
+
+PARAGRAPH: Making decisions using NICE guidelines explains how we use words to show the strength (or certainty) of our recommendations, and has information about prescribing medicines (including off-label use), professional guidelines, standards and laws (including on consent and mental capacity), and safeguarding.
+
+
+
+## SECTION: INFORMATION AND SUPPORT FOR PEOPLE HAVING SURGERY
+
+PARAGRAPH: Providing a point of contact 1.1.1 When booking surgery, give people a point of contact within the perioperative care team who can be approached for information and support before and after their surgery.
+
+PARAGRAPH: For a short explanation of why the committee made this recommendation and how it might affect practice, see the rationale and impact section on information and support for people having surgery.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in evidence review A: information and support needs.
+
+
+
+## SECTION: COMMUNICATING AND GIVING INFORMATION
+
+PARAGRAPH: 1.1.2 Follow the recommendations in the NICE guidelines on patient experience in adult NHS services and shared decision making, particularly relating to:
+
+PARAGRAPH: Perioperative care in adults (NG180)
+
+PARAGRAPH: • involvement of family members and carers • communication
+
+
+
+## SECTION: • INFORMATION
+
+PARAGRAPH: • shared decision making. 1.1.3 For people with a learning disability, follow the recommendations on communicating and making information accessible in the NICE guideline on care and support of people growing older with learning disabilities.
+
+
+
+## SECTION: ENHANCED RECOVERY PROGRAMMES
+
+PARAGRAPH: Offer an enhanced recovery programme to people having elective major or complex surgery.
+
+
+
+## SECTION: 1.2.2
+
+PARAGRAPH: Use an enhanced recovery programme that includes preoperative, intraoperative and postoperative components.
+
+PARAGRAPH: For a short explanation of why the committee made these recommendations and how they might affect practice, see the rationale and impact section on enhanced recovery programmes.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in evidence review B: enhanced recovery programmes.
+
+
+
+## SECTION: PREOPERATIVE CARE
+
+PARAGRAPH: Assessing the risks of surgery 1.3.1 Use a validated risk stratification tool to supplement clinical assessment when planning surgery, including dental surgery. Discuss the person's risks and surgical options with them to allow for informed shared decision making. Preoperative optimisation clinics for older people 1.3.3 Be aware that there was not enough clear evidence to show whether the benefits of preoperative optimisation clinics for older people outweigh the costs.
+
+PARAGRAPH: Therefore, the committee made a recommendation for research.
+
+
+
+## SECTION: MANAGING IRON-DEFICIENCY ANAEMIA
+
+
+
+## SECTION: IRON SUPPLEMENTATION
+
+
+
+## SECTION: 1.3.4
+
+PARAGRAPH: For people with iron-deficiency anaemia having surgery, follow the recommendations on intravenous and oral iron in the NICE guideline on blood transfusion.
+
+
+
+## SECTION: ORAL IRON REGIMENS
+
+
+
+## SECTION: 1.3.5
+
+PARAGRAPH: Consider an alternate-day oral iron regimen for people who have side effects from taking oral iron every day.
+
+
+
+## SECTION: WHEN TO START ORAL IRON SUPPLEMENTATION
+
+PARAGRAPH: Be aware that there was no evidence comparing different starting times for iron supplementation, so the committee made a recommendation for research.
+
+
+
+## SECTION: MEDICINES ADHERENCE
+
+
+
+## SECTION: 1.3.7
+
+PARAGRAPH: Follow the recommendations in the NICE guideline on medicines adherence to encourage adherence to oral iron regimens.
+
+PARAGRAPH: Reducing the risk of venous thromboembolism 1.3.8 Follow the recommendations on assessing and reducing the risk of venous thromboembolism for people having surgery in the NICE guideline on venous thromboembolism in over 16s.
+
+PARAGRAPH: Anticoagulation for people taking a vitamin K antagonist who need bridging therapy 1.3.9
+
+PARAGRAPH: Be aware that there was no evidence comparing low molecular weight heparin with unfractionated heparin used as perioperative anticoagulant bridging therapy for people taking a vitamin K antagonist. The committee therefore made a recommendation for research.
+
+
+
+## SECTION: NUTRITIONAL ASSESSMENT
+
+
+
+## SECTION: 1.3.10
+
+PARAGRAPH: Offer preoperative nutritional screening to people having intermediate surgery or major or complex surgery. 1.3.11 Follow the recommendations in the NICE guideline on nutrition support for adults on:
+
+PARAGRAPH: • screening for malnutrition
+
+
+
+## SECTION: • INDICATIONS FOR NUTRITION SUPPORT
+
+PARAGRAPH: • what to give.
+
+PARAGRAPH: Perioperative care in adults (NG180) © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).
+
+PARAGRAPH: Page 8 of 33
+
+PARAGRAPH: For a short explanation of why the committee made these recommendations and how they might affect practice, see the rationale and impact section on preoperative care.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in:
+
+PARAGRAPH: • evidence review C: preoperative risk stratification tools
+
+PARAGRAPH: • evidence review D: preoperative optimisation clinics for older adults
+
+PARAGRAPH: • evidence review E: preoperative management of anaemia
+
+PARAGRAPH: • evidence review F: management of anticoagulant medication
+
+PARAGRAPH: • evidence review G: nutritional screening in preoperative assessment.
+
+
+
+## SECTION: INTRAOPERATIVE CARE
+
+
+
+## SECTION: MANAGING FLUIDS
+
+PARAGRAPH: Oral fluids
+
+PARAGRAPH: Tell people having surgery, including dental surgery, that:
+
+PARAGRAPH: • they may drink clear fluids until 2 hours before their operation
+
+PARAGRAPH: • drinking clear fluids before the operation can help reduce headaches, nausea and vomiting afterwards
+
+PARAGRAPH: • clear fluids are water, fruit juice without pulp, coffee or tea without milk and ice lollies.
+
+PARAGRAPH: Consider carbohydrate drinks before surgery for people having abdominal major or complex surgery.
+
+
+
+## SECTION: INTRAVENOUS FLUIDS
+
+PARAGRAPH: 1.4.3
+
+PARAGRAPH: Consider using intravenous crystalloid for intraoperative fluid maintenance.
+
+PARAGRAPH: 1.4.4
+
+PARAGRAPH: Follow the recommendations in the NICE guideline on intravenous fluid therapy in adults in hospital on resuscitation and routine maintenance.
+
+
+
+## SECTION: CARDIAC OUTPUT MONITORING
+
+PARAGRAPH: 1.4.5
+
+PARAGRAPH: Consider cardiac output monitoring for people having major or complex surgery or high-risk surgery.
+
+
+
+## SECTION: BLOOD GLUCOSE CONTROL
+
+PARAGRAPH: 1.4.6
+
+PARAGRAPH: For people with type 1 diabetes, follow the recommendations on care of adults with type 1 diabetes in hospital in the NICE guideline on type 1 diabetes in adults.
+
+PARAGRAPH: 1.4.7
+
+PARAGRAPH: Do not use glucose-lowering medicines to achieve tight blood glucose control (4 to 6 mmol/litre) for people having surgery who have type 2 diabetes or do not have diabetes.
+
+
+
+## SECTION: SURGICAL SAFETY CHECKLISTS
+
+PARAGRAPH: 1.4.8
+
+PARAGRAPH: Ensure that the World Health Organization (WHO) surgical safety checklist is completed for each surgical procedure, including dental procedures.
+
+PARAGRAPH: 1.4.9
+
+PARAGRAPH: Consider adding steps to the WHO surgical safety checklist to eliminate preventable events reported locally or nationally, such as those in NHS Improvement's national patient safety alerts and surgical 'never events'. Follow the WHO surgical safety checklist implementation manual when adding steps to the checklist.
+
+PARAGRAPH: Perioperative care in adults (NG180)
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).
+
+PARAGRAPH: Page 10 of 33
+
+PARAGRAPH: For a short explanation of why the committee made these recommendations and how they might affect practice, see the rationale and impact section on intraoperative care.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in:
+
+PARAGRAPH: • evidence review H: preoperative fasting
+
+PARAGRAPH: • evidence review I: intravenous fluid management strategy
+
+PARAGRAPH: • evidence review J: non-invasive cardiac output monitoring
+
+PARAGRAPH: • evidence review K: blood glucose control management
+
+PARAGRAPH: • evidence review L: management systems to promote safety in operating theatres.
+
+
+
+## SECTION: POSTOPERATIVE CARE
+
+PARAGRAPH: 1.5.1
+
+PARAGRAPH: Provide postoperative care in a specialist recovery area (a high-dependency unit, a post-anaesthesia care unit or an intensive care unit) for people with a high risk of complications or mortality.
+
+PARAGRAPH: For a short explanation of why the committee made this recommendation and how it might affect practice, see the rationale and impact section on postoperative care.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in evidence review M: postoperative recovery in specialist areas.
+
+
+
+## SECTION: MANAGING PAIN
+
+PARAGRAPH: Planning pain management
+
+PARAGRAPH: Discuss the options for postoperative pain management with people before they have surgery, including dental surgery.
+
+PARAGRAPH: Take into account:
+
+PARAGRAPH: • clinical features including comorbidities, age, frailty, renal and liver function, allergies, current medicines and cognitive function
+
+PARAGRAPH: • whether the surgery is immediate, urgent, expedited or elective.
+
+PARAGRAPH: Include in the discussion:
+
+PARAGRAPH: • the likely impact of the procedure on the person's pain
+
+PARAGRAPH: • the person's preferences and expectations
+
+PARAGRAPH: • their pain history
+
+PARAGRAPH: • the potential benefits and risks, including long-term risks, of different types of pain relief
+
+PARAGRAPH: • plans for discharge.
+
+
+
+## SECTION: SELECTING ANALGESIA
+
+PARAGRAPH: 1.6.2
+
+PARAGRAPH: Offer a multimodal approach in which analgesics from different classes are combined to manage postoperative pain. Take into account the factors listed in recommendation 1.6.1.
+
+PARAGRAPH: 1.6.3
+
+PARAGRAPH: If controlled drugs are used, follow the recommendations on prescribing controlled drugs in the NICE guideline on controlled drugs.
+
+PARAGRAPH: 1.6.4
+
+PARAGRAPH: Consider prescribing pre-emptive analgesia for use when local anaesthesia wears off.
+
+PARAGRAPH: Paracetamol 1.6.5
+
+PARAGRAPH: Offer oral paracetamol before and after surgery, including dental surgery, irrespective of pain severity.
+
+PARAGRAPH: 1.6.6
+
+PARAGRAPH: Do not offer intravenous paracetamol unless the person cannot take oral medicine.
+
+PARAGRAPH: Non-steroidal anti-inflammatory drugs (NSAIDs)
+
+PARAGRAPH: 1.6.7
+
+PARAGRAPH: Offer oral ibuprofen to manage immediate postoperative pain of all severities (including pain after dental surgery) unless the person has had surgery for hip fracture (see the recommendations on analgesia in the NICE guideline on hip fracture).
+
+PARAGRAPH: 1.6.8
+
+PARAGRAPH: Do not offer an intravenous NSAID to manage immediate postoperative pain (including pain after dental surgery) unless the person cannot take oral medicine.
+
+PARAGRAPH: 1.6.9
+
+PARAGRAPH: If offering an intravenous NSAID to manage immediate postoperative pain, choose a traditional NSAID rather than a COX-2 (cyclo-oxygenase-2) inhibitor.
+
+PARAGRAPH: Opioids 1.6.10
+
+PARAGRAPH: Offer an oral immediate-release opioid only if immediate postoperative pain is expected to be moderate to severe. When giving an oral opioid:
+
+PARAGRAPH: • give the opioid as soon as the person can eat and drink after surgery
+
+PARAGRAPH: • adjust the dose to help the person achieve functional recovery (such as coughing and mobilising) as soon as possible.
+
+PARAGRAPH: 1.6.11
+
+PARAGRAPH: For people who cannot take oral opioids, offer a choice of PCA (patient-controlled analgesia) or a continuous epidural to relieve pain after surgery. Take into account the benefits of a continuous epidural for people who:
+
+PARAGRAPH: • are having major or complex open-torso surgery or
+
+PARAGRAPH: • are expected to have severe pain or
+
+PARAGRAPH: • have cognitive impairment.
+
+PARAGRAPH: Perioperative care in adults (NG180)
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).
+
+PARAGRAPH: Page 13 of
+
+
+
+## SECTION: INTRAVENOUS KETAMINE
+
+PARAGRAPH: 1.6.12 Consider a single dose (0.25 mg/kg to 1 mg/kg) of intravenous ketamine given either during or immediately after surgery to supplement other types of pain relief if:
+
+PARAGRAPH: • the person's pain is expected to be moderate to severe and an intravenous opioid alone does not provide adequate pain relief or
+
+PARAGRAPH: • the person has opioid sensitivity.
+
+PARAGRAPH: In August 2020, this was an off-label use of intravenous ketamine. See NICE's information on prescribing medicines.
+
+
+
+## SECTION: GABAPENTIN
+
+PARAGRAPH: 1.6.13
+
+PARAGRAPH: Be aware that, although there was evidence showing that the use of gabapentin to supplement other types of pain relief can be beneficial, the evidence about when to give gabapentin, and how much to give, was inconclusive. The committee therefore made a recommendation for research.
+
+PARAGRAPH: For a short explanation of why the committee made these recommendations and how they might affect practice, see the rationale and impact section on managing pain.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in:
+
+PARAGRAPH: • evidence review A: information and support needs
+
+PARAGRAPH: • evidence review N1: managing acute postoperative pain
+
+PARAGRAPH: • evidence review N2: managing acute postoperative pain (appendices).
+
+PARAGRAPH: Perioperative care in adults (NG180)
+
+
+
+## SECTION: TERMS USED IN THIS GUIDELINE
+
+
+
+## SECTION: CARDIAC OUTPUT MONITORING
+
+PARAGRAPH: Interventions to monitor parameters such as stroke volume, cardiac output or central venous pressure to evaluate volume status and guide decisions on fluid replacement therapy.
+
+
+
+## SECTION: HIGH-RISK SURGERY
+
+PARAGRAPH: Surgery with a risk of mortality greater than 5%.
+
+
+
+## SECTION: IMMEDIATE POSTOPERATIVE PAIN
+
+PARAGRAPH: Pain during the first 24 hours after surgery.
+
+
+
+## SECTION: INTERMEDIATE SURGERY
+
+PARAGRAPH: Examples include primary repair of inguinal hernia, excising varicose veins in the leg, tonsillectomy or adenotonsillectomy, and knee arthroscopy.
+
+
+
+## SECTION: MAJOR OR COMPLEX SURGERY
+
+PARAGRAPH: Examples include total abdominal hysterectomy, endoscopic resection of prostate, lumbar discectomy, thyroidectomy, total joint replacement, lung operations, colonic resection and radical neck dissection.
+
+
+
+## SECTION: RECOMMENDATIONS FOR RESEARCH
+
+PARAGRAPH: The guideline committee has made the following recommendations for research.
+
+
+
+## SECTION: KEY RECOMMENDATIONS FOR RESEARCH 1 PREOPERATIVE OPTIMISATION CLINICS FOR OLDER PEOPLE
+
+PARAGRAPH: What is the clinical and cost effectiveness of preoperative optimisation clinics for older people?
+
+PARAGRAPH: For a short explanation of why the committee made this recommendation for research, see the rationale on preoperative care.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in evidence review D:
+
+PARAGRAPH: preoperative optimisation clinics for older adults.
+
+
+
+## SECTION: ORAL IRON SUPPLEMENTATION
+
+PARAGRAPH: For people with iron-deficiency anaemia, how long before surgery should oral iron supplementation be started, and what is the clinical and cost effectiveness of daily oral iron compared with oral iron given on alternate days?
+
+PARAGRAPH: For a short explanation of why the committee made this recommendation for research, see the rationale on preoperative care.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in evidence review E:
+
+PARAGRAPH: preoperative management of anaemia.
+
+PARAGRAPH: Perioperative care in adults (NG180)
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights). Page 16 of 33
+
+
+
+## SECTION: MANAGING ANTICOAGULATION TREATMENT FOR PEOPLE TAKING A VITAMIN K ANTAGONIST WHO NEED BRIDGING THERAPY
+
+PARAGRAPH: What is the most clinical and cost-effective strategy, as identified by a consensus survey, for the perioperative management of anticoagulation treatment in people taking a vitamin K antagonist with a target international normalised ratio (INR) of more than 3 who need bridging therapy?
+
+PARAGRAPH: For a short explanation of why the committee made this recommendation for research, see the rationale on preoperative care.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in evidence review F: management of anticoagulant medication.
+
+
+
+## SECTION: ENHANCED RECOVERY PROGRAMMES
+
+PARAGRAPH: What is the clinical and cost effectiveness of enhanced recovery programmes for adults having major emergency surgery?
+
+PARAGRAPH: For a short explanation of why the committee made this recommendation for research, see the rationale on enhanced recovery programmes.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in evidence review B: enhanced recovery programmes.
+
+
+
+## SECTION: SPECIALIST RECOVERY AREAS
+
+PARAGRAPH: Which patients, other than those known to have a high risk of complications or mortality, would benefit from postoperative care in a specialist recovery area (a high-dependency unit, a post-anaesthesia care unit or an intensive care unit)?
+
+PARAGRAPH: Perioperative care in adults (NG180)
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights). Page 17 of 33
+
+PARAGRAPH: For a short explanation of why the committee made this recommendation for research, see the rationale on postoperative care.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in evidence review M:
+
+PARAGRAPH: postoperative recovery in specialist areas.
+
+
+
+## SECTION: OTHER RECOMMENDATIONS FOR RESEARCH 6 PREOPERATIVE CARBOHYDRATE DRINKS
+
+PARAGRAPH: What is the optimal timing of administration of carbohydrate drinks as part of a preoperative fasting strategy?
+
+PARAGRAPH: For a short explanation of why the committee made this recommendation for research, see the rationale on intraoperative care.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in evidence review H: preoperative fasting.
+
+
+
+## SECTION: SINGLE-DOSE GABAPENTIN
+
+PARAGRAPH: What is the most clinically and cost-effective timing and dose of a single administration of gabapentin to relieve pain in people undergoing surgery whose pain is expected to be moderate to severe?
+
+PARAGRAPH: For a short explanation of why the committee made this recommendation for research, see the rationale on managing pain.
+
+PARAGRAPH: Full details of the evidence and the committee's discussion are in evidence review N2:
+
+PARAGRAPH: managing acute postoperative pain (appendices).
+
+
+
+## SECTION: RATIONALE AND IMPACT
+
+PARAGRAPH: These sections briefly explain why the committee made the recommendations and how they might affect practice.
+
+
+
+## SECTION: INFORMATION AND SUPPORT FOR PEOPLE HAVING SURGERY
+
+PARAGRAPH: Recommendation 1.1.1
+
+
+
+## SECTION: WHY THE COMMITTEE MADE THE RECOMMENDATION
+
+PARAGRAPH: Evidence from studies using patient focus groups and face-to-face interviews showed that people place a high value on having information that is consistent and available when they need it. Patients in these studies stressed the importance of knowing who to contact if they have concerns or queries, particularly after discharge. The studies also illustrated how people's information needs change before, during and after surgery, with some postoperative patients reporting difficulty recalling information given to them before surgery. The committee agreed that their experience reflects the evidence. They also noted that people who feel well informed about their surgery and recovery are less anxious than those who do not.
+
+PARAGRAPH: The committee concurred that their recommendation, together with the recommendations in the NICE guidelines on patient experience in adult NHS services and care and support of people growing older with learning disabilities cover the information and support needed by adults during perioperative care.
+
+
+
+## SECTION: HOW THE RECOMMENDATION MIGHT AFFECT PRACTICE
+
+PARAGRAPH: In larger hospitals the point of contact could be a specific team member such as a clinical nurse specialist. In smaller units the point of contact may need to be a team of people. The point of contact may change as people's needs change throughout the stages of perioperative care. In current practice the amount, availability and sources of information for people having surgery all vary. This recommendation is not expected to lead to major changes in practice.
+
+
+
+## SECTION: RETURN TO RECOMMENDATIONS
+
+PARAGRAPH: Perioperative care in adults (NG180)
+
+
+
+## SECTION: ENHANCED RECOVERY PROGRAMMES
+
+PARAGRAPH: Recommendations 1.2.1 and 1.2.2
+
+
+
+## SECTION: WHY THE COMMITTEE MADE THE RECOMMENDATIONS
+
+PARAGRAPH: There was a large body of evidence showing that hospital stays are shorter, postoperative complications less frequent and overall costs lower when people having elective major or complex surgery follow an enhanced recovery programme (ERP).
+
+PARAGRAPH: The committee agreed that, for optimum effectiveness, an ERP should span the preoperative, intraoperative and postoperative stages, so recommended that components covering all 3 stages be included. They acknowledged that the specific components of an ERP depend on the type of surgery so did not make recommendations detailing the particulars of these components.
+
+PARAGRAPH: There is no evidence on the effectiveness of ERPs in emergency surgery, but the committee thought they might be beneficial and made a recommendation for research on enhanced recovery programmes.
+
+
+
+## SECTION: HOW THE RECOMMENDATIONS MIGHT AFFECT PRACTICE
+
+PARAGRAPH: According to the Perioperative Quality Improvement Programme (PQIP) 2017/2018 annual report, 61% of patients enrolled in the PQIP were following an ERP. The report noted that the use of ERPs varies across specialties and hospitals. To implement this recommendation, specialties and hospitals that do not currently provide an ERP covering all 3 stages of perioperative care for patients having major or complex elective surgery will need to restructure their surgical care. This might have an initial resource impact, although some features of an ERP, such as early mobilisation and early intake of food and fluids, are current practice in many hospitals. Introducing an ERP can be expected to reduce the length of hospital stays and the incidence of complications, thereby reducing overall costs.
+
+
+
+## SECTION: RETURN TO RECOMMENDATIONS
+
+
+
+## SECTION: PREOPERATIVE CARE
+
+PARAGRAPH: Recommendations 1.3.1 to 1.3.11
+
+
+
+## SECTION: WHY THE COMMITTEE MADE THE RECOMMENDATIONS
+
+
+
+## SECTION: ASSESSING THE RISKS OF SURGERY
+
+PARAGRAPH: Validated preoperative risk stratification tools are freely available and can be completed rapidly. Although no risk stratification tool is 100% accurate, the evidence showed that validated tools are sufficiently accurate to be a useful supplement to clinical assessment.
+
+PARAGRAPH: The committee noted that a validated risk stratification tool can also help to frame discussions about risk with the person having surgery. This includes changes the person can make to reduce their risk, such as stopping smoking. The committee agreed that the risk of postoperative morbidity is an important concern for people when they are making decisions about surgery.
+
+
+
+## SECTION: PREOPERATIVE OPTIMISATION CLINICS FOR OLDER PEOPLE
+
+PARAGRAPH: Preoperative optimisation clinics for older people are designed to reduce complications and deaths associated with surgery by proactively addressing risk factors identified during the preoperative assessment. These clinics are not available in all areas and are expensive to establish. Although a small number of studies suggested a possible improvement in surgical outcomes, the evidence was inconclusive. The committee decided that, because of the high cost and lack of clear evidence, they could not make a recommendation on these clinics. However, they agreed that this is an important area and made a recommendation for research on preoperative optimisation clinics for older people.
+
+
+
+## SECTION: ORAL IRON REGIMENS
+
+PARAGRAPH: Oral iron supplements are usually taken daily but some people have unpleasant side effects from daily iron. The committee thought that, for these people, switching to an alternate-day regimen should be considered as a means of reducing side effects and encouraging adherence. They noted that an alternate-day regimen does not address problems with tolerability or absorption, and the potential benefits need to be balanced against the risk that an alternate-day regimen might be more complicated for people taking multiple daily medicines. There was no evidence on the comparative effectiveness of daily and alternate-day oral iron regimens.
+
+
+
+## SECTION: WHEN TO START ORAL IRON SUPPLEMENTATION
+
+PARAGRAPH: In all of the studies, iron supplementation had been started about 3 weeks before surgery.
+
+PARAGRAPH: In current practice, this varies. There were no studies that compared different starting times, so the committee were unable to determine the best time to start iron therapy before surgery.
+
+PARAGRAPH: The committee made a recommendation for research on oral iron supplementation.
+
+
+
+## SECTION: ANTICOAGULATION FOR PEOPLE TAKING A VITAMIN K ANTAGONIST WHO NEED BRIDGING THERAPY
+
+PARAGRAPH: People who take a vitamin K antagonist are at high risk of venous thromboembolism or stroke and therefore, it is usual practice to provide bridging anticoagulation during surgery with either subcutaneous low molecular weight heparin (LMWH) or intravenous unfractionated heparin (UFH). No clinical evidence was identified comparing LMWH with UFH in this high-risk group of patients. The committee noted that people who take a vitamin K antagonist with a target international normalised ratio (INR) of more than 3 and who need bridging therapy are a small proportion of the population taking vitamin K antagonists, and that many of these people have mechanical heart valves. Because of the lack of evidence, the committee made a recommendation for research on managing anticoagulation treatment for people taking a vitamin K antagonist who need bridging therapy.
+
+
+
+## SECTION: NUTRITIONAL ASSESSMENT
+
+PARAGRAPH: No evidence on nutritional assessment was available. The committee noted that nutritional deficiency contributes to reduced physiological resilience, which is associated with increased complications and perioperative mortality. Because of this, they agreed that preoperative nutritional screening is useful for people having intermediate, major or complex surgery.
+
+
+
+## SECTION: HOW THE RECOMMENDATIONS MIGHT AFFECT PRACTICE
+
+
+
+## SECTION: ASSESSING THE RISKS OF SURGERY
+
+PARAGRAPH: Preoperative risk stratification tools are commonly used in current practice and the recommendation is not expected to change practice.
+
+
+
+## SECTION: ORAL IRON REGIMENS
+
+PARAGRAPH: The option to consider switching from a daily to an alternate-day regimen might increase adherence to oral iron therapy in people who have unpleasant side effects from daily iron.
+
+PARAGRAPH: This has the potential to reduce the need for blood transfusions and improve surgical outcomes for this group of people.
+
+
+
+## SECTION: NUTRITIONAL ASSESSMENT
+
+PARAGRAPH: Preoperative nutritional assessment for intermediate, major or complex surgery is current practice and the recommendation is not expected to lead to changes in practice.
+
+
+
+## SECTION: RETURN TO RECOMMENDATIONS
+
+
+
+## SECTION: INTRAOPERATIVE CARE
+
+PARAGRAPH: Recommendations 1.4.1 to 1.4.9
+
+
+
+## SECTION: WHY THE COMMITTEE MADE THE RECOMMENDATIONS
+
+
+
+## SECTION: ORAL FLUIDS
+
+PARAGRAPH: Some evidence showed that drinking water until 2 hours before surgery reduces postoperative headaches, nausea and vomiting. The committee noted that many patients are not aware of this and that there is a widespread belief that fluids should be avoided before surgery. They agreed that there was sufficient evidence to recommend drinking clear fluids before surgery, and that the benefits should be explained to patients.
+
+PARAGRAPH: There was not enough evidence to justify the routine use of preoperative carbohydrate drinks for most types of surgery. A small amount of evidence suggested reductions in postoperative thirst and headache in people given a carbohydrate drink before surgery.
+
+PARAGRAPH: However, the evidence did not show any substantial benefits in terms of patient satisfaction or the occurrence of other side effects.
+
+PARAGRAPH: The committee noted that people having major abdominal surgery may need longer postoperative fasting periods and therefore might benefit more than others from preoperative carbohydrate drinks. Some evidence also suggested that length of hospital stay after major abdominal surgery is reduced in people given a preoperative carbohydrate drink. For these reasons, the committee agreed that carbohydrate drinks could be considered for people having this type of surgery.
+
+PARAGRAPH: There was no evidence on the best time to give preoperative carbohydrate drinks or clear fluids, so the committee made a recommendation for research on preoperative carbohydrate drinks.
+
+
+
+## SECTION: INTRAVENOUS FLUIDS
+
+PARAGRAPH: A small amount of evidence suggested a possible reduction in mortality when intravenous crystalloid, rather than colloid, is used for intraoperative fluid management. However, there was also evidence showing that crystalloids resulted in a clinically important increase in nausea and vomiting. The committee were aware that crystalloid use has become more common after reports of increased risks of acute kidney injury, coagulopathy and mortality with colloid. They also noted that crystalloid is less expensive than colloid. They concluded that crystalloid should be considered for intraoperative fluid maintenance.
+
+
+
+## SECTION: CARDIAC OUTPUT MONITORING
+
+PARAGRAPH: Older evidence suggested that cardiac output monitoring reduces some complications.
+
+PARAGRAPH: However, the relevance of this evidence to current practice was unclear because of subsequent improvements in perioperative care such as better preoperative risk assessment and advancements in surgical techniques. More recent evidence also supported the use of cardiac output monitoring to reduce complications, but this evidence was from 1 small study. The committee agreed that cardiac output monitoring should be considered on a case-by-case basis.
+
+
+
+## SECTION: BLOOD GLUCOSE CONTROL IN HOSPITAL
+
+PARAGRAPH: There was no evidence that tight blood glucose control in hospital improves outcomes for people with type 2 diabetes or those without diabetes. In addition, there was evidence suggesting that tight blood glucose control increases episodes of hypoglycaemia. The committee therefore concluded that tight blood glucose control is not necessary for people in these 2 groups.
+
+
+
+## SECTION: SURGICAL SAFETY CHECKLISTS
+
+PARAGRAPH: Evidence showed that using the World Health Organization (WHO) surgical safety checklist (SSC) reduces complications and mortality. Although the SSC is mandatory in NHS practice, the committee were aware from their experience that completion of the checklist varies. They reasoned that the occurrence of preventable 'never events' could be associated with this variation in completion of the SSC. They therefore decided to make a recommendation to highlight the importance of completing the SSC.
+
+PARAGRAPH: In the committee's view, reducing 'never events' should be a primary focus of surgical safety checklists. They agreed that adding steps to the SSC could help to achieve this and should be considered whenever relevant events are reported.
+
+
+
+## SECTION: HOW THE RECOMMENDATIONS MIGHT AFFECT PRACTICE
+
+
+
+## SECTION: ORAL FLUIDS
+
+PARAGRAPH: Current clinical practice on allowing oral fluids before surgery varies, with some services offering carbohydrate drinks before surgery, some allowing clear fluids until 2 to 4 hours before surgery, and others advising people to fast from midnight before surgery. The committee noted that more centres are moving away from traditional preoperative fasting regimens and using the more liberal regimen of clear fluids up to 2 hours before surgery.
+
+PARAGRAPH: This recommendation is expected to increase the number of services adopting more liberal regimens.
+
+
+
+## SECTION: INTRAVENOUS FLUIDS
+
+PARAGRAPH: The use of intravenous crystalloid for intraoperative fluid maintenance reflects current practice and is not expected to result in a change in practice.
+
+
+
+## SECTION: CARDIAC OUTPUT MONITORING
+
+PARAGRAPH: The recommendation on cardiac output monitoring reflects current practice and is not expected to lead to major changes in practice.
+
+
+
+## SECTION: BLOOD GLUCOSE CONTROL IN HOSPITAL
+
+PARAGRAPH: Blood glucose control varies in current practice, although there has been a shift away from tight control because of concerns about hypoglycaemic events. The recommendation is expected to change practice in services that still use tight blood glucose control for people with type 2 diabetes or without diabetes. It may also prevent operations being cancelled unnecessarily on the basis of blood glucose levels.
+
+
+
+## SECTION: SURGICAL SAFETY CHECKLISTS
+
+PARAGRAPH: The recommendations are expected to reinforce use of the SSC in current practice.
+
+PARAGRAPH: Modifying the SSC to address risks highlighted in national patient safety alerts and 'never events' reports, is expected to reduce the number of preventable 'never events' that occur.
+
+
+
+## SECTION: RETURN TO RECOMMENDATIONS
+
+PARAGRAPH: Postoperative care
+
+PARAGRAPH: Recommendation 1.5.1
+
+
+
+## SECTION: WHY THE COMMITTEE MADE THE RECOMMENDATION
+
+PARAGRAPH: The committee agreed that people with a high risk of complications or mortality should have postoperative care in a non-ward-based specialist recovery area to improve outcomes such as quality of life and to reduce the incidence of adverse events. However, they noted that there is a large group of people in whom the need for postoperative care in a specialist recovery area is less clear, and made a recommendation for research on specialist recovery areas.
+
+
+
+## SECTION: HOW THE RECOMMENDATION MIGHT AFFECT PRACTICE
+
+PARAGRAPH: The recommendation is expected to lead to a need for increased capacity and staff in hospitals performing major or complex surgery, or surgery in patients with a high risk of complications or mortality. The resource impact for the NHS is likely to be significant because of the high cost of care in specialist recovery areas and the large number of patients likely to need this care. However, there may also be savings achieved by reducing the occurrence of postoperative adverse events and the need to manage these.
+
+
+
+## SECTION: RETURN TO RECOMMENDATIONS
+
+
+
+## SECTION: MANAGING PAIN
+
+PARAGRAPH: Recommendations 1.6.1 to 1.6.13
+
+PARAGRAPH: Why the committee made the recommendations
+
+
+
+## SECTION: PLANNING PAIN MANAGEMENT
+
+PARAGRAPH: Based on their experience, the committee agreed that people having surgery should be informed of the options for pain management and be actively involved in choosing their own pain management whenever possible.
+
+
+
+## SECTION: SELECTING ANALGESIA
+
+PARAGRAPH: The committee agreed, based on their experience, that multimodal analgesia provides more effective pain relief and reduces the need for opioids and the occurrence of opioidrelated complications. They also agreed that prescribing pre-emptive analgesia should be considered to ensure that pain is managed when local anaesthesia wears off.
+
+
+
+## SECTION: PARACETAMOL
+
+PARAGRAPH: Some evidence suggested that paracetamol used alongside opioid analgesia reduces the amount of opioid needed to manage pain. The committee therefore agreed that paracetamol is beneficial in reducing opioid consumption. There was no evidence showing a significant difference in effectiveness between oral and intravenous paracetamol.
+
+PARAGRAPH: Intravenous paracetamol is much more expensive so the committee did not recommend it for people who can take oral medicines.
+
+
+
+## SECTION: NON-STEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDS)
+
+PARAGRAPH: The evidence showed that NSAIDs provide effective additional pain relief, reducing the amount of other types of analgesia needed. Traditional NSAIDs are more cost effective than COX-2 (cyclo-oxygenase-2) inhibitors, and oral ibuprofen is the most cost-effective traditional NSAID. There was no evidence showing a significant difference in effectiveness between NSAIDs or routes of administration. Intravenous NSAIDs are more expensive so the committee did not recommend them for people who can take oral medicines.
+
+
+
+## SECTION: OPIOIDS
+
+PARAGRAPH: There was no evidence showing a significant difference in effectiveness between oral and intravenous opioids. Intravenous opioids are more expensive so the committee did not recommend them for people who can take oral medicines.
+
+PARAGRAPH: For people who cannot take an oral opioid, the committee agreed that a choice of PCA (patient-controlled analgesia) or epidural should be offered because there was no evidence favouring either mode of administration for most people having surgery. An exception is the group having major or complex open-torso surgery, who may benefit from the early pain relief provided by a continuous epidural. The committee pointed out that factors such as patient preference and ability to use a PCA pump effectively should be taken into account when choosing between PCA and continuous epidural. The committee looked at the possible benefits of spinal administration and agreed that there was insufficient evidence to support a recommendation.
+
+
+
+## SECTION: INTRAVENOUS KETAMINE
+
+PARAGRAPH: There was evidence showing that adding intravenous ketamine to an intravenous opioid can reduce both pain and opioid consumption. The committee noted that ketamine has an additive analgesic effect. They agreed, based on their experience, that intravenous ketamine is helpful if an intravenous opioid alone does not provide adequate pain relief, or if the person is opioid sensitive (abnormal pain sensitivity). Based on the evidence and their experience, the committee agreed that a single dose of 0.25 mg/kg to 1 mg/kg should be considered in these situations.
+
+
+
+## SECTION: GABAPENTIN
+
+PARAGRAPH: Evidence showed that a single dose of gabapentin can lessen postoperative pain and reduce the amount of opioid needed. However, the studies used a range of doses and administered the gabapentin at different times, so the optimal dose and timing of administration remain uncertain. The committee therefore made a recommendation for research on single-dose gabapentin.
+
+
+
+## SECTION: HOW THE RECOMMENDATIONS MIGHT AFFECT PRACTICE
+
+
+
+## SECTION: PLANNING PAIN MANAGEMENT
+
+PARAGRAPH: The committee noted that pain management is usually planned during a preoperative assessment. Although preoperative assessments are standard in current practice, actively involving the person in decisions about their pain management may lead to a small increase in staff time required.
+
+
+
+## SECTION: SELECTING ANALGESIA
+
+PARAGRAPH: A multimodal approach is current practice and the recommendation is not expected to change this.
+
+
+
+## SECTION: PARACETAMOL
+
+PARAGRAPH: The recommendations can be expected to result in cost savings by reducing the use of intravenous paracetamol. They are also expected to lead to dose reductions in opioid analgesia, resulting in fewer side effects from opioid consumption.
+
+
+
+## SECTION: NSAIDS
+
+PARAGRAPH: Concerns about cardiac and renal complications have limited the use of NSAIDs in people having surgery. These recommendations can be expected to change practice by increasing the use of short courses of traditional oral NSAIDs for people having surgery.
+
+
+
+## SECTION: OPIOIDS
+
+PARAGRAPH: Intravenous opioid administration is often used in current practice because it is perceived to be more convenient and offer better pain relief. The recommendations are expected to lead to a change in this practice, with a reduction in intravenous opioid administration and a concomitant increase in the use of oral opioids.
+
+PARAGRAPH: PCA and continuous epidurals are used routinely in current practice, although there are variations in their use across services.
+
+PARAGRAPH: Because these recommendations are for the perioperative period only, an opiate withdrawal plan is not necessary, but one would need to be considered if opioids were used in the longer term.
+
+PARAGRAPH: This recommendation is not expected to lead to major changes in practice.
+
+
+
+## SECTION: INTRAVENOUS KETAMINE
+
+PARAGRAPH: The use of intravenous ketamine in postoperative pain management has increased in recent years. Although ketamine is more expensive than other analgesics, the recommendation is not expected to have a significant impact because it is restricted to a single dose and only one-third of people having surgery are expected to experience moderate to severe pain.
+
+
+
+## SECTION: RETURN TO RECOMMENDATIONS
+
+PARAGRAPH: Perioperative care in adults (NG180)
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights). Page 30 of 33 Context Approximately 11 million people have surgery each year in the NHS. Over half are having elective (non-emergency) procedures. Although the standard of care during surgery is high, preventable complications and deaths still occur. Most of these are in high-risk patients, who make up 15% of all patients having surgery. Perioperative care is a broad field covering an array of elective and emergency procedures across a varied population. This guideline focuses on aspects of perioperative care where practice varies. It brings together the available evidence and provides recommendations to standardise practice and improve surgical outcomes. It also highlights areas where research is needed to inform future guidance.
+
+
+
+## SECTION: FINDING MORE INFORMATION AND COMMITTEE DETAILS
+
+PARAGRAPH: To find NICE guidance on related topics, including guidance in development, see the NICE topic page on surgical care.
+
+PARAGRAPH: For full details of the evidence and the guideline committee's discussions, see the evidence reviews. You can also find information about how the guideline was developed, including details of the committee.
+
+PARAGRAPH: NICE has produced tools and resources to help you put this guideline into practice. For general help and advice on putting our guidelines into practice, see resources to help you put NICE guidance into practice.
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 4 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 6 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 7 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 9 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 11 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 12 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 14 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 15 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 18 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 19 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 20 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 21 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 22 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 23 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 24 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 25 of
+
+PARAGRAPH: Perioperative care in adults (NG180) © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 26 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 27 of
+
+PARAGRAPH: Perioperative care in adults (NG180) © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 28 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 29 of
+
+PARAGRAPH: © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 31 of
+
+PARAGRAPH: Perioperative care in adults (NG180) © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).Page 32 of

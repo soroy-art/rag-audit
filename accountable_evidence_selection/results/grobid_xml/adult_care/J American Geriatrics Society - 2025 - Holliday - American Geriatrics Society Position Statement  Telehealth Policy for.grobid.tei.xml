@@ -1,0 +1,2124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">American Geriatrics Society Position Statement: Telehealth Policy for Older Adults</title>
+				<funder>
+					<orgName type="full">AGS Executive and Health Systems Innovation and Technology Committees</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">American Geriatrics Society</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-07-12">2025-07-12</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Alison</forename><forename type="middle">M</forename><surname>Holliday</surname></persName>
+							<email>aliholliday@gmail.com</email>
+						</author>
+						<author>
+							<persName><forename type="first">Ardeshir</forename><forename type="middle">Z</forename><surname>Hashmi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Center for Geriatric Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine and Geriatrics</orgName>
+								<orgName type="institution">Cleveland Clinic</orgName>
+								<address>
+									<settlement>Cleveland</settlement>
+									<region>Ohio</region>
+									<country>USA |</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Adaora</forename><forename type="middle">O</forename><surname>Okoli‐umeweni</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ariba</forename><surname>Khan</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">School of Medicine and Public Health</orgName>
+								<orgName type="institution" key="instit1">University of Wisconsin</orgName>
+								<orgName type="institution" key="instit2">Advocate Aurora Health Care</orgName>
+								<address>
+									<settlement>Milwaukee</settlement>
+									<region>Wisconsin</region>
+									<country>USA |</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shivani</forename><forename type="middle">K</forename><surname>Jindal</surname></persName>
+							<idno type="ORCID">0000-0003-0613-1987</idno>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">University of Cincinnati College of Medicine</orgName>
+								<address>
+									<settlement>Cincinnati</settlement>
+									<region>Ohio</region>
+									<country>USA |</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Swati</forename><surname>Gaur</surname></persName>
+							<idno type="ORCID">0000-0002-1392-8639</idno>
+							<affiliation key="aff5">
+								<orgName type="department">Geriatric Medicine</orgName>
+								<orgName type="institution">New Horizons Limestone</orgName>
+								<address>
+									<settlement>Gainesville</settlement>
+									<region>Georgia</region>
+									<country>USA |</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Veronica</forename><surname>Rivera</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Department of Geriatrics and Palliative Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Family Medicine and Community Health</orgName>
+								<orgName type="department" key="dep3">Department of Medical Education</orgName>
+								<orgName type="department" key="dep4">Icahn School of Medicine at Mount</orgName>
+								<address>
+									<settlement>Sinai New York</settlement>
+									<region>New York</region>
+									<country>USA |</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Neela</forename><forename type="middle">K</forename><surname>Patel</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Division of Geriatrics &amp; Supportive Care</orgName>
+								<orgName type="institution">University of Texas Health Science Center at San Antonio</orgName>
+								<address>
+									<addrLine>San Antonio</addrLine>
+									<settlement>Texas</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">American Geriatrics Society Position Statement: Telehealth Policy for Older Adults</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the American Geriatrics Society</title>
+						<title level="j" type="abbrev">J American Geriatrics Society</title>
+						<idno type="ISSN">0002-8614</idno>
+						<idno type="eISSN">1532-5415</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<date type="published" when="2025-07-12" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">C1D9757989E0A505063D2411ADFC02AC</idno>
+					<idno type="DOI">10.1111/jgs.70004</idno>
+					<note type="submission">Received: 16 June 2025 | Accepted: 17 June 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2025-11-07T18:10+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>age-friendly health systems</term>
+					<term>digital health equity</term>
+					<term>health policy</term>
+					<term>older adults</term>
+					<term>telehealth</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Telehealth offers an important and growing opportunity to provide convenient and effective care to older adults, as became evident during the COVID-19 pandemic. With increasing chances to embed technology in a person's home and provide care remotely, it is imperative that we ensure that diverse older adults have access to telehealth. This statement represents the official policy position of the American Geriatrics Society (AGS), to inform stakeholders about key factors to consider when implementing telehealth. In this position statement, we define telehealth as any method used to provide healthcare remotely by using technology. We outline barriers to providing telehealth to older adults and recommend policies to address those barriers. The AGS positions include recommendations ensuring equitable access to technology, improving digital literacy, addressing physical and cognitive impairments, and enhancing caregiver support, and for tackling reimbursement and regulatory challenges. The AGS recommendations also include attention to the 4Ms put forward by the Age-Friendly Health Systems (AFHS) movement (What Matters, Medication, Mentation, Mobility) with attention to how best to integrate telehealth into the care of older adults with Multicomplexity (the geriatrics fifth M).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">| Introduction</head><p>Telehealth offers an important and growing opportunity to provide convenient and appropriate care to older adults. Over the past few decades, the utilization of telehealth services has grown, with exponential growth during the COVID-19 pandemic when sheltering at home was advised. The number of clinicians and patients participating in telehealth rose sharply in 2020. About 14% of older adults reported that their clinician offered telehealth visits in May 2019, while that number rose to 62% by June 2020 <ref type="bibr" target="#b0">[1]</ref>. Around that same time in 2020, telehealth accounted for about 50% of all primary care visits among Medicare beneficiaries [2].</p><p>Telehealth is defined as "the use of electronic information and telecommunication technologies to extend care" when patients and clinicians are not in the same place at the same time <ref type="bibr" target="#b2">[3]</ref>, and it includes clinical care that is asynchronous</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>(e.g., secure portal), synchronous (e.g., video visits between a person and clinician), as well as remote patient monitoring (e.g., glucose monitoring) <ref type="bibr" target="#b3">[4]</ref>.</p><p>The exponential growth in telehealth during COVID-19 occurred when, in response to the public health emergency which included recommendations that the public shelter in place, the Centers for Medicare and Medicaid Services (CMS) relaxed regulations and enabled easier reimbursement <ref type="bibr" target="#b4">[5]</ref>. Specifically, CMS approved temporary waivers, enabling reimbursement for both video and audio visits as a mechanism for ensuring that people had access to their clinicians for both routine and emergency care needs.</p><p>Subsequently, the advantages of telehealth have become apparent from this more widespread use. The numerous advantages of telehealth include reduced no-show and cancellations due to transportation or illness by having access to clinician visits from the convenience of their home <ref type="bibr">[6,</ref><ref type="bibr" target="#b6">7]</ref>, reduced emergency department visits <ref type="bibr" target="#b7">[8]</ref> and hospital admissions <ref type="bibr" target="#b8">[9]</ref>, as well as cost savings <ref type="bibr">[10]</ref>. There are also advantages of telehealth that particularly benefit older people, including a decreased need for travel <ref type="bibr">[10]</ref>, which is particularly important for older persons with limited physical mobility or limited transportation options, improved caregiver wellbeing <ref type="bibr" target="#b11">[11]</ref>, improved wound outcomes <ref type="bibr" target="#b12">[12]</ref><ref type="bibr" target="#b13">[13]</ref><ref type="bibr" target="#b14">[14]</ref>, and improved mental health outcomes <ref type="bibr" target="#b15">[15,</ref><ref type="bibr" target="#b16">16]</ref>, which particularly benefits older patients who suffer from loneliness <ref type="bibr" target="#b18">[17]</ref>. Overall, older adults are satisfied with telehealth services, and they report that it can be accessible and safe <ref type="bibr" target="#b19">[18]</ref>.</p><p>Despite the many advantages of telehealth, however, there are also notable disadvantages, including limited ability for a thorough physical examination and hands-on assessment, which may impact diagnosis and the comprehensiveness of care. In addition, older adults face particular barriers in accessing care via telehealth. These barriers include the following: limited access to technology, limited digital literacy, physical and cognitive impairments, lack of caregiver support, reimbursement and regulatory challenges for clinicians providing these services, limited guidance on age-friendly telehealth implementation and practice <ref type="bibr" target="#b20">[19]</ref>, multicomplexities of clinical presentations and chronic conditions, and ageism <ref type="bibr" target="#b21">[20,</ref><ref type="bibr" target="#b22">21]</ref>. Ageism involves discriminating against a person solely based on age. For example, older adults are often viewed as both using and being potentially undeserving of an undue amount of healthcare resources <ref type="bibr" target="#b23">[22]</ref>. Overall, these barriers to telehealth have the potential to limit access to healthcare services, increase the risk of health complications, and reduce quality of life, all in a way that disproportionally impacts older people. It is important to address these barriers to ensure that older adults can access the healthcare they need through telehealth services.</p><p>Telehealth has become an essential component of care, and older adults have indicated a strong desire for telehealth services to remain available <ref type="bibr" target="#b24">[23]</ref>. The availability and future of telehealth, however, remain uncertain. Although Congress has passed legislation to extend the telehealth waiver through 2024, policies beyond that timeframe are not yet in place. In this position statement, we identify areas where key telehealth policies are necessary to maximize older adults' chances to receive high quality, appropriate, safe telehealth care (see Table <ref type="table" target="#tab_1">1</ref>). The policy recommendations are organized around barriers to receiving safe, equitable, and high-quality telehealth services that disproportionately affect older adults.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">| Methods</head><p>The AGS Health Systems Innovations and Technology Committee is charged with ensuring every older American receives highquality, coordinated, cost-effective, person-centered care by developing and supporting economic and technologic health system innovation. The Telehealth Subcommittee, a subcommittee of telehealth experts within the larger Health Systems Innovations and Technology Committee, convened to form expert opinion, conducted a literature review, and examined relevant reports and studies pertinent to this statement. The draft recommendations were reviewed and approved by the AGS Executive Committee on behalf of the AGS Board of Directors in September 2024.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">| Expanded Background and Rationale</head><p>The COVID-19 pandemic has underscored the potential of telehealth as a valuable care delivery method for older adults [6, <ref type="bibr" target="#b25">24,</ref><ref type="bibr" target="#b26">25]</ref>, offering numerous benefits such as improved clinical outcomes, enhanced patient and caregiver experiences, and positive logistical and social determinant outcomes <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b27">[26]</ref><ref type="bibr" target="#b28">[27]</ref><ref type="bibr" target="#b29">[28]</ref><ref type="bibr" target="#b30">[29]</ref><ref type="bibr" target="#b31">[30]</ref>. However, despite its promise, there are significant barriers that older adults face when accessing telehealth services. This position statement highlights these barriers and advocates for policies and actions to address them, with the aim to make telehealth more equitable and accessible for older adults.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.1">| Access to Technology</head><p>• The Federal Communications Commission (FCC) should prioritize and invest in increasing broadband internet access in rural and urban communities.</p><p>• Health systems should advocate for universal broadband internet access for older adults through infrastructure and resources.</p><p>• Health systems should offer subsidies and access to resources for affordable and accessible age-friendly devices.</p><p>Access to technology is a foundational issue that profoundly impacts the success of telehealth initiatives for older adults. The use of telehealth in 2021 among over 65-year-old persons was a little over 10% compared to almost 30% in those younger than 65. Among Medicare users, utilization in rural areas was almost 5% lower compared to the urban areas <ref type="bibr" target="#b33">[31]</ref> and in general rural adults face greater connectivity challenges <ref type="bibr" target="#b28">[27,</ref><ref type="bibr" target="#b34">[32]</ref><ref type="bibr" target="#b35">[33]</ref><ref type="bibr">[34]</ref>.</p><p>Low utilization of telehealth in older adults compared to their younger counterparts is multifactorial. Many studies that have shed light on this complex issue have demonstrated a common theme of access to technology as a foundational problem. For example, some older adults lack the necessary internet connectivity, devices (e.g., smartphone, tablets, or computers), or software to support telehealth services <ref type="bibr" target="#b19">[18,</ref><ref type="bibr" target="#b36">35]</ref>. Associated costs of subscriptions and costs of devices also contribute to poor access.</p><p>A cross-sectional study demonstrated that older adults living in the lowest tertile of broadband internet subscription were 40% Limited Digital Literacy • CMS should ensure that policies support the increase of digital health literacy of older adult beneficiaries through a system of accountability for health systems. • Health systems should assess a person's reason for limited digital literacy and readiness to improve their digital literacy. When applicable, health systems should provide resources to improve digital literacy. • Recognize that achieving digital literacy may not be a goal for every older adult and caregivers and therefore should not be a requirement for accessing telehealth.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Physical and Cognitive Impairments</head><p>• Health systems should design telehealth platforms that are accessible, inclusive and have processes in place to assess for physical or cognitive impairments prior to performing a telehealth visit with an older adult and should assist as much as possible with addressing each patient's needs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Caregiver Support</head><p>• Health systems should put processes in place to assess a person's caregiver supports and to address a person's need for a caregiver. With the consent of the older adult, caregivers should be included in health system efforts to increase access to telehealth. When applicable, health systems should train caregivers on the use of telehealth services to assist patients. • Health systems should have processes in place through which telehealth services can provide older adults and their families education about paid caregiver support services, including information about community-based organizations and associated costs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reimbursement and Regulatory Challenges</head><p>• Medicare beneficiaries should continue to have appropriate access to telehealth, including for audio-only services. • Payment to practices must be adequate for telehealth services.</p><p>• Agencies such as CMS, the National Institutes of Health, and health systems should support piloting of telehealth models to provide value-based care.</p><p>Limited knowledge on skills to achieve age-friendly health care</p><p>• Health Systems should deliver comprehensive, team-based care across platforms and ensure that electronic health records are designed to capture the 4Ms of geriatrics care and to account for multicomplexity with the goal of supporting person-centered care across all settings in which care is delivered.</p><p>less likely to engage in telehealth compared to older adults in the highest tertile <ref type="bibr" target="#b37">[36]</ref>. Furthermore, poor access to information and communication technology is a barrier to digital or technical literacy. Older adults may lack the appropriate devices or have difficulty using them effectively for telehealth appointments <ref type="bibr" target="#b38">[37]</ref>. This creates a digital divide and a situation of digital exclusion for certain groups, a large portion of which is comprised of older adults, exacerbating disparities <ref type="bibr" target="#b39">[38]</ref><ref type="bibr" target="#b40">[39]</ref><ref type="bibr" target="#b41">[40]</ref>.</p><p>Without interventions, this divide will continue to undermine efforts to expand telehealth services to this demographic. While government programs like Lifeline [41], a program that helps make communications services more affordable for low-income consumers, strive to bridge the affordability gap, more aggressive, standardized, accessible measures are necessary to ensure universal access to telehealth services. Policies aimed at subsidizing internet costs and providing affordable devices should be a priority <ref type="bibr" target="#b42">[42]</ref>. Accessing iPads, for example, has been shown to significantly increase digital skills and positively impact other social indicators including social isolation and connection <ref type="bibr" target="#b40">[39]</ref>. Similarly, another study showed that without technology-enabling factors, like device ownership and knowledge to use internet and devices, older age was negatively associated with telehealth; however, when the technology-enabling factors were included the association with age was no longer significant. This highlights the importance of device ownership as a factor to increase both digital literacy and telehealth adoption <ref type="bibr">[10]</ref>.</p><p>In the 2023 Medicare Advantage Plan Final Rule for 2024, CMS required plans to offer digital health education to members with low digital health literacy as a part of advancing health equity <ref type="bibr" target="#b43">[43]</ref>. Such innovative accountability frameworks have the potential to be impactful on a large scale. Currently, there is no central, easy-to-use existing public-private repository of resources to boost device ownership. Furthermore, without explicit action from FCC to create free broadband internet access and coordinating efforts to create a digitally equitable environment, progress will be limited, and the digital divide will worsen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.2">| Limited Digital Literacy</head><p>• CMS should ensure that policies support the increase of digital health literacy of older adult beneficiaries through a system of accountability for health systems.</p><p>• Health systems should assess a person's reason for limited digital literacy and readiness to improve their digital literacy. When applicable, health systems should provide resources to improve digital literacy.</p><p>Digital health literacy is a fundamental prerequisite for older adults to harness the benefits of telehealth <ref type="bibr" target="#b35">[33,</ref><ref type="bibr" target="#b37">36,</ref><ref type="bibr" target="#b44">44</ref>]. Yet, many older adults are not familiar with how to use technology, which can be a significant barrier to accessing telehealth services. They may struggle with using telehealth platforms, navigating websites or apps, or have difficulty troubleshooting technical issues. This can be due to a lack of exposure to technology in their daily lives, cognitive or visual impairments, or a lack of access to digital literacy training. This can make navigating complex health information online daunting for older adults <ref type="bibr" target="#b28">[27,</ref><ref type="bibr">45]</ref>. It is crucial to develop user-friendly, easy-to-navigate telehealth platforms that present health information in a clear and comprehensible manner, as doing so can increase positive associations with telehealth <ref type="bibr" target="#b40">[39]</ref>. Consideration should also be given to providing patients with easy access to relevant educational resources that can aid their understanding of their medical conditions and treatment options.</p><p>Health information must be accessible in multiple languages and accommodate various levels of digital literacy <ref type="bibr" target="#b37">[36,</ref><ref type="bibr" target="#b38">37,</ref><ref type="bibr" target="#b45">[46]</ref><ref type="bibr" target="#b46">[47]</ref><ref type="bibr" target="#b47">[48]</ref><ref type="bibr">[49]</ref>.</p><p>Multilingual and culturally sensitive resources should be readily available to cater to the diverse needs of older adults. Ensuring that information is presented in plain language can also be immensely beneficial, as it enhances comprehension for individuals with varying literacy levels.</p><p>Telehealth platforms should prioritize cultural competency training for healthcare providers to ensure that they can effectively communicate with and understand the unique needs of older adults from different cultural backgrounds. This extends to being aware of cultural norms, preferences, and potential barriers that might affect healthcare interactions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.3">| Physical and Cognitive Impairments</head><p>• Health systems should have processes in place to assess for physical or cognitive impairments prior to performing a telehealth visit with an older adult and should assist as much as possible in addressing each patient's needs and impairments.</p><p>Physical and cognitive impairments add complexity to telehealth for older adults <ref type="bibr" target="#b36">[35]</ref>. Importantly, visual and hearing impairments can hinder effective communication during telehealth visits <ref type="bibr" target="#b34">[32]</ref>. For example, they may have impairments in hearing or vision, which can make it challenging to communicate with their clinicians over video or phone. They may also have mobility issues, making it difficult to use a computer or smartphone to access telehealth services. Telehealth platforms should offer accessibility features like closed captions and hearing aid compatibility to address these issues. Ensuring that healthcare providers are trained to communicate effectively with individuals who have sensory impairments is crucial. This includes making use of visual aids or alternative communication methods when necessary.</p><p>Reduced mobility or fine motor skills may impact a patient's ability to use telehealth technology <ref type="bibr" target="#b12">[12,</ref><ref type="bibr" target="#b49">50]</ref>. For example, according to the Center for Health Statistics, 53.9% of adults age 75 or older report having some form of arthritis <ref type="bibr" target="#b50">[51]</ref>. Providing information and support for assistive devices, such as canes and walkers, that can aid patients with sensory or mobility impairments is essential. Additionally, telehealth platforms should offer features such as voice commands or easy-to-use interfaces tailored to individuals with varying physical abilities.</p><p>In addition, patients with cognitive impairments or dementia may struggle to understand and engage with telehealth services <ref type="bibr" target="#b51">[52]</ref><ref type="bibr" target="#b52">[53]</ref><ref type="bibr">[54]</ref>. Developing simplified user interfaces tailored to patients with cognitive impairments and encouraging caregiver involvement can help address this challenge. Healthcare providers should also receive training on how to communicate effectively with individuals who have cognitive impairments, using strategies like repetition and visual aids <ref type="bibr" target="#b54">[55]</ref>.</p><p>Encouraging caregiver involvement in telehealth visits, especially for patients with physical or cognitive challenges, is crucial <ref type="bibr" target="#b12">[12,</ref><ref type="bibr" target="#b50">51,</ref><ref type="bibr" target="#b51">52,</ref><ref type="bibr" target="#b55">56]</ref>. Caregivers are defined as those who "provide care to people who need some degree of ongoing assistance with everyday tasks on a regular basis" <ref type="bibr" target="#b57">[57]</ref>, and they can play a significant role in facilitating these interactions and ensuring that older adults receive the care they need. Privacy and consent mechanisms should be in place to include caregivers in telehealth visits when appropriate, respecting the autonomy and preferences of the older adult.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.4">| Lack of Caregiver Support</head><p>• Health systems should put processes in place to assess a person's caregiver supports and to address a person's need for a caregiver. With the consent of the older adult, caregivers should be included in health system efforts to increase access to telehealth. When applicable, health systems should train caregivers on the use of telehealth services to assist patients.</p><p>• Health systems should have processes in place to educate older adults and their families about paid caregiver support services, including information about community-based organizations and associated costs.</p><p>During the COVID 19 pandemic, caregivers found telehealth visits to be efficient, responsive, and safe, without logistic transportation barriers; these benefits of telehealth led to reduced caregiver burden <ref type="bibr" target="#b58">[58,</ref><ref type="bibr" target="#b59">59]</ref>. Other advantages of telehealth cited by caregivers of persons with dementia included avoidance of disruption in patient routines as well as decreasing pre-visit stress associated with in-person visits, including behavioral manifestations and associated stress while driving to visits <ref type="bibr" target="#b54">[55,</ref><ref type="bibr" target="#b60">60]</ref>.</p><p>Caregivers, either formal or informal ones, can help older adults access healthcare services, including telehealth, when caregivers themselves understand telehealth <ref type="bibr" target="#b36">[35]</ref>. They can be invaluable in facilitating telehealth for older adults, often playing an essential role in assisting older adults in pre-visit preparation and with the visit itself <ref type="bibr" target="#b54">[55,</ref><ref type="bibr" target="#b61">[61]</ref><ref type="bibr" target="#b62">[62]</ref><ref type="bibr" target="#b63">[63]</ref>. Caregivers who provide support to persons with chronic illness or disability can be either formal caregivers who are employed and paid or informal caregivers, who are unpaid, usually family or friends <ref type="bibr" target="#b64">[64]</ref>.</p><p>One significant challenge is that many older adults do not have access to caregivers, due to not having close family and friends, financial constraints, or limited knowledge about how to access and pay for available caregiver support services. Those with functional impairments who lack caregivers are vulnerable to inadequate telehealth services.</p><p>For those older adults who do have caregivers, offering caregiver training programs on how to use telehealth modalities can enhance caregivers' ability to support older adults before and during telehealth visits, especially in addressing the issues of limited digital literacy and physical and cognitive impairments. Such training should cover not only technical aspects but also the emotional and logistical support needed for successful telehealth interactions.</p><p>Caregivers in particular can experience high levels of stress and responsibility, particularly when caring for loved ones with complex health needs, and this can in turn lead to worse patient outcomes. During telehealth visits, clinicians should, when appropriate, directly address caregiver burden, for example by offering access to respite services. Efforts should be made to standardize and expand these programs to ensure that all caregivers have access to the support they need. This includes online resources, support groups, and helplines that can provide guidance and assistance to caregivers regardless of their location <ref type="bibr" target="#b11">[11,</ref><ref type="bibr" target="#b12">12,</ref><ref type="bibr" target="#b20">19,</ref><ref type="bibr" target="#b46">47,</ref><ref type="bibr" target="#b51">52,</ref><ref type="bibr" target="#b52">53,</ref><ref type="bibr" target="#b61">61,</ref><ref type="bibr" target="#b65">65]</ref>.</p><p>Unfortunately, not all older patients have access to caregivers, when they may in fact benefit from one to successfully remain independent in the community. Health systems should educate patients regarding caregiver support options so that those in need can benefit from caregiver assistance, including during telehealth visits.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.5">| Reimbursement and Regulatory Challenges</head><p>• Medicare beneficiaries should continue to have appropriate access to telehealth, including for audio-only services.</p><p>• Payment to practices must be adequate for telehealth services.</p><p>• CMS, utilizing its Center for Medicare and Medicaid Innovation (CMMI), and health systems should support the piloting of telehealth models to provide value-based care.</p><p>During the COVID-19 pandemic, the Department of Health and Human Services temporarily expanded reimbursement and service coverage for telehealth, including allowing for beneficiaries to receive telehealth services in their home and providing for reimbursement of audio-only services. As a result, audio-only visits were extensively utilized during the pandemic among Medicare beneficiaries <ref type="bibr" target="#b66">[66]</ref>. Similarly, nursing home residents benefited from difficult-to-access specialty and primary care services during the COVID-19 pandemic <ref type="bibr" target="#b67">[67]</ref>.</p><p>The permanent inclusion of improvements in telehealth reimbursement policies is essential to maintaining accessibility <ref type="bibr" target="#b31">[30,</ref><ref type="bibr" target="#b38">37,</ref><ref type="bibr" target="#b68">68]</ref>. Those policies should encompass a wide range of telehealth services to ensure comprehensive care. As COVID-19 waivers expire, clinicians may face reimbursement and regulatory challenges when providing telehealth services to older adults. Prior to the waivers, reimbursement policies meant that Medicare did not cover telehealth services in many instances, making it difficult for healthcare providers to offer these services. Additional challenges related to licensing and credentialing, which are governed by state regulatory policies, can make it difficult for healthcare providers to offer telehealth services across state lines, such as when an established patient has traveled to another state.</p><p>The transition away from pandemic-era policies introduces uncertainty, particularly concerning the reimbursement of certain services. Data collection and evaluation are crucial to inform future policy decisions and ensure equitable access to telehealth <ref type="bibr">[45,</ref><ref type="bibr" target="#b46">47,</ref><ref type="bibr" target="#b59">59]</ref>. Policymakers should work collaboratively with healthcare providers, consumers, and organizations to address ongoing challenges and align telehealth policies with evolving healthcare needs. Future policies should reflect refinements derived from experience during the pandemic. As an example, the COVID-19 waivers that allowed for telehealth practice across state lines introduced a complex network of service provision requirements when combined with state restrictions. The effect of this waiver is not well known <ref type="bibr" target="#b69">[69]</ref>.</p><p>There also continues to be limitations in prescribing controlled substances via telehealth. Policymakers should address these issues to provide comprehensive care via telehealth.</p><p>Collaboration with regulatory bodies and healthcare associations can help streamline prescribing practices and ensure patient safety.</p><p>Finally, CMS could continue to gain information about the impact of telehealth using its authority under CMMI to test different models of furnishing care.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.6">| Limited Knowledge and Skills to Achieve Age-Friendly Health Practices</head><p>• Health Systems should deliver comprehensive, team-based care across platforms and ensure that electronic health records are designed to capture the 4Ms of geriatrics care and to account for multicomplexity with the goal of supporting person-centered care across all settings in which care is delivered.</p><p>The World Health Organization has described age-friendly practices as being those that "recognize there is great diversity in the capacity and circumstances of older adults, anticipate and respond to older adults' needs and preferences in an equitable way, respect older people's decisions and choices, and protect the most vulnerable." <ref type="bibr">[70]</ref> Providing telehealth services to older adults requires special considerations and practices to ensure that this population is being provided with effective and equi- </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">| Summary</head><p>This position statement from AGS should be used to inform stakeholders on telehealth policies and implementation. There are numerous barriers that older adults face as they relate to receiving care via telehealth, and, with increased usage of telehealth since the COVID-19 pandemic began, those barriers threaten to widen disparities between the younger and older population. Each position that AGS outlines in this statement highlights a proactive and necessary approach to addressing those barriers. The dissemination of these practices should involve collaboration among healthcare providers, telehealth experts, and advocacy groups, and policies should be implemented at the government and health system level. By thoroughly tackling these complex issues and implementing the recommended strategies, we can foster a more inclusive, accessible, and agefriendly telehealth system for older adults, ultimately enhancing their access to and delivery of high-quality healthcare services.</p><p>Since the COVID-19 pandemic began, there has been increasing evidence that telehealth is convenient and effective, and that patients want telehealth services to continue. Telehealth has also proven to be a convenient care delivery method for older adults. It offers numerous benefits, including improved clinical outcomes, patient and caregiver experiences, and logistical and social determinant outcomes. However, as this position statement highlights, the barriers faced by older adults in accessing telehealth, including limited technology access, limited digital literacy, physical and cognitive impairments, lack of caregiver support, reimbursement and regulatory challenges to clinicians providing this care, and the need for age-friendly telehealth implementation, have the potential to widen disparities among older patients.</p><p>Policies from CMS and other agencies (e.g., FCC) as well as health systems should address these barriers. CMS should reimburse for audio-only telehealth services, telehealth services across state lines, and services performed in post-acute and long-term care settings. CMS and specifically CMMI should also prioritize and support the piloting of telehealth models to improve value-based care. Of critical importance, the FCC must ensure that telehealth is supported in rural and urban communities through broadband internet access. Health systems can address barriers to telehealth by ensuring access to technology and internet connectivity, providing resources for digital literacy, assessing and accommodating physical and cognitive impairments, supporting caregivers, and, for Age-Friendly Health Systems, promoting skills to effectively deliver Geriatric 5Ms care via telehealth. The need to make telehealth equitable and accessible to older adults is urgent, the opportunity for improved access to care, reduced healthcare costs, and better patient outcomes is significant. Ensuring age-friendly telehealth practices relies on continued federal reimbursement for diverse telehealth modalities and team member roles, licensure across state lines for the care continuum, and global dissemination of best practices. AGS recommends that future research be inclusive of diverse older adults to expand knowledge on age-friendly telehealth services.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 1 |</head><label>1</label><figDesc>Recommendations.Access to Technology• The Federal Communications Commission (FCC) should prioritize and invest in increasing reliable and affordable broadband internet access in rural and urban communities. • Health systems should advocate for universal broadband internet access for older adults through infrastructure and resources. • Health systems should offer subsidies and access to resources for affordable and accessible age-friendly devices.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>table access to care. In 2017, Tinetti et al. published a framework<ref type="bibr" target="#b70">[71]</ref> that described the 5Ms of geriatrics care-What Matters, Medication, Mentation, and Mobility-and the people who would most benefit from this type of care, older adults living with Multicomplexity. The 4Ms framework of care is at the center of the Age-Friendly Health Systems (AFHS) movement, which is a global initiative to ensure that all older adults receive 4Ms-informed care[72]. The number of health systems designated as being AFHS is growing rapidly and it is important that those health systems ensure that older adults being cared for via telehealth are receiving 4Ms-informed care. The AGS believes that the AFHS movement is an important opportunity for ensuring that all older adults have access to care that is informed by the geriatrics 4Ms and that this framework offers an actionable way of implementing and sustaining age-friendly practices across health systems.</figDesc><table><row><cell>Age-friendly health practices are pivotal for optimizing tele-</cell></row><row><cell>health for older adults; health professionals should possess</cell></row><row><cell>age-friendly telemedicine competencies accordingly [29, 73].</cell></row><row><cell>Telehealth services should align with age-friendly principles,</cell></row><row><cell>considering older adults' unique needs. This includes recog-</cell></row><row><cell>nizing the importance of "What Matters" conversations, man-</cell></row><row><cell>aging medications, monitoring mental health (mentation),</cell></row><row><cell>accommodating mobility issues, and addressing multicomplex-</cell></row><row><cell>ity [25, 27, 74].</cell></row><row><cell>One challenge is that there are currently no standardized ap-</cell></row><row><cell>proaches for assessing the 5Ms framework in telehealth.</cell></row><row><cell>Collaborative initiatives like the Collaborative for Telehealth</cell></row><row><cell>and Aging (C4TA) are actively working to develop telehealth</cell></row><row><cell>guidelines [20]. These guidelines should incorporate a compre-</cell></row><row><cell>hensive assessment of older adults' needs and align with the</cell></row><row><cell>principles of age-friendly care.</cell></row></table><note><p>Age-Friendly Health Systems should evaluate telehealth practices through data collection and outcome measurement, which is crucial to ensuring that they meet the needs of older adults and align with age-friendly principles. Data should encompass not only clinical outcomes but also patient experiences, caregiver feedback, and access metrics to continually improve telehealth services. Sharing best practices widely is essential to promote equitable access and the delivery of effective care.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>15325415, 0, Downloaded from https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.70004 by Stanford University, Wiley Online Library on [24/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The authors wish to acknowledge <rs type="person">Nancy E. Lundebjerg</rs>, <rs type="institution">MPA</rs> for her critical review of the manuscript. The authors also wish to acknowledge <rs type="person">Alanna Goldstein, MPH</rs> and <rs type="person">Anna Kim</rs>, LMSW, who provided assistance with manuscript preparation. The <rs type="funder">AGS Executive and Health Systems Innovation and Technology Committees</rs> reviewed and provided feedback on the manuscript.</p></div>
+			</div>
+			<div type="funding">
+<div><p>Financial support for the development of this paper comes exclusively from the <rs type="funder">American Geriatrics Society</rs> (AGS) operating budget.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>All authors contributed to the paper, including review of the evidence, writing, and editing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure</head><p>The authors have nothing to report.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest</head><p>Dr. Hashmi is on the Physician Advisory Board for Cognivue Inc. The other authors declare no conflicts of interest.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Buis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Singer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Solway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kirch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kullgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Malani</surname></persName>
+		</author>
+		<ptr target="https://hdl" />
+		<title level="m">Telehealth Use Among Older Adults Before and During COVID-19 (University of Michigan National Poll on Healthy Aging</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Early Impact of CMS Expansion of Medicare Telehealth During COVID-19</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Verma</surname></persName>
+		</author>
+		<idno type="DOI">10.1377/forefront.20200715.454789</idno>
+		<ptr target="https://doi.org/10.1377/forefront" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs Blog</title>
+		<imprint>
+			<biblScope unit="page">454789</biblScope>
+			<date type="published" when="2020">2020. 20200 715</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Telehealth for Providers: What You Need to Know</title>
+		<author>
+			<persName><forename type="first">Medicaid</forename><surname>Centers For Medicare</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Services</surname></persName>
+		</author>
+		<ptr target="https://www.cms.gov/files/document/telehealth-toolkit-providers.pdf" />
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Health Resources &amp; Services Administration</title>
+		<ptr target="https://telehealth.hhs.gov/providers/getting-started#types-of-telehealth" />
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note>Types of Telehealth</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Medicare Fee-for-Service Response to the Public Health Emergency on COVID-19</title>
+		<author>
+			<persName><forename type="first">Medicaid</forename><surname>Centers For Medicare</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Services</surname></persName>
+		</author>
+		<ptr target="https://" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Telemedicine Visits During COVID-19 Improved Clinic Show Rates</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Alkilany</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tarabichi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hong</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/acr2.11372</idno>
+		<ptr target="https://doi.org/10.1002/acr2.11372" />
+	</analytic>
+	<monogr>
+		<title level="j">ACR Open Rheumatology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="136" to="141" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Reduced No-Show Rates and Sustained Patient Satisfaction of Telehealth During the COVID-19 Pandemic</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Drerup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Espenschied</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wiedemer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hamilton</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/tmj.2021.0002</idno>
+		<ptr target="https://doi.org/10.1089/tmj.2021.0002" />
+	</analytic>
+	<monogr>
+		<title level="j">Telemedicine Journal and E-Health</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1409" to="1415" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Outcomes of a Telehealth Intervention for Homebound Older Adults With Heart or Chronic Respiratory Failure: A Randomized Controlled Trial</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Gellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kenaley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcginty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bardelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Davitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Have</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/geront/gnr134</idno>
+		<ptr target="https://doi.org/10.1093/geront/gnr134" />
+	</analytic>
+	<monogr>
+		<title level="j">Gerontology</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="541" to="552" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Telemedicine and Telehealth in Nursing Homes: An Integrative Review</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Groom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Stimpfel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Brody</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jamda.2021.02.037</idno>
+		<ptr target="https://doi.org/10.1016/j.jamda.2021.02.037" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Medical Directors Association</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1784" to="1801" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Outpatient Physical, Occupational, and Speech Therapy Synchronous Telemedicine: A Survey Study of Patient Satisfaction With Virtual Visits During the COVID-19 Pandemic</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Tenforde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Borgstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Polich</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/PHM.0000000000001571</idno>
+		<ptr target="https://doi.org/10.1097/PHM" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Physical Medicine &amp; Rehabilitation</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="977" to="981" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1097/PHM.0000000000001571</idno>
+		<idno>00000 001571</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Telehealth Interventions for Family Caregivers of Persons With Chronic Health Conditions: A Systematic Review of Randomized Controlled Trials</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Graven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Glueckauf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Regal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Merbitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L A</forename><surname>Lustria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>James</surname></persName>
+		</author>
+		<idno type="DOI">10.1155/2021/3518050</idno>
+		<ptr target="https://doi.org/10.1155/2021/3518050" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Telemedicine and Applications</title>
+		<imprint>
+			<biblScope unit="volume">2021</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">3518050</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Telemedicine in Diabetic Foot Care: A Systematic Literature Review of Interventions and Meta-Analysis of Controlled Trials</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tchero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Noubou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Becsangele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mukisi-Mukaza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Retali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rusch</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1534734617739195</idno>
+		<ptr target="https://doi.org/10.1177/15347" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Lower Extremity Wounds</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">739195</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Patient Attitudes Toward a Web-Based System for Monitoring Chronic Wounds</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Lowery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Hamill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Wilkins</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/tmj.2004.10.S-26</idno>
+		<ptr target="https://doi.org/10.1089/tmj.2004.10.S-26" />
+	</analytic>
+	<monogr>
+		<title level="j">Telemedicine Journal and E-Health</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">suppl 2</biblScope>
+			<biblScope unit="page" from="26" to="S34" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Wound-sWest Advisory Service Pilot: An Innovative Delivery of Wound Management</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Edmondson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prentice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fielder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mulligan</surname></persName>
+		</author>
+		<ptr target="https://www.awma.com.au/files/journal/1804_04.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Wound Practice and Research</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="180" to="188" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The Use of Technology for Mental Healthcare Delivery Among Older Adults With Depressive Symptoms: A Systematic Literature Review</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Harerimana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Forchuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>O'regan</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/inm.12571</idno>
+		<ptr target="https://doi.org/10.1111/inm.12571" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Mental Health Nursing</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="657" to="670" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Virtual Behavioral Health Treatment Satisfaction and Outcomes Across Time</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Waite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Diab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Adifesoye</surname></persName>
+		</author>
+		<idno type="DOI">10.17294/2330-0698.1918</idno>
+		<ptr target="https://doi.org/" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Patient-Centered Research and Reviews</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="158" to="165" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.17294/2330-0698.1918</idno>
+		<idno>17294/ 2330-0698. 1918</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Together-The Healing Power of Human Connection in a Sometimes Lonely World</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">H</forename><surname>Murthy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Harper Collins</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Converting a Geriatrics Clinic to Virtual Visits During COVID-19: A Case Study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Iyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mehta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weith</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/21501327211000235</idno>
+		<ptr target="https://doi.org/10.1177/" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Primary Care and Community Health</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">21501327211000235</biblScope>
+			<date type="published" when="2021">2021. 21501 32721 1000235</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Development of Telehealth Principles and Guidelines for Older Adults: A Modified Delphi Approach</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wardlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Leff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Biese</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jgs.18123</idno>
+		<ptr target="https://doi.org/10.1111/jgs.18123" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Geriatrics Society</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="371" to="382" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Barriers and Facilitators to the Use of e-Health by Older Adults: A Scoping Review</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heinsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Betts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kay-Lambkin</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12889-021-11623-w</idno>
+		<ptr target="https://doi.org/10.1186/s12889-021-11623-w" />
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1556</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Telemedicine and Dementia Care: A Systematic Review of Barriers and Facilitators</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Yi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Nieman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Oh</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jamda.2021.03.015</idno>
+		<ptr target="https://doi.org/10.1016/j.jamda.2021.03.015" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Medical Directors Association</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1396" to="1402" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">KFF COVID-19 Vaccine Monitor: December 2020</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hamel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kirzinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Muñana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brodie</surname></persName>
+		</author>
+		<ptr target="https://www.kff.org/coronavirus-covid-19/report/kff-covid-19-vaccine-monitor-december-2020" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Older Adults&apos; Perspectives on Primary Care Telemedicine During the COVID-19 Pandemic</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bhatia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gilliam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Aliberti</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jgs.18035</idno>
+		<ptr target="https://doi.org/10.1111/jgs.18035" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Geriatrics Society</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="3480" to="3492" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Interstate Telehealth Use by Medicare Beneficiaries Before and After COVID-19 Licensure Waivers</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Andino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Surapaneni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Dunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ellimoottil</surname></persName>
+		</author>
+		<idno type="DOI">10.1377/hlthaff.2021.01825</idno>
+		<ptr target="https://doi.org/10.1377/hlthaff.2021.01825" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs (Millwood)</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="838" to="845" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Objectives, Outcomes, Facilitators, and Barriers of Telemedicine Systems for Patients With Alzheimer&apos;s Disease and Their Caregivers and Care Providers: A Systematic Review</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Amiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Niazkhani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Pirnejad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shojaeibaghini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bahaadinbeigy</surname></persName>
+		</author>
+		<idno type="DOI">10.34172/aim.2022.90</idno>
+		<ptr target="https://doi.org/10.34172/aim.2022.90" />
+	</analytic>
+	<monogr>
+		<title level="j">Medicine</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="564" to="573" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>Archives of Iranian</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Medicare Beneficiaries in Disadvantaged Neighborhoods Increased Telemedicine Use During the COVID-19 Pandemic</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Q</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Makary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Hicks</surname></persName>
+		</author>
+		<idno type="DOI">10.1377/hlthaff.2021.01706</idno>
+		<ptr target="https://doi.org/10.1377/hlthaff.2021.01706" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs (Millwood)</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="635" to="642" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Perceived Benefits of Geriatric Specialty Telemedicine Among Rural Patients and Caregivers</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Dryden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Conti</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1475-6773.14055</idno>
+		<ptr target="https://doi.org/10.1111/1475-6773.14055" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Services Research</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="26" to="35" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">IN-HOME-PD Caregivers: The Effects of a Combined Home Visit and Peer Mentoring Intervention for Caregivers of Homebound Individuals With Advanced Parkinson&apos;s Disease</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Fleisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Suresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Klostermann</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.parkreldis.2022.11.014</idno>
+		<ptr target="https://doi.org/10.1016/j.parkreldis.2022.11.014" />
+	</analytic>
+	<monogr>
+		<title level="j">Parkinsonism &amp; Related Disorders</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page">105222</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Telehealth With Older Adults: Getting It Right</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Biese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Handler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wardlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Agha</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jgs.18090</idno>
+		<ptr target="https://doi.org/10.1111/jgs.18090" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Geriatrics Society</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="3359" to="3361" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Improving Access to Care: Telemedicine Across Medical Domains</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Waddell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Dorsey</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-publhealth-090519-093711</idno>
+		<ptr target="https://doi.org/" />
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Public Health</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="463" to="481" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1146/annurev-publhealth-090519-093711</idno>
+		<idno>ealth -09051 9-093711</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">Medicaid</forename><surname>Centers For Medicare</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Services</surname></persName>
+		</author>
+		<ptr target="https://data.cms.gov/sites/default/files/2023-03/" />
+		<title level="m">Medicare Telehealth Trends Report</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>Medic are% 20Tel eheal th% 20Tre nds% 20Sna pshot% 20202 30308_ 508. pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Telemedicine Interventions for Older Adults: A Systematic Review</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Şahin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Yavuz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Veizi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Naharci</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1357633X211058340</idno>
+		<ptr target="https://doi.org/10.1177/1357633" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Telemedicine and Telecare</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">1058340</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Exploring Telehealth Readiness in a Resource Limited Setting: Digital and Health Literacy Among Older People in Rural India (DAHLIA)</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Rasekaba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">V</forename><surname>Rani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mckechnie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Blackberry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><forename type="middle">L</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Moss</surname></persName>
+		</author>
+		<idno type="DOI">10.22605/RRH8162</idno>
+		<ptr target="https://doi.org/10.22605/RRH8162" />
+	</analytic>
+	<monogr>
+		<title level="m">Reducing Rural Isolation Through Music: Telehealth Music Therapy for Community Dwelling People Living With Dementia and Their Family Caregivers in Rural Ireland</title>
+		<imprint>
+			<date type="published" when="2022">2022. 2023</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">8162</biblScope>
+		</imprint>
+	</monogr>
+	<note>Geriatrics</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Barriers to Telehealth Access Among Homebound Older Adults</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Kalicki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Moody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Franzosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Gliatto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ornstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jgs.17163</idno>
+		<ptr target="https://doi.org/10.1111/jgs.17163" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Geriatrics Society</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2404" to="2411" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Neighborhood Broadband and Use of Telehealth Among Older Adults: Cross-Sectional Study of National Survey Data Linked With Census Data</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Okoye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Mulcahy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Fabius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Burgdorf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Wolff</surname></persName>
+		</author>
+		<idno type="DOI">10.2196/26242</idno>
+		<ptr target="https://doi.org/10.2196/26242" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Internet Research</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">26242</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Accessibility and Utilisation of Telehealth Services Among Older Adults During COVID-19 Pandemic in the United States</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Ng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Silverman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Eckhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Guest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Díaz</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/hsc.13709</idno>
+		<ptr target="https://doi.org/10.1111/hsc.13709" />
+	</analytic>
+	<monogr>
+		<title level="j">Health &amp; Social Care in the Community</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="2657" to="e2669" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Current Status and Influencing Factors of Digital Health Literacy Among Community-Dwelling Older Adults in Southwest China: A Cross-Sectional Study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fu</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12889-022-13378-4</idno>
+		<ptr target="https://doi.org/10.1186/s12889-022-13378-4" />
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">996</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Reducing the Digital Divide: Connecting Older Adults to iPad Technology</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Delello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Mcwhorter</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0733464815589985</idno>
+		<ptr target="https://doi.org/10.1177/07334" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Gerontology</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">589985</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Broadband Internet Access Is a Social Determinant of Health!</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Benda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Veinot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Sieck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Ancker</surname></persName>
+		</author>
+		<idno type="DOI">10.2105/AJPH.2020.305784</idno>
+		<ptr target="https://www.fcc.gov/lifeline-consumers" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Public Health</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1123" to="1125" />
+			<date type="published" when="2020">2020. 2024</date>
+		</imprint>
+	</monogr>
+	<note>Lifeline Support for Affordable Communications</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">eHealth Literacy Among Older Adults Living With Cancer and Their Caregivers: A Scoping Review</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Saldanha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sattar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Hasse</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jgo.2021.11.008</idno>
+		<ptr target="https://doi.org/10.1016/j.jgo.2021.11.008" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Geriatric Oncology</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="555" to="562" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Medicare Advantage and Part D final Rule (CMS-4201-F)</title>
+		<author>
+			<persName><forename type="first">Medicaid</forename><surname>Centers For Medicare</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Services</surname></persName>
+		</author>
+		<ptr target="https://www.cms.gov/newsroom/fact-sheets/2024-medicare-advantage-and-part-d-final-rule-cms-4201-f" />
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Comparison of eHealth Literacy Scale (eHEALS) and Digital Health Literacy Instrument (DHLI) in Assessing Electronic Health Literacy in Chinese Older Adults: A Mixed-Methods Approach</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K H</forename><surname>Mo</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph20043293</idno>
+		<ptr target="https://doi.org/10.3390/ijerp" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Environmental Research and Public Health</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">3293</biblScope>
+			<date type="published" when="2004">2021. 2023. 2004</date>
+		</imprint>
+	</monogr>
+	<note>Journal of Medical Internet Research</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Patient Preferences Using Telehealth During the COVID-19 Pandemic in Four Victorian Tertiary Hospital Services</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hickey</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/imj.15726</idno>
+		<idno>24/09/2025</idno>
+		<ptr target="https://onlinelibrary.wiley.com/terms-and-conditions" />
+	</analytic>
+	<monogr>
+		<title level="m">See the Terms and Conditions</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="763" to="769" />
+		</imprint>
+		<respStmt>
+			<orgName>by Stanford University, Wiley Online Library</orgName>
+		</respStmt>
+	</monogr>
+	<note>on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Assessment of Patient Preferences for Telehealth in Post-COVID-19 Pandemic Health Care</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Predmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Breslau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Uscher-Pines</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jamanetworkopen.2021.36405</idno>
+		<ptr target="https://doi.org/10.1001/jamanetworkopen.2021.36405" />
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Network Open</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">2136405</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Personalized Telehealth: Redesigning Complex Care Delivery for the 65+ During the COVID Pandemic: A Survey of Patients, Caregivers, and Health-Care Providers</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rauch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Belanger</surname></persName>
+		</author>
+		<idno type="DOI">10.5770/cgj.26.641</idno>
+		<ptr target="https://doi.org/" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Geriatrics Journal</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="150" to="175" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Perceptions of Telehealth Among Older U.S. Adults During the COVID-19 Pandemic: A National Survey</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Marquis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Malani</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1357633X231166031</idno>
+		<ptr target="https://doi.org/10.1177/1357633" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Telemedicine and Telecare</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">1166031</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Telerehabilitation for Stroke Survivors: Systematic Review and Meta-Analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tchero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tabue-Teguo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lannuzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rusch</surname></persName>
+		</author>
+		<idno type="DOI">10.2196/10867</idno>
+		<ptr target="https://doi.org/10.2196/10867" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Internet Research</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">10867</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Arthritis in Adults Age 18 and Older: United States</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Elgaddal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Kramarow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Weeks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Reuben</surname></persName>
+		</author>
+		<idno type="DOI">10.15620/cdc:145594</idno>
+		<ptr target="https://doi.org/10.15620/cdc" />
+	</analytic>
+	<monogr>
+		<title level="j">NCHS Data Brief</title>
+		<imprint>
+			<biblScope unit="volume">497</biblScope>
+			<biblScope unit="page">145594</biblScope>
+			<date type="published" when="2022">2022. 2024</date>
+			<publisher>National Center for Health Statistics</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Technology Caregiver Intervention for Alzheimer&apos;s Disease (I-CARE): Feasibility and Preliminary Efficacy of Brain CareNotes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Kercher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Jordan</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jgs.18591</idno>
+		<ptr target="https://doi.org/10.1111/jgs.18591" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Geriatrics Society</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="3836" to="3847" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Feasibility of Telehealth Occupational Therapy for Behavioral Symptoms of Adults With Dementia: Randomized Controlled Trial</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Rhodus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Baum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kryscio</surname></persName>
+		</author>
+		<idno type="DOI">10.5014/ajot.2023.050124</idno>
+		<ptr target="https://doi.org/10.5014/ajot.2023" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Occupational Therapy</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">7704205010</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Does Telehealth Delivery of a Dyadic Dementia Care Program Provide a Noninferior Alternative to Face-To-Face Delivery of the Same Program? A Randomized, Controlled Trial</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Laver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Clemson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jagp.2020.02.009</idno>
+		<ptr target="https://doi.org/10.1016/j.jagp.2020.02.009" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Geriatric Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="673" to="682" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Promoting Serious Illness Conversations in Primary Care Through Telehealth Among Persons Living With Cognitive Impairment</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Gabbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Brenes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Callahan</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jgs.19100</idno>
+		<ptr target="https://doi.org/10.1111/jgs" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Geriatrics Society</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="3022" to="3034" />
+			<date type="published" when="2024">2024. 19100</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Dementia Caregiver Virtual Support-An Implementation Evaluation of Two Pragmatic Models During COVID-19</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Weems</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rhodes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Powers</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/geriatrics6030080</idno>
+		<ptr target="https://doi.org/10" />
+	</analytic>
+	<monogr>
+		<title level="j">Geriatrics</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">80</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.3390/geriatrics6030080</idno>
+		<idno>3390/ geria trics 6030080</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Additional COVID-19 Guidance for Caregivers of People Living With Dementia in Community Settings</title>
+		<ptr target="https://stacks.cdc.gov/view/cdc/93525" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+		<respStmt>
+			<orgName>Centers for Disease Control and Prevention</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Caregiver Experience of Tele-Dementia Care for Older Veterans</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Iyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ngo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Humber</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11606-023-08188-2</idno>
+		<ptr target="https://doi.org/10.1007/s11606-023-08188-2" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of General Internal Medicine</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="2960" to="2969" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Caregiving for Older Adults With Dementia During the Time of COVID-19: A Multi-State Exploratory Qualitative Study</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sadler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brauner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Pollack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Konetzka</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/07334648231175414</idno>
+		<ptr target="https://doi.org/10.1177/07334" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Gerontology</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="64823" to="1175414" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Telehealth Support for Dementia Caregivers During the COVID-19 Pandemic: Lessons Learned From the NYU Family Support Program</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>O'connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nicholson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Epstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jagp.2022.08.005</idno>
+		<ptr target="https://doi.org/10.1016/j.jagp.2022.08.005" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Geriatric Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="14" to="21" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Informal Caregiving and Its Impact on Health: A Reappraisal From Population-Based Studies</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fredman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Haley</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/geront/gnu177</idno>
+		<ptr target="https://doi.org/10.1093/geront/gnu177" />
+	</analytic>
+	<monogr>
+		<title level="j">Gerontologist</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="309" to="319" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">COVID-19 and UK Family Carers: Policy Implications</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Onwumere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Creswell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Livingston</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S2215-0366(21)00206-6</idno>
+		<ptr target="https://doi.org/10.1016/S2215-0366" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="206" to="206" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">US Prevalence and Predictors of Informal Caregiving for Dementia</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Shih</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Langa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Hurd</surname></persName>
+		</author>
+		<idno type="DOI">10.1377/hlthaff.2015.0510</idno>
+		<ptr target="https://doi.org/10.1377/hlthaff.2015.0510" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs (Millwood)</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1637" to="1641" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Caregiving for People With Dementia or Cognitive Impairment During the COVID-19 Pandemic: A Review</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chyu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cantu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mehta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Markides</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/23337214221132369</idno>
+		<ptr target="https://doi.org/10.1177/" />
+	</analytic>
+	<monogr>
+		<title level="j">Gerontology and Geriatric Medicine</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2022">2022. 23337 21422 1132369</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">A Multiple Stakeholder Perspective on the Impact of COVID-19 on Dementia Care</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Masoud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Glassner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rhodes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mendoza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Meyer</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/23743735221112208</idno>
+		<ptr target="https://doi.org/10.1177/23743" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Patient Experience</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">1112208</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Disparities in Audio-Only Telemedicine Use Among Medicare Beneficiaries During the Coronavirus Disease 2019 Pandemic</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Benjenk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Franzini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Roby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/MLR.0000000000001631</idno>
+		<ptr target="https://doi.org/" />
+	</analytic>
+	<monogr>
+		<title level="j">Medical Care</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1014" to="1022" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Telemedicine Visits in US Skilled Nursing Facilities</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ulyte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mehrotra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Wilcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Steelfisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Grabowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Barnett</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jamanetworkopen.2023.29895</idno>
+		<ptr target="https://doi.org/10.1001/jamanetworkopen.2023.29895" />
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Network Open</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">2329895</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Staying Connected in the COVID-19 Pandemic: Telehealth at the Largest Safety-Net System in the United States</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Knudsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jackson</surname></persName>
+		</author>
+		<idno type="DOI">10.1377/hlthaff.2020.00903</idno>
+		<ptr target="https://doi.org/10.1377/hlthaff.2020.00903" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs (Millwood)</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1437" to="1442" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">The State of Telehealth Before and After the COVID-19 Pandemic</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shaver</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pop.2022.04.002</idno>
+		<idno>pop. 2022. 04. 002. 70</idno>
+		<ptr target="https://www.who.int/teams/social-determinants-of-health/demographic-change-and-healthy-ageing/age-friendly-environments" />
+	</analytic>
+	<monogr>
+		<title level="j">Age-Friendly Environments</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="517" to="530" />
+			<date type="published" when="2022-06-06">2022. June 6, 2025</date>
+		</imprint>
+	</monogr>
+	<note>Primary Care</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">trics journ al. ca/ blog-1-1/ updat e-publi c-launc h-of-the-geria tric-5ms</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Molnar</surname></persName>
+		</author>
+		<ptr target="https://www.ihi.org/networks/initiatives/age-friendly-health-systems" />
+	</analytic>
+	<monogr>
+		<title level="m">The Public Launch of the Geriatrics 5Ms</title>
+		<imprint>
+			<date type="published" when="2017-04-17">2017. April 17, 2024</date>
+			<biblScope unit="volume">72</biblScope>
+		</imprint>
+	</monogr>
+	<note>Age-Friendly Health Systems. What Is an Age-Friendly Health System?</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Competencies for Video Telemedicine With Older Adult Patients</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Powers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Van Zuilen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Schwartz</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jgs.18246</idno>
+		<ptr target="https://doi.org/" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Geriatrics Society</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1283" to="1290" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1111/jgs.18246</idno>
+		<imprint>
+			<date type="published" when="1111">1111/ jgs. 18246</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">The Added Value of Art for the Well-Being of Older People With Chronic Psychiatric Illnesses and Dementia Living in Long-Term Care Facilities, and on the Collaboration Between Their Caregivers and Artists</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Boersma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Van Der Ploeg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J J</forename><surname>Gobbens</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/healthcare9111489</idno>
+		<idno>24/09/2025</idno>
+		<ptr target="https://onlinelibrary.wiley.com/terms-and-conditions" />
+	</analytic>
+	<monogr>
+		<title level="m">healt hcare 9111489. 15325415, 0, Downloaded from</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">1489</biblScope>
+		</imprint>
+	</monogr>
+	<note>See the Terms and Conditions. on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

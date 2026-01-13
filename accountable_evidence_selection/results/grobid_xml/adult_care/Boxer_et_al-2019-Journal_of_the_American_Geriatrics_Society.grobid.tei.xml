@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">When Women Rise, We All Rise: American Geriatrics Society Position Statement on Achieving Gender Equity in Geriatrics</title>
+				<funder>
+					<orgName type="full">Beers Criteria Expert Panel</orgName>
+				</funder>
+				<funder ref="#_EReqRhg">
+					<orgName type="full">American Geriatrics Society</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2019-10">2019-10</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MD, MS</roleName><forename type="first">Rebecca</forename><surname>Boxer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Health Research</orgName>
+								<orgName type="institution">Kaiser Permanente Colorado</orgName>
+								<address>
+									<settlement>Denver</settlement>
+									<region>Colorado</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Mary</forename><surname>Norman</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Erickson Living</orgName>
+								<address>
+									<settlement>Dallas</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">‡ ‡ DeBakey VA Medical Center</orgName>
+								<orgName type="laboratory">American Geriatrics Society</orgName>
+								<orgName type="institution">Baylor College of Medicine</orgName>
+								<address>
+									<settlement>New York Houston</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Peter</forename><surname>Abadir</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Geriatrics Medicine and Gerontology</orgName>
+								<orgName type="institution">Johns Hopkins University School of Medicine</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PharmD, BCGP, AGSF</roleName><forename type="first">Judith</forename><forename type="middle">L</forename><surname>Beizer</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD, APRN, CNP</roleName><forename type="first">Mary</forename><surname>Dierich</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">St John&apos;s University College of Pharmacy and Health Science</orgName>
+								<address>
+									<region>Queens New York</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Samantha</forename><surname>Lau</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">University of Minnesota School of Nursing</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>Minnesota</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Icahn School of Medicine at Mount Sinai</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PharmD, BCPS, BCGP</roleName><forename type="first">Sunny</forename><forename type="middle">A</forename><surname>Linnebur</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution">University of Colorado Skaggs School of Pharmacy</orgName>
+								<address>
+									<settlement>Aurora</settlement>
+									<region>Colorado; †</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MPA</roleName><forename type="first">Nancy</forename><forename type="middle">E</forename><surname>Lundebjerg</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Erickson Living</orgName>
+								<address>
+									<settlement>Dallas</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">‡ ‡ DeBakey VA Medical Center</orgName>
+								<orgName type="laboratory">American Geriatrics Society</orgName>
+								<orgName type="institution">Baylor College of Medicine</orgName>
+								<address>
+									<settlement>New York Houston</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Aanand</forename><forename type="middle">D</forename><surname>Naik</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Erickson Living</orgName>
+								<address>
+									<settlement>Dallas</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Geriatrics Medicine and Gerontology</orgName>
+								<orgName type="institution">Johns Hopkins University School of Medicine</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">‡ ‡ DeBakey VA Medical Center</orgName>
+								<orgName type="laboratory">American Geriatrics Society</orgName>
+								<orgName type="institution">Baylor College of Medicine</orgName>
+								<address>
+									<settlement>New York Houston</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, AGSF, § §</roleName><forename type="first">Robert</forename><surname>Schreiber</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Geriatrics Medicine and Gerontology</orgName>
+								<orgName type="institution">Johns Hopkins University School of Medicine</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>Maryland</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">St John&apos;s University College of Pharmacy and Health Science</orgName>
+								<address>
+									<region>Queens New York</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, MHA, AGSF, ¶ ¶</roleName><forename type="first">Kathleen</forename><surname>Unroe</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">St John&apos;s University College of Pharmacy and Health Science</orgName>
+								<address>
+									<region>Queens New York</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">University of Minnesota School of Nursing</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>Minnesota</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anna</forename><forename type="middle">L</forename><surname>Mikhailovich</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Erickson Living</orgName>
+								<address>
+									<settlement>Dallas</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">University of Minnesota School of Nursing</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>Minnesota</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">‡ ‡ DeBakey VA Medical Center</orgName>
+								<orgName type="laboratory">American Geriatrics Society</orgName>
+								<orgName type="institution">Baylor College of Medicine</orgName>
+								<address>
+									<settlement>New York Houston</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>MPH</roleName><forename type="first">Alanna</forename><forename type="middle">C</forename><surname>Goldstein</surname></persName>
+							<email>agoldstein@americangeriatrics.org</email>
+							<affiliation key="aff1">
+								<orgName type="institution">Erickson Living</orgName>
+								<address>
+									<settlement>Dallas</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">University of Minnesota School of Nursing</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>Minnesota</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">‡ ‡ DeBakey VA Medical Center</orgName>
+								<orgName type="laboratory">American Geriatrics Society</orgName>
+								<orgName type="institution">Baylor College of Medicine</orgName>
+								<address>
+									<settlement>New York Houston</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Erickson Living</orgName>
+								<address>
+									<settlement>Dallas</settlement>
+									<region>Texas</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">University of Minnesota School of Nursing</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>Minnesota</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">‡ ‡ DeBakey VA Medical Center</orgName>
+								<orgName type="laboratory">American Geriatrics Society</orgName>
+								<orgName type="institution">Baylor College of Medicine</orgName>
+								<address>
+									<settlement>New York Houston</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="institution">Texas; § § Summit ElderCare</orgName>
+								<address>
+									<settlement>Worcester</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="institution">Indiana University School of Medicine</orgName>
+								<address>
+									<settlement>Indianapolis</settlement>
+									<region>Indiana</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff10">
+								<orgName type="department">Floor</orgName>
+								<address>
+									<postCode>10038</postCode>
+									<settlement>New York</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">When Women Rise, We All Rise: American Geriatrics Society Position Statement on Achieving Gender Equity in Geriatrics</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of the American Geriatrics Society</title>
+						<title level="j" type="abbrev">J American Geriatrics Society</title>
+						<idno type="ISSN">0002-8614</idno>
+						<idno type="eISSN">1532-5415</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">67</biblScope>
+							<biblScope unit="issue">12</biblScope>
+							<biblScope unit="page" from="2447" to="2454"/>
+							<date type="published" when="2019-10" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">2B87F9042CCBBCEF1708EAADE6A31E34</idno>
+					<idno type="DOI">10.1111/jgs.16195</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-11-07T06:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>gender equity</term>
+					<term>gender wage gap</term>
+					<term>healthcare workforce</term>
+					<term>women</term>
+					<term>women in geriatrics</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Supporting gender equity for women working in geriatrics is important to the growth of geriatrics across disciplines and is critical in achieving our vision for a future in which we are all able to contribute to our communities and maintain our health, safety, and independence as we age. Discrimination can have a negative impact on public health, particularly with regard to those who care for the health of older Americans and other vulnerable older people. Women working in the field of geriatrics have experienced implicit and explicit discriminatory practices that mirror available data on the entire workforce. In this position article, we outline strategic objectives and accompanying practical recommendations for how geriatrics, as a field, can work together to achieve a future in which the rights of women are guaranteed and women in geriatrics have the opportunity to achieve their full potential. This article represents the official positions of the</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>T he American Geriatrics Society (AGS) is a nationwide, not-for-profit society of geriatrics healthcare professionals dedicated to improving the health, independence, and quality of life of older people. Our nearly 6000 members include geriatricians (and other physicians), nurses, nurse practitioners, pharmacists, physical therapists, physician assistants, social workers, and other healthcare professionals who focus on care of older adults.</p><p>Currently, women comprise 60% of AGS members, 66% of AGS committee members, and 56% of the Board of Directors. Since the society's inception in 1942, 20% of AGS presidents have been women. From 2009 to 2019, the percentage of female presidents rose to 70%, consistent with overall membership. Over the years, there has also been a notable increase in women's representation within the leadership of the Association of Directors of Geriatric Academic Programs (Figure <ref type="figure">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>OUR VISION FOR THE FUTURE OF WOMEN IN GERIATRICS</head><p>We believe in a future in which everyone who chooses a career associated with the care of older adults is treated equally. To achieve this future, the rights of all must be guaranteed, regardless of gender (including gender identity, sexual orientation, and pregnancy), race, color, religion, disability, age, or national origin. When we achieve this vision, women in geriatrics will all have the opportunity to reach their full potential.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RATIONALE</head><p>AGS believes that discrimination in the workplace can have a negative impact on public health, particularly with regard to those who care for the health of older Americans and other vulnerable older people. We recognize that women in geriatrics have experienced implicit and explicit discriminatory practices that mirror available data on the entire workforce, including those employed in healthcare. According to a 2017 survey by the Pew Research Center, 42% of working women in the United States say they have faced discrimination on the job because of their gender. <ref type="bibr" target="#b0">1</ref> We know that gender discrimination is even more common for women who are members of racial and ethnic minorities. <ref type="bibr" target="#b0">1</ref> In a recent 2018 analysis, the Pew Research Center found that, across the workforce, women earned 85% of the compensation of men in comparable positions. <ref type="bibr" target="#b1">2</ref> Figure <ref type="figure" target="#fig_0">2</ref> highlights the wage gap for female health professionals. As a specialty, geriatric medicine is one of the lowest paid; AGS has been working to increase compensation for geriatrics clinicians. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4</ref> We recognize that this work does not specifically address the gender wage gap in geriatric medicine, which is 15% according to a recent Doximity survey. <ref type="bibr">5</ref> In a 2018 position statement, the American College of Physicians exposed the pay inequity that exists for women physicians, including those in academic medicine, and identified additional barriers to their ability to advance in their careers. <ref type="bibr" target="#b4">6</ref> On May 12, 2019, the editors of JAMA highlighted recent research and opinions published in JAMA, JAMA Internal Medicine, and JAMA Surgery related to gender inequities in medicine. <ref type="bibr" target="#b5">7</ref> In addition, there is extensive research funded by the National Institutes of Health, which documents persistent gender inequity for faculty in the biomedical sciences. <ref type="bibr">8</ref> Specific data are not available for other geriatricstrained health professionals. A 2017 Washington Post report, however, found a range of gender pay gaps across professions and occupations, with women being paid less in all professions: in nursing, a profession that is predominantly female, there was a 7% gap between women and men; similar gaps are seen among dentists (23% less), psychologists (overall 17% less, with variations based on practice site), pharmacists (5% less), social workers (3% less), and physical therapists (8% less). <ref type="bibr" target="#b6">9</ref> Gender-related wage gaps also exist for direct care workers, who provide the majority of handson care for older people. The 2017 Washington Post report found that hourly wages for personal care aides and nursing, psychiatric, and home health aides were higher for men than Women Who Lead: AGS and ADGAP</p><p>Growth in Female Leadership (2009-2019) Board Members AGS ADGAP 47% 56% 44% 62% Committee Members AGS 46% 66% 60% of AGS members are women (2019) Female Presidents AGS 20% (since inception) 70% (2009-2019) ADGAP 45% (since 2000)</p><p>Figure <ref type="figure">1</ref>. Women who lead: American Geriatrics Society (AGS) and Association of Directors of Geriatric Academic Programs (ADGAP).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Wage Gap for Female Health Professionals</head><p>-7% -23% -17% -5% -3% -8% -5% -9% Nurses Dentists Psychologists Social Workers Nursing Aides, Psychiatric Aides, and Home Health Aides Physical Therapists Personal Care Aides Pharmacists Baseline for Average Salary women: $10.36 male vs $9.84 female (5% difference) and $13.10 male vs $11.93 female (9% difference), respectively. 9 Discrepancy in pay is only one of several examples of how women face discrimination in the workplace. According to the 2017 Pew Research Center survey, pay inequity was the most common form of gender discrimination reported by women. <ref type="bibr" target="#b0">1</ref> Other forms of discrimination, however, included being passed over for major assignments, not having access to senior mentors, and not being promoted in a timely fashion. <ref type="bibr" target="#b0">1</ref> Not surprisingly, women continue to lag behind men in terms of their representation in leadership roles across industries. <ref type="bibr" target="#b6">9</ref> In medicine, for example, women represent 40% of all physicians and surgeons but only 16% of permanent medical school deans. <ref type="bibr" target="#b7">10</ref> Currently, women make up the largest demographic (60%) of caregivers in the United States. <ref type="bibr">11</ref> Women are often driven to assume the role of primary caregiver due to social and cultural expectations to conform to traditional gender roles in family life. <ref type="bibr" target="#b8">12</ref> Over the past two decades, the high cost and limited availability of child care in the United States has affected the ability of women to work outside the home. <ref type="bibr" target="#b9">13</ref> The lack of programs and policies in the United States to support and enable women to take time away from work to care for family members during their prime career and childbearing years, and at older ages, also affects the decisions that women make about where and how long they work.</p><p>The federal Family and Medical Leave Act (FMLA) entitles eligible employees up to 12 weeks of unpaid leave each year to recover from their own serious health conditions or to care for a newborn, a newly adopted child, or a seriously ill family member. <ref type="bibr" target="#b10">14</ref> However, approximately 40% of the workforce is not eligible for leave under the FMLA and millions of those who are eligible cannot afford to take unpaid leave. <ref type="bibr" target="#b11">15</ref> Table <ref type="table" target="#tab_2">1</ref> outlines which employers are covered by the FMLA and when employees are eligible to take FMLA leave. Unlike most other developed nations, the United States does not have a federal law that guarantees paid family or medical leave. <ref type="bibr" target="#b12">16</ref> Just 17% of the workforce has paid family leave through their employers, and less than 40% has personal medical leave through an employer-provided short-term disability program. <ref type="bibr" target="#b14">17</ref> Working families lose an estimated $20.6 billion in wages each year due to a lack of access to paid family and medical leave. <ref type="bibr" target="#b15">18</ref> In a national survey of physician mothers, 52.9% reported over $10 000 of lost income during leave, with maternity leave included in less than 30% of female physicians' most recent contracts. <ref type="bibr" target="#b16">19</ref> Trainees whose training includes employment (eg, geriatrics fellows) often do not meet the requirements for FMLA leave and their career trajectory can be seriously impacted due to the formal requirements set by the Accreditation Council for Graduate Medical Education and by the structure of graduate medical education funding. <ref type="bibr" target="#b17">20</ref> Family caregiving also has a significant impact on working women. For example, of mothers, 39% report taking a significant amount of time off from work to care for a child or other family member. <ref type="bibr" target="#b1">2</ref> Women also provide the majority of care to older adults. <ref type="bibr" target="#b18">21</ref> This is particularly true for mid-career women who face competing demands on their time in the form of caring for aging parents or parents-in-law and children. <ref type="bibr">11</ref> Research using data from the Health and Retirement Study from the University of Michigan found that women faced with caregiving in midlife were 8% less likely to work, and that after providing care, were 4% less likely to continue working. <ref type="bibr" target="#b19">22</ref> Hispanic and Asian Americans are more likely to live in multigenerational homes than white families, which suggests that they may be more likely to be caring for an older family member. <ref type="bibr" target="#b20">23</ref> Caregiving responsibilities often require family caregivers to make changes in the workplace, regardless of gender identity. The Caregiving in the U.S. 2015 survey found that approximately 15% of male caregivers caring for an aging parent or an ill spouse took a leave of absence or went from working full-time to part-time to provide care. 11 Further, studies have shown benefits with shared caregiving responsibilities. For example, paternity leave is associated with increased father engagement and bonding; improved health for children; shared chores with the mother; improved work/life balance for fathers; and increased employment and pay for mothers. <ref type="bibr" target="#b21">24</ref> Workplace sexual harassment, as illustrated by the "Me Too" movement, remains a significant and pervasive problem. The Pew survey found that women are approximately three times more likely than men to have experienced sexual harassment while at work (22% vs 7%). <ref type="bibr" target="#b0">1</ref> More often, however, discriminatory harassment is expressed subtly through what are known as microaggressions. <ref type="bibr" target="#b22">25</ref> Some examples of microaggressions, which can be intentional or unintentional, include: being mistaken as someone more junior, having your judgment questioned in your area of expertise, and having your work contributions ignored more frequently than male colleagues. In a recent survey, 64% of women reported that they had experienced microaggressions at work. <ref type="bibr" target="#b23">26</ref> Why is it important for us to focus on ensuring that the rights of women are guaranteed and why is it particularly important that women working in geriatrics have the opportunity to reach their full potential? As documented by the Institute of Medicine in 2008, there has been a shortage of health professionals with specific training in caring for older adults for some time. <ref type="bibr" target="#b24">27</ref> More recently (2017), the Health Resources and Services Administration released an analysis of the geriatrician workforce that predicted that the shortage of geriatricians would continue to increase in all regions in the United States. <ref type="bibr" target="#b25">28</ref> In geriatric medicine, the geriatrics workforce for which we have the most data, 51% of all geriatricians with active board certification are women. <ref type="bibr" target="#b26">29,</ref><ref type="bibr">30</ref> Of geriatricians actively certified since 1996, the first year that completion of geriatrics fellowship training was required for certification, 59% are women. <ref type="bibr" target="#b26">29,</ref><ref type="bibr">30</ref> Further, 68% of the 1250 geriatricians who earned initial board certification between 2014 and 2018 are women, with 70% of American Board of Internal Medicine and 64% of American Board of Family Medicine diplomates being women. <ref type="bibr" target="#b26">29,</ref><ref type="bibr">30</ref> Of geriatric psychiatry residents (fellows), 72% were women in the 2017 to 2018 academic year. <ref type="bibr" target="#b27">31</ref> There are more than 4400 board-certified geriatric pharmacists, <ref type="bibr" target="#b28">32</ref> and nearly 11% of nurse practitioners are certified in gerontology <ref type="bibr" target="#b29">33</ref> -both female-dominated disciplines. Although we do not have data specific to geriatrics certification for all other health disciplines, we know that women comprise 80% of the workforce caring for older adults in general. <ref type="bibr" target="#b30">34</ref> Of home care workers, 87%, and 91% of nursing assistants in nursing homes are women, <ref type="bibr" target="#b31">35</ref> and this workforce is providing most of hands-on care for older people. As to the future, we also know that there is a shift toward greater representation of women in hospice and palliative medicine (HPM); 61.7% of HPM fellows in the 2015 to 2016 class were women. <ref type="bibr" target="#b32">36</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head><p>The strategic objectives for achieving our vision are a result of deliberation among AGS leaders and members who are passionate about achieving gender equity. In developing these strategic objectives, a writing group composed of members of the AGS Public Policy Committee, Women in Geriatrics Section, and the Fellow-in-Training group reviewed similar statements and position papers from other organizations (both medical and nonmedical), relevant</p><p>Table 2. Achieving gender equity for women in geriatrics, recommendations for employers</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Addressing discrimination</head><p>• Establish a task force that includes women and minorities to review existing policies to identify those that create inequities for women in the workplace and proactively work to change these policies so as to create a level playing field. • Implement policies that ensure identifying and addressing existing inequities in how individuals are identified, groomed, and selected for leadership and advancement opportunities. • Provide regular and recurring implicit and explicit bias training (including attention to microaggressions) to all employees and implement policies and procedures that address implicit bias.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Addressing gender pay discrepancies</head><p>• Review compensation and benefits across employees to determine if there are inequities in how existing policies are being implemented and take steps to address those inequities. • Share salary ranges, benefits, and information about other supports with all employees.</p><p>• Establish a process for annually reviewing compensation packages (salary + benefits + other supports) for all employees to assure equity is being maintained. • Establish a requirement that compensation packages (salary + benefits + other supports) offered to women are equivalent to those offered to men in similar positions with the same skills. • Establish policies regarding calculation of part-time pay for salaried employees so that it is based on full-time equivalents for employees in similar positions. Family and medical leave</p><p>• Offer at least 12 weeks of paid family and medical leave policies to all employees and encourage all employees to take advantage of these benefits. • Offer flexible arrangements that support employees in balancing their personal and professional responsibilities, including part-time employment tracks, work from home arrangements, and flexible schedules. • Establish organizational policies to prevent penalties for employees taking leave, such as increasing an individual's workload (either before or after a leave [eg, scheduling "makeup" clinical time or increased call]). • Develop protocols for covering the work of an employee who is on leave; these could include hiring additional coverage or providing additional vacation days and/or bonus pay for those providing coverage for employees who are out on leave. • Provide any needed reentry training or courses for employees returning to the workforce after an extended leave. • Provide flexibility in career paths that recognizes the diversity of personal and professional needs that employees may have with explicit attention to encouraging men to assume greater responsibility for family caregiving responsibilities throughout their professional lives.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Advancing women into leadership</head><p>• Implement policies that address existing inequities in how individuals are identified, groomed, and selected for leadership and advancement opportunities, including a requirement that women be engaged in these policy decisions. • Address implicit and explicit gender bias in hiring decisions and performance reviews with a specific focus on ensuring that criteria are objective, measurable, and fairly applied, regardless of gender identity. • Provide mentoring, coaching, and leadership skills development to all employees to develop the skills that they need to succeed and to help position them to provide the same support to the next generation. • Establish a formal mentoring and sponsorship program and encourage both women and men to mentor women so that women have equal access to senior leaders.</p><p>literature, reports focused on gender issues, and media coverage of this issue. The writing group made two key decisions in writing this article. The first was that given the overwhelming evidence of inequities across professions in the workplace, there was no need to develop a separate rationale for each of the strategic objectives outlined below. Second, the group determined that these strategic objectives are aspirational and should serve as a roadmap for organizations, women, and men as we work together to achieve true equity for women in geriatrics. We refined our vision and strategic objectives in multiple ways. We reviewed initiatives focused on ensuring that women are treated equally in the workforce, including Lean In, the American College of Physicians, and the Society for Human Resource Management. Additionally, we incorporated feedback from our members who participated in a plenary session at the 2019 AGS Annual Scientific Meeting. Using an anonymous polling platform, we polled attendees on whether they agree, disagree, or are unsure about each of the 14 statements. There was overwhelming support for these statements, with an average of 469 attendees responding to each statement. Following the meeting, the language of some statements was modified based on the polling data as well as open-ended feedback from attendees regarding practical steps for implementation of this work.</p><p>Following the 2019 AGS Annual Scientific Meeting, the writing group worked to refine the strategic objectives and accompanying practical recommendations presented here for how geriatrics, as a field, can work together to attain a future in which the rights of women are guaranteed and women in geriatrics have the opportunity to achieve their full potential. Although we have included separate sections specific to academics, trainees, and the direct care workforce, all recommendations include women pursuing these careers or who are still in training. For the direct care workforce, AGS believes that there are several policy changes (eg, paid family medical leave and workplace safety measures) that would positively impact the lives of the many individuals who are providing direct care to older Americans. The final statement was reviewed and approved by AGS leadership in June 2019.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>STRATEGIC OBJECTIVES FOR ACHIEVING OUR VISION FOR WOMEN IN GERIATRICS</head><p>The AGS believes that supporting gender equity for women working in geriatrics is important to the growth of geriatrics across disciplines and is critical in achieving our vision for a future in which we are all able to contribute to our communities and maintain our health, safety, and independence as we age. We believe in a future in which all older people have access to high-quality, person-centered care, informed by geriatrics knowledge and skills.</p><p>Discrimination 1. Eliminate discrimination based on race, color, religion, gender (including gender identity and sexual orientation), pregnancy, parental status, disability, age, or national origin. 2. Eliminate discrimination based on reproductive choices, including having children biologically, having children with a surrogate, choosing to adopt, or choosing not to have children.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compensation and Benefits</head><p>3. Determine compensation and benefits based on expertise, experience, knowledge, and skills, regardless of personal identity characteristics, including gender identity.</p><p>Table <ref type="table">3</ref>. Achieving gender equity for women in geriatrics, recommendations for leaders</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Addressing discrimination</head><p>• Advocate for and lead changes to organizational policies that create inequities in the workplace.</p><p>• Participate in formal training programs and learn to recognize and address your own implicit biases and model best practices for your peers and colleagues. • Ensure that all employees receive training on how they can recognize and address their own implicit bias and steps they can take to support gender diversity in the workplace.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Addressing pay discrepancies</head><p>• Advocate for pay parity for all employees, regardless of gender identity.</p><p>• Advocate for and lead policies that ensure that part-time salaried employees are compensated based on salaries and benefits for full-time employees that are prorated based on hours worked. • Encourage women to negotiate and annually review employee compensation packages (salary + benefits + other supports) to be sure they are equitable and fair. Family and medical leave</p><p>• Encourage your employees to take maternity, paternity, or other family leave and have a proactive policy for discussing and planning how their work will be covered while they are on leave.</p><p>• Offer flexible arrangements that support your employees in balancing their personal and professional responsibilities, including part-time work, flexible full-time schedules, and work from home arrangements. • Assess your own work/life balance and be open about what you might have done differently with the goal of creating an environment that recognizes that your employees have a diversity of interests and responsibilities outside of work. • Recognize and support employees who are assuming additional responsibilities while others are on leave by providing bonuses, additional time off, or other benefits to individuals who are covering for another employee while they are out.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Advancing women into leadership</head><p>• Ensure that selection committees and hiring bodies are diverse and that there is a systematic approach to hiring and promotion decisions that is objective, transparent, and fair to all employees. • Support and mentor women so they are poised to grow in their careers and assume leadership roles, including putting them forward for key assignments, committees, and leadership roles. • Amplify women's voices by making sure they are heard and credited for their work.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Determine part-time compensation for geriatrics health</head><p>professionals based on a prorated model of equivalent compensation and benefits provided to full-time employees with the same title and responsibilities. 5. Allow for flexibility and adjustment of time-based parameters for promotion should an employee need to reduce his/her hours worked or take leave due to illness or family responsibilities.</p><p>Family and Medical Leave 6. Enact federal and state policies that require employers to offer up to 12 weeks of paid family and medical leave for all employees when they take time for their own serious health conditions or to provide care to a family member. 7. Encourage employers to budget for coverage of employees who are on leave.</p><p>Women in Geriatrics Pursuing Academic Careers 8. Offer academic supports (including administrative, research, clinical, and teaching) and compensation and benefits that are equitable, regardless of gender identity. 9. Provide flexibility in time-based policies governing promotion and tenure, grant funding, and academic workload to support those who choose to work part-time or need to take leave for caregiving or other responsibilities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trainees</head><p>10. Establish family and medical leave policies for trainees whose training includes employment that provide up to 12 weeks of paid leave when they take time for their own serious health conditions (including pregnancy) or to provide care for a family member. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Advancing women into leadership</head><p>• Serve as a mentor to female colleagues who are more junior than you.</p><p>• Establish informal peer-to-peer mentoring groups that are inclusive of both women and men.</p><p>• Be sure all colleagues are credited for their ideas and that they are heard (eg, if someone is interrupted, speak up and say you would like to hear him/her finish). • Advocate for diverse teams that include all genders and ethnicities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendations for Women Addressing discrimination</head><p>• Know and use data about gender bias to call out implicit and explicit gender bias when it occurs.</p><p>• Speak out in support of other women in geriatrics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Addressing pay discrepancies</head><p>• Research and know the total compensation (salary + benefits + other supports) for someone with your education, skills, and experience. • Negotiate on hiring, when up for promotion (and tenure in the case of academics), and ask for compensation equivalent to that being offered to others with similar credentials, experience, and skills. Family and medical leave</p><p>• For planned family and medical leave (eg, maternity): Set expectations about your availability to answer questions about your projects while you are out on leave (recognizing that there are likely some issues where your guidance would be helpful and ensure projects remain on track). Begin working with your supervisor and colleagues early to plan for your absence. One practical step to take is to develop and share a biweekly status report with your supervisor so that she/he is aware of where your projects stand approximately 1 month before your leave is planned to start. • For unplanned leave (eg, unexpected illness or caregiving responsibilities):</p><p>Be clear about what your immediate needs are and indicate you will check in with your supervisor to update him/her on how things are evolving. Should you find that you need to take extended leave, discuss with your supervisor how best to transition projects to another team member and identify those projects/tasks that could be deferred until your return. Advancing women into leadership</p><p>• Seek out both male and female senior mentors and establish informal peer-to-peer mentoring groups that are inclusive of both women and men. • Be sure your colleagues are credited for their ideas and that they are heard (if someone is interrupted, speak up and say you would like to hear him/her finish).</p><p>• Have confidence in yourself and keep pushing forward. 11. Create flexible training and certification standards that support trainees who need to take family or medical leave. Direct Care Workforce 12. Enact federal and state policies that support the largely female direct care workforce by increasing compensation and benefits, strengthening training requirements and opportunities, creating advanced roles, and improving equity and access to long-term care. Leadership 13. Increase the number of women in geriatrics who are leading programs, divisions, centers, organizations, and institutions. Research 14. Determine best strategies for identifying and addressing barriers that impede women of different professions in geriatrics from advancing in their careers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PRACTICAL RECOMMENDATIONS FOR ACHIEVING CHANGE</head><p>Tables 1-4 provide some practical recommendations for steps that employers, current leaders, men, and women can take to ensure that women in geriatrics are reaching their full potential. These recommendations are based on existing resources that address what we all can do to achieve gender equity across the workforce. <ref type="bibr" target="#b5">7,</ref><ref type="bibr" target="#b33">[37]</ref><ref type="bibr" target="#b34">[38]</ref><ref type="bibr" target="#b35">[39]</ref><ref type="bibr" target="#b36">[40]</ref><ref type="bibr" target="#b37">[41]</ref><ref type="bibr" target="#b38">[42]</ref> </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. The wage gap for female health professionals.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1 .</head><label>1</label><figDesc>FMLA requirements</figDesc><table><row><cell>Covered Employers</cell></row><row><cell>• Private-sector employer, with 50 or more employees in 20</cell></row><row><cell>or more work weeks in the current or preceding calendar</cell></row><row><cell>year, including a joint employer or successor in interest to</cell></row><row><cell>a covered employer;</cell></row><row><cell>• Public agency, including a local, state, or federal</cell></row><row><cell>government agency, regardless of the number of</cell></row><row><cell>employees it employs; or</cell></row><row><cell>• Public or private elementary or secondary school,</cell></row><row><cell>regardless of the number of employees it employs.</cell></row><row><cell>Eligible Employees</cell></row><row><cell>• Works for a covered employer;</cell></row><row><cell>• Has worked for the employer for at least 12 months;</cell></row><row><cell>• Has at least 1250 hours of service for the employer during</cell></row><row><cell>the 12-month period immediately preceding the leave</cell></row><row><cell>(special hours of service eligibility apply to airline flight</cell></row><row><cell>crew employees); and</cell></row><row><cell>• Works at a location where the employer has at least 50</cell></row><row><cell>employees within 75 miles</cell></row></table><note><p>Note. Source: https://www.dol.gov/whd/regs/compliance/whdfs28.htm. Abbreviation: FMLA, Family and Medical Leave Act.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 4 .</head><label>4</label><figDesc>Achieving gender equity for women in geriatricsKnow and use data about gender bias to call out implicit and explicit gender bias when it occurs.• Speak out in support of women in geriatrics when you observe implicit or explicit gender bias.Addressing pay discrepancies• Advocate for equal compensation (salary + benefits + other supports) across your organization that is based on education, skills, and experience, regardless of gender identity. • When responsible for hiring or promotion decisions, ensure that the compensation being offered is equivalent to that being offered to others with similar credentials, experience, and skills, regardless of gender identity. • Encourage and support women colleagues to negotiate compensation (salary + benefits + supports) that is equitable. Family and medical leave• Take advantage of paternity and family leave and be open about the ways in which you balance your work/life responsibilities. • Volunteer for office "housekeeping" tasks that typically fall to women, including training new employees, serving as the note taker, and participating in event planning.</figDesc><table><row><cell cols="2">Recommendations for Male Colleagues</cell></row><row><cell>Addressing discrimination</cell><cell>•</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>ACKNOWLEDGMENTS Conflict of Interest: 1. J.B. received honoraria for editing and consulting from the <rs type="funder">American Geriatrics Society</rs> for the Geriatrics Review Syllabus 10th Edition (<rs type="grantNumber">GRS10</rs>), <rs type="institution">Geriatrics Evaluation &amp; Management tools, Geriatrics Workforce Enhancement Program Coordinating Center Advisory Committee</rs>, and the <rs type="funder">Beers Criteria Expert Panel</rs>. 2. M.D. serves on the Board of Directors of Minnesota Nurse Practitioners as treasurer. 3. Authors A.C.G., A.D.N., A.L.M., K.U., M.N., N.E.L., P.A., R.B., R.S., S.A.L., and S.L. have no conflicts of interest to disclose.</p><p>Author Contributions: All authors contributed to this article. The authors wish to acknowledge the <rs type="institution">American Geriatrics Society Executive Committee</rs> for its critical review of the manuscript.</p><p>Sponsor's Role: None.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_EReqRhg">
+					<idno type="grant-number">GRS10</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Gender Discrimination Comes in Many Forms for Today&apos;s Working Women</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Funk</surname></persName>
+		</author>
+		<ptr target="https://www.pewresearch.org/fact-tank/2017/12/14/gender-discrimination-comes-in-many-forms-for-todays-working-women/" />
+	</analytic>
+	<monogr>
+		<title level="j">Pew Research Center</title>
+		<imprint>
+			<biblScope unit="issue">online</biblScope>
+			<date type="published" when="2019-04-15">April 15, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The Narrowing, But Persistent, Gender Gap in Pay</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Graf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Patten</surname></persName>
+		</author>
+		<ptr target="https://www.pewresearch.org/fact-tank/2019/03/22/gender-pay-gap-facts/" />
+		<imprint>
+			<date type="published" when="2019-04-11">April 11, 2019</date>
+			<publisher>Pew Research Center</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Hard work, big changes: American Geriatrics Society efforts to improve payment for geriatrics care</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Hollmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Zorowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Lundebjerg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Lazaroff</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jgs.15593</idno>
+		<ptr target="https://doi.org/10.1111/jgs.15593" />
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2059" to="2064" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Putting complex older persons first: how the Centers for Medicare and Medicaid Services 2019 payment proposal fails older Americans</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Lundebjerg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Trucil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Saliba</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jgs.15651</idno>
+		<ptr target="https://doi.org/10.1111/jgs.15651" />
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="145" to="150" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Achieving gender equity in physician compensation and career advancement: a position paper of the American College of Physicians</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Burkus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Moyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Bornstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="721" to="723" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">JAMA Network Listserv Discussion</title>
+		<author>
+			<persName><forename type="first">Happy</forename><surname>Mother</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">'</forename><surname>Day</surname></persName>
+		</author>
+		<ptr target="http://read.alerts.jamanetwork.com/csb/Public/show/axac" />
+		<imprint>
+			<date type="published" when="2019">2019. 12eoo3-krt6t-1b7k24u0. May 29, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">X</forename><surname>Gv</surname></persName>
+		</author>
+		<ptr target="https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/?noredirect=on&amp;utm_term=" />
+		<title level="m">Can we talk about the gender pay gap? The Washington Post (online)</title>
+		<imprint>
+			<date type="published" when="2019-04-11">April 11, 2019</date>
+			<biblScope unit="volume">6079</biblScope>
+			<biblScope unit="page">745</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">The Women&apos;s Leadership Gap</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Warner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ellmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boesch</surname></persName>
+		</author>
+		<ptr target="https://www.americanprogress.org/issues/women/reports/2018/11/20/461273/womens-leadership-gap-2/" />
+		<imprint>
+			<date type="published" when="2019-04-16">April 16, 2019</date>
+			<publisher>Center for American Progress</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Because it&apos;s the wife who has to look after the man&quot;: a descriptive qualitative study of older women and the intersection of gender and the provision of family caregiving at the end of life</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Giddings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bellamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Palliat Med</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="223" to="230" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The Child Care Crisis Is Keeping Women Out of the Workforce</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Schochet</surname></persName>
+		</author>
+		<ptr target="https://www.americanprogress.org/issues/early-childhood/reports/2019/03/28/467488/child-care-crisis-keeping-women-workforce/" />
+		<imprint>
+			<date type="published" when="2019-05-16">May 16, 2019</date>
+			<publisher>Center for American Progress</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Family and Medical Leave Act of 1993</title>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">2601</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<ptr target="http://www.nationalpartnership.org/our-work/workplace/fmla.html" />
+		<title level="m">Family and Medical Leave Act. National Partnership for Women &amp; Families (online)</title>
+		<imprint>
+			<date type="published" when="2019-04-12">April 12, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Health policy brief: paid family and medical leave</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Findlay</surname></persName>
+		</author>
+		<idno type="DOI">10.1377/hpb20161121.577157/full/</idno>
+		<ptr target="https://www.healthaffairs.org/do/10.1377/hpb20161121.577157/full/" />
+	</analytic>
+	<monogr>
+		<title level="m">Health Affairs (online)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Accessed</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019-04-12">April 12, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<ptr target="https://www.bls.gov/ncs/ebs/benefits/2018/employee-benefits-in-the-united-states-march-2018.pdf" />
+		<title level="m">Employee Benefits in the United States</title>
+		<imprint>
+			<date type="published" when="2018-03">March 2018. April 12, 2019</date>
+			<biblScope unit="volume">16</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>National Compensation Survey ; U.S. Bureau of Labor Statistics</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">The Cost of Work-Family Policy Inaction: Quantifying the Costs Families Currently Face as a Result of Lacking U.S. Work-Family Policies</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Glynn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Corley</surname></persName>
+		</author>
+		<ptr target="https://www.americanprogress.org/issues/women/reports/2016/09/22/143877/the-costof-inaction" />
+		<imprint>
+			<date type="published" when="2019-04-12">April 12, 2019</date>
+			<publisher>Center for American Progress</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Impact of procedural training on pregnancy outcomes and career satisfaction in female postgraduate medical trainees in the United States</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Davids</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Scully</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Melnitchouk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Surg</title>
+		<imprint>
+			<biblScope unit="volume">225</biblScope>
+			<biblScope unit="page" from="411" to="418" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Parental leave in graduate medical education: recommendations for reform</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vassallo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jeremiah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Forman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.amjmed.2018.11.006</idno>
+		<ptr target="https://doi.org/10.1016/j.amjmed.2018.11.006" />
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="385" to="389" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Paid family leave: an emerging benefit for employed family caregivers of older adults</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Feinberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="1336" to="1341" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Women working longer: labor market implications of providing family care</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fahle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mcgarry</surname></persName>
+		</author>
+		<editor>Goldin C, Katz LF</editor>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Women Working Longer: Increased Employment at Older Ages</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A Record 64 Million Americans Live in Multigenerational Homes</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Passel</surname></persName>
+		</author>
+		<ptr target="https://www.pewresearch.org/fact-tank/2018/04/05/a-record-64-million-americans-live-in-multigenerational-households/" />
+	</analytic>
+	<monogr>
+		<title level="m">Pew Research Center (online)</title>
+		<imprint>
+			<date type="published" when="2019-05-16">May 16, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<ptr target="https://www.dol.gov/asp/policy-development/PaternityBrief.pdf" />
+		<title level="m">DOL Policy Brief: Paternity Leave: Why Parental Leave for Fathers Is So Important for Working Families. U.S. Department of Labor (online)</title>
+		<imprint>
+			<date type="published" when="2019-05-16">May 16, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Microaggressions: more than just race</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Sue</surname></persName>
+		</author>
+		<ptr target="https://www.psychologytoday.com/us/blog/microaggressions-in-everyday-life/201011/microaggressions-more-just-race" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychology today</title>
+		<imprint>
+			<date type="published" when="2019-04-16">April 16, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Women in the Workplace 2018</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Krivkovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Nadeau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robinson</forename><forename type="middle">K</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Starikova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Yee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<ptr target="https://www.mckinsey.com/featured-insights/gender-equality/women-in-the-workplace-2018" />
+	</analytic>
+	<monogr>
+		<title level="j">McKinsey &amp; Company</title>
+		<imprint>
+			<date type="published" when="2019-04-15">April 15, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m">Retooling for an Aging America: Building the Health Care Workforce</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>The National Academies Press</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Health Resources and Services Administration, National Center for Health Workforce Analysis. 2017. National and Regional Projections of Supply and Demand for Geriatricians: 2013-2025</title>
+		<imprint>
+			<publisher>U.S. Department of Health and Human Services</publisher>
+			<pubPlace>Rockville, Maryland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Provided by Bradly Brossman, PhD, at the American Board of Internal Medicine</title>
+		<imprint/>
+	</monogr>
+	<note>email communication</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Publications-and-Resources/Graduate-Medical-Education-Data-Resource-Book</title>
+		<ptr target="https://www.acgme.org/About-Us/" />
+		<imprint>
+			<date type="published" when="2019-06-03">June 3, 2019</date>
+			<biblScope unit="page" from="2017" to="2018" />
+		</imprint>
+	</monogr>
+	<note>ACGME Data Resource Book Accreditation Council for Graduate Medical Education</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">Geriatric</forename><surname>Pharmacy</surname></persName>
+		</author>
+		<ptr target="https://www.bpsweb.org/bps-specialties/geriatric-pharmacy/" />
+		<title level="m">Board of Pharmacy Specialties (online)</title>
+		<imprint>
+			<date type="published" when="2019-06-04">June 4, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">American Association of Nurse Practitioners (online</title>
+		<ptr target="https://www.aanp.org/about/all-about-nps/np-fact-sheet" />
+	</analytic>
+	<monogr>
+		<title level="j">NP Fact Sheet</title>
+		<imprint>
+			<date type="published" when="2019-06-04">June 4, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Labor Force Statistics From the Current Population Survey</title>
+		<ptr target="https://www.bls.gov/cps/cpsaat18.htm" />
+		<imprint>
+			<date type="published" when="2019-04-11">April 11, 2019</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Bureau of Labor Statistics (online</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">PHI (online)</title>
+		<ptr target="https://phinational.org/resource/the-direct-care-workforce-year-in-review-2018/" />
+	</analytic>
+	<monogr>
+		<title level="j">The Direct Care Workforce: Year in Review</title>
+		<imprint>
+			<date type="published" when="2018-04-15">2018. April 15, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Profile of Active Hospice and Palliative Medicine Physicians</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Quigley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Salsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lupu</surname></persName>
+		</author>
+		<ptr target="http://aahpm.org/uploads/AAHPM17_WorkforceStudy_July_2017_Profile_Final.pdf" />
+		<imprint>
+			<date type="published" when="2016-06-03">2016. June 3, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<ptr target="https://leanin.org/education" />
+		<title level="m">Build Your Skills. Lean In (online)</title>
+		<imprint>
+			<date type="published" when="2019-04-25">April 25, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">10 Tips to Fight Gender Discrimination</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Segal</surname></persName>
+		</author>
+		<ptr target="https://www.shrm.org/hr-today/news/hr-magazine/pages/010215-gender-discrimination.aspx" />
+	</analytic>
+	<monogr>
+		<title level="m">SHRM (online)</title>
+		<imprint>
+			<date type="published" when="2019-04-25">April 25, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">How to Ensure Gender Equality in the Workplace</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lucas</surname></persName>
+		</author>
+		<ptr target="https://www.thebalancecareers.com/create-workplace-gender-equality-4134484" />
+	</analytic>
+	<monogr>
+		<title level="m">The Balance Careers (online)</title>
+		<imprint>
+			<date type="published" when="2019-04-25">April 25, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Things Employers Can Do to Improve Gender Equality in the Workplace</title>
+		<ptr target="https://www.nextgeneration.ie/blog/2018/04/workplace-gender-equality" />
+	</analytic>
+	<monogr>
+		<title level="j">Next Generation (online)</title>
+		<imprint>
+			<date type="published" when="2019-04-25">April 25, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Initiative on Women in Science and Engineering Working Group, Solomon SL. Seven actionable strategies for advancing women in science, engineering, and medicine</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Arlotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Watt</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.stem.2015.02.012</idno>
+		<ptr target="https://doi.org/10.1016/j.stem.2015.02.012" />
+	</analytic>
+	<monogr>
+		<title level="j">Cell Stem Cell</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="221" to="224" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<ptr target="37/UploadedImages/Documents/resources/ABIM_Time_Away_from_Training_FAQ_and_Vignettes.pdf" />
+		<title level="m">ABIM Time Away From Training. Alliance for Academic Internal Medicine (online)</title>
+		<imprint>
+			<date type="published" when="2019">58a-0e31-416b-8e56. May 30, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
